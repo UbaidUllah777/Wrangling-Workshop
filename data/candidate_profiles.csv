@@ -1,0 +1,13 @@
+CandidateID,Name,Years of Experience,Skills
+1,"Alice",5,"Python, TensorFlow, NLP"
+2,"Bob",2,"Java, Machine Learning"
+3,"Charlie",8,"Python, Deep Learning, Computer Vision"
+4,"David",3,"R, Statistics, Data Analysis"
+5,"Eve",6,"Python, PyTorch, Reinforcement Learning"
+6,"Frank",1,"SQL, Data Engineering"
+7,"Grace",4,"Python, Cloud Computing, ML Ops"
+8,"Heidi",7,"C++, Robotics, AI"
+9,"Ivan",2,"Python, Scikit-learn"
+10,"Judy",9,"Deep Learning, NLP, Deployment"
+11,"Kelly",3,"Data Analysis, Visualization"
+12,"Liam",5,"TensorFlow, Keras"

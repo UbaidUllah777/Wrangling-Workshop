@@ -1,0 +1,2001 @@
+CandidateName,Years of Experience,Skills,Degree,Major,University
+Joseph Willis,4.0,"Python, TensorFlow, NLP, PyTorch",PhD,Statistics,University of British Columbia
+Michael Carney,9.0,"Cloud Computing, ML Ops",Associate,Data Science,University of Alberta
+Cheryl Fletcher,9.0,"Scikit-learn, Reinforcement Learning",PhD,AI,Queen's University
+Danielle Russo,2.0,"Deep Learning, Reinforcement Learning",Master,Software Engineering,Queen's University
+Lawrence Richards,0.0,"R, Statistics, NLP, PyTorch, Java, Machine Learning",Bachelor,Data Science,University of British Columbia
+Amy Harrison,6.0,"Cloud Computing, ML Ops",PhD,Machine Learning,University of Alberta
+Jasmine White,8.0,"NLP, PyTorch",Associate,AI,University of Waterloo
+Barbara Kemp,10.0,Computer Vision,Associate,Computer Science,Queen's University
+Peter Russell,9.0,"Java, Machine Learning, SQL, Data Analysis, Cloud Computing, ML Ops",Bachelor,Machine Learning,Western University
+Morgan Garcia,3.0,"R, Statistics, Java, Machine Learning, Scikit-learn",PhD,Statistics,University of Alberta
+Rodney Mullins III,4.0,"Python, TensorFlow, NLP, PyTorch",Associate,Statistics,Queen's University
+Keith Castro,10.0,"R, Statistics, Reinforcement Learning",Associate,AI,Queen's University
+Jonathan Gomez,9.0,Computer Vision,Associate,Statistics,University of Waterloo
+James Smith,0.0,Deep Learning,Associate,Statistics,McGill University
+Karen Jones,7.0,Deep Learning,Master,Computer Science,Queen's University
+Patrick Cole,0.0,Scikit-learn,Master,AI,University of Alberta
+Heather Ward,4.0,"Python, TensorFlow",Associate,Machine Learning,York University
+Barbara Cortez,3.0,Deep Learning,PhD,Software Engineering,McMaster University
+Joseph Chapman,0.0,Computer Vision,Bachelor,Machine Learning,McMaster University
+Willie Dixon,4.0,"Java, Machine Learning",Master,Software Engineering,McGill University
+Ryan Scott,9.0,"NLP, PyTorch",Bachelor,AI,University of Waterloo
+Justin Stephenson,8.0,"SQL, Data Analysis",Bachelor,Software Engineering,University of Toronto
+James Smith,9.0,"Cloud Computing, ML Ops, Computer Vision",PhD,Computer Science,McGill University
+John Lawson,4.0,"NLP, PyTorch",Bachelor,AI,Queen's University
+Tara Bryant,2.0,"Cloud Computing, ML Ops, Deep Learning",PhD,Statistics,University of Waterloo
+Patrick Wilson,3.0,"Computer Vision, Deep Learning, Scikit-learn",PhD,AI,University of Alberta
+Stacy Wilson,8.0,Scikit-learn,Master,Data Science,McMaster University
+William Bell,7.0,"Scikit-learn, Deep Learning, SQL, Data Analysis",Master,Software Engineering,University of British Columbia
+David Jones,4.0,Reinforcement Learning,Master,Statistics,Western University
+Brandon Johnson,7.0,"Cloud Computing, ML Ops",Bachelor,Computer Science,McGill University
+Natasha Williamson,3.0,"Deep Learning, Java, Machine Learning",Bachelor,Statistics,McMaster University
+Jenny White,8.0,"NLP, PyTorch",Master,Computer Science,University of British Columbia
+Rodney Zimmerman,,Computer Vision,Master,Software Engineering,McGill University
+Joseph Hunt,5.0,"SQL, Data Analysis",Bachelor,Statistics,McMaster University
+Lawrence Nunez,10.0,"Cloud Computing, ML Ops, Python, TensorFlow, Java, Machine Learning",Associate,AI,York University
+Barbara Ward,0.0,"Computer Vision, Python, TensorFlow",Master,Computer Science,University of British Columbia
+Sydney Monroe,1.0,"Java, Machine Learning, Computer Vision, Reinforcement Learning",PhD,Data Science,University of Waterloo
+Jasmine Sandoval,5.0,"Reinforcement Learning, R, Statistics",Associate,AI,York University
+Monica Reed,0.0,"Computer Vision, Reinforcement Learning",Bachelor,Software Engineering,Queen's University
+Jamie Avila,,"Scikit-learn, SQL, Data Analysis, Deep Learning",Master,AI,McGill University
+Alfred Reyes,6.0,"R, Statistics, Java, Machine Learning, Computer Vision",Bachelor,Machine Learning,University of Alberta
+Joel Alvarez,4.0,"NLP, PyTorch",Bachelor,Machine Learning,McGill University
+Jerry Rios,3.0,"R, Statistics",Bachelor,Machine Learning,McMaster University
+Thomas Carter,1.0,"R, Statistics, Java, Machine Learning, Deep Learning",Associate,AI,University of Alberta
+Robert Mooney,4.0,"Python, TensorFlow",Master,Computer Science,McGill University
+Erik Sandoval,9.0,"SQL, Data Analysis, Scikit-learn, NLP, PyTorch",Master,Statistics,University of Alberta
+Krista Lewis,3.0,"Computer Vision, Scikit-learn, R, Statistics",Master,Software Engineering,University of Waterloo
+Stephanie Odonnell,4.0,"Python, TensorFlow",Associate,Machine Learning,Western University
+Mark Boyer,4.0,"Cloud Computing, ML Ops, Reinforcement Learning",Master,Data Science,University of Ottawa
+Jeremy Norman,8.0,"NLP, PyTorch, R, Statistics",Master,Machine Learning,University of Toronto
+Matthew Bowen,9.0,"NLP, PyTorch",Bachelor,Statistics,University of Ottawa
+Sally Davies,,"NLP, PyTorch, Scikit-learn, Deep Learning",Associate,Statistics,University of Ottawa
+Curtis Thompson,5.0,Deep Learning,PhD,Statistics,University of Toronto
+Alexis Fowler,,"R, Statistics, Reinforcement Learning, Scikit-learn",Bachelor,AI,University of British Columbia
+Tracey Clark,4.0,"NLP, PyTorch",PhD,AI,York University
+Jeffrey Nicholson,3.0,"Scikit-learn, Cloud Computing, ML Ops, NLP, PyTorch",Bachelor,Machine Learning,McGill University
+Shelia Ferguson,2.0,"NLP, PyTorch, Python, TensorFlow",Master,Computer Science,University of Waterloo
+Daniel Norman,3.0,Scikit-learn,Master,Data Science,Queen's University
+Bill Cannon,,"Python, TensorFlow, Cloud Computing, ML Ops",PhD,Software Engineering,University of Ottawa
+Julia Hall,0.0,Reinforcement Learning,PhD,Machine Learning,York University
+Anthony Ross,7.0,"Cloud Computing, ML Ops, Deep Learning",Associate,Data Science,University of Alberta
+James Beck,0.0,"Computer Vision, Java, Machine Learning, Reinforcement Learning",Master,Machine Learning,University of Ottawa
+Sarah Barr,2.0,Deep Learning,Master,AI,York University
+Karl Wallace,2.0,"Java, Machine Learning",Associate,AI,Queen's University
+Steve Ortiz,10.0,"SQL, Data Analysis",Bachelor,Machine Learning,McMaster University
+Anthony Jackson,1.0,"NLP, PyTorch, R, Statistics, Cloud Computing, ML Ops",Associate,Computer Science,McMaster University
+Brandon Oneal,0.0,"R, Statistics, Computer Vision, Python, TensorFlow",Master,AI,University of Toronto
+Megan Allen,5.0,"Deep Learning, Scikit-learn, Reinforcement Learning",PhD,AI,York University
+Dr. James Jackson,,"Python, TensorFlow",Master,AI,University of Alberta
+Gabrielle Perkins,10.0,"Scikit-learn, R, Statistics",Bachelor,Software Engineering,University of Alberta
+Charles Parker,0.0,"SQL, Data Analysis",Master,Computer Science,University of Alberta
+Robin Finley PhD,2.0,"Reinforcement Learning, Java, Machine Learning",Bachelor,Machine Learning,McMaster University
+Mary Garcia,9.0,"Deep Learning, NLP, PyTorch",Associate,Software Engineering,Queen's University
+Dawn Carson,5.0,"NLP, PyTorch",Bachelor,Computer Science,McMaster University
+Ronald Gardner,4.0,"Reinforcement Learning, Computer Vision",Master,Software Engineering,University of Toronto
+Tonya Harris,8.0,"Deep Learning, Cloud Computing, ML Ops, Scikit-learn",Master,Data Science,University of Ottawa
+Joel Barrett,9.0,"Deep Learning, Cloud Computing, ML Ops",Associate,Data Science,Western University
+Terri Humphrey,9.0,"Computer Vision, Python, TensorFlow",Master,Statistics,University of Waterloo
+Grace Heath,10.0,"R, Statistics",PhD,Data Science,Queen's University
+Steven Carter,3.0,"Scikit-learn, Python, TensorFlow, Cloud Computing, ML Ops",Bachelor,Statistics,University of Toronto
+Brittany Craig,10.0,Computer Vision,Master,AI,Queen's University
+Courtney Sanchez,6.0,"Cloud Computing, ML Ops, NLP, PyTorch, Scikit-learn",Associate,Statistics,Queen's University
+Joanna Rocha,7.0,"Computer Vision, SQL, Data Analysis, Cloud Computing, ML Ops",Master,Statistics,University of Waterloo
+Zachary Briggs,7.0,"NLP, PyTorch",Bachelor,Software Engineering,University of British Columbia
+Robert Rosario,4.0,"SQL, Data Analysis",PhD,Data Science,University of Alberta
+Christopher Avila,7.0,"Python, TensorFlow",Master,Statistics,Queen's University
+Mackenzie Harris,0.0,"Computer Vision, Cloud Computing, ML Ops",Bachelor,Computer Science,McMaster University
+Marc King,0.0,"SQL, Data Analysis",PhD,Machine Learning,McMaster University
+Dr. James Williams DDS,4.0,"Scikit-learn, Cloud Computing, ML Ops, SQL, Data Analysis",Associate,Computer Science,York University
+Anthony Hall,5.0,Computer Vision,PhD,Data Science,University of British Columbia
+Brittany Hampton,,"Java, Machine Learning, Reinforcement Learning",PhD,Statistics,Queen's University
+Bryan David,7.0,"SQL, Data Analysis, Reinforcement Learning, Deep Learning",Master,Statistics,York University
+Sierra Brooks,7.0,"Python, TensorFlow, Reinforcement Learning, Scikit-learn",Bachelor,Machine Learning,University of Alberta
+Lauren Hays,0.0,"SQL, Data Analysis, Deep Learning",PhD,AI,McMaster University
+Robert Reese,6.0,"Java, Machine Learning",Associate,AI,University of Ottawa
+Zachary Hicks,4.0,"R, Statistics",Associate,Statistics,Western University
+Jacob Obrien,2.0,"NLP, PyTorch",Associate,Data Science,University of British Columbia
+Angela Taylor,7.0,"NLP, PyTorch, Deep Learning",Associate,Data Science,University of Waterloo
+Christopher Hurst,1.0,"NLP, PyTorch",Master,Statistics,Queen's University
+Katrina Rogers,3.0,"Reinforcement Learning, R, Statistics, NLP, PyTorch",PhD,Computer Science,Western University
+Courtney Williams,9.0,"Cloud Computing, ML Ops, Python, TensorFlow",Bachelor,Computer Science,Queen's University
+Carlos Wang,0.0,"Python, TensorFlow, NLP, PyTorch",Bachelor,Data Science,University of Waterloo
+David Mccarthy,0.0,"Cloud Computing, ML Ops",PhD,Data Science,University of British Columbia
+Mark Sanders,7.0,Deep Learning,Associate,Statistics,McMaster University
+David Cooper,1.0,"Java, Machine Learning",Master,Machine Learning,University of Waterloo
+Sean Cooper,4.0,Reinforcement Learning,Bachelor,Software Engineering,Queen's University
+Jacqueline Collins,8.0,"Reinforcement Learning, Java, Machine Learning",Bachelor,Statistics,York University
+Christopher Woodard,9.0,"Python, TensorFlow, R, Statistics",PhD,Software Engineering,Queen's University
+Spencer Dunlap,7.0,Computer Vision,Associate,Statistics,University of Waterloo
+Jessica Barnett,9.0,"Scikit-learn, Deep Learning, Computer Vision",PhD,Statistics,Queen's University
+Timothy Jones,10.0,"SQL, Data Analysis, Reinforcement Learning, NLP, PyTorch",Bachelor,AI,York University
+Alice Daniels,10.0,"Deep Learning, Reinforcement Learning, NLP, PyTorch",Associate,Data Science,McMaster University
+Lisa Greer,6.0,"SQL, Data Analysis, Computer Vision, Scikit-learn",Master,AI,University of British Columbia
+Tricia Jackson,5.0,"SQL, Data Analysis, Computer Vision",Bachelor,Computer Science,McMaster University
+Omar Ellison,7.0,"Java, Machine Learning, Computer Vision",PhD,Machine Learning,University of Waterloo
+Charles Kemp,2.0,"R, Statistics, Computer Vision",Bachelor,Software Engineering,Queen's University
+Daniel Harris,1.0,"Reinforcement Learning, Deep Learning, SQL, Data Analysis",PhD,Data Science,McMaster University
+Sheryl Jimenez,7.0,Deep Learning,PhD,Data Science,University of Toronto
+Mrs. Heather Bishop,9.0,"Computer Vision, Cloud Computing, ML Ops",Associate,Data Science,Western University
+Jason Guzman,,"R, Statistics, Computer Vision, Reinforcement Learning",Associate,Computer Science,University of Alberta
+Melissa Chen,3.0,"R, Statistics",Master,Data Science,University of Ottawa
+Jamie Morgan,10.0,"Computer Vision, SQL, Data Analysis, Deep Learning",Master,Software Engineering,McGill University
+Vanessa Adams,3.0,"SQL, Data Analysis, NLP, PyTorch",PhD,Machine Learning,University of Alberta
+Robert Erickson DDS,0.0,"Computer Vision, Scikit-learn",Master,Machine Learning,University of British Columbia
+Mr. Brian Smith,,"Computer Vision, Reinforcement Learning",Master,AI,McMaster University
+Kelly Woodard,2.0,"Reinforcement Learning, Python, TensorFlow",Associate,Machine Learning,University of Ottawa
+Jonathan Hammond,1.0,"Cloud Computing, ML Ops, Computer Vision, NLP, PyTorch",Master,Software Engineering,University of Ottawa
+Deborah Stewart,1.0,Scikit-learn,Bachelor,Machine Learning,University of Ottawa
+Robin Bush,3.0,Computer Vision,PhD,Software Engineering,McGill University
+Justin Garcia,,Deep Learning,Associate,Computer Science,University of Toronto
+Taylor Horton,9.0,Deep Learning,Bachelor,Statistics,Queen's University
+Katherine Tucker,,"Java, Machine Learning",PhD,Computer Science,University of Alberta
+Wendy Pierce,8.0,"Java, Machine Learning",Associate,Statistics,University of Alberta
+Jack Murphy,1.0,"Cloud Computing, ML Ops, R, Statistics",Associate,Software Engineering,McMaster University
+Krista Yang,7.0,"Deep Learning, R, Statistics",PhD,Software Engineering,University of British Columbia
+Nicole Owens,2.0,"Cloud Computing, ML Ops, NLP, PyTorch, Reinforcement Learning",Master,Data Science,McGill University
+Justin Simmons,0.0,"R, Statistics",PhD,Statistics,University of British Columbia
+Ashley Richards,4.0,"Cloud Computing, ML Ops",Master,Computer Science,York University
+Nicole Bullock,,"R, Statistics, Scikit-learn",Master,Machine Learning,University of Alberta
+Sabrina Stanton,8.0,"NLP, PyTorch",Bachelor,AI,University of Alberta
+Christopher Boyle,,"Computer Vision, Java, Machine Learning, Cloud Computing, ML Ops",Associate,Computer Science,York University
+Austin Sanders,10.0,"Scikit-learn, NLP, PyTorch, Computer Vision",PhD,Computer Science,University of Alberta
+Heather Simon,4.0,"Deep Learning, SQL, Data Analysis",Bachelor,Statistics,University of Alberta
+Shannon Mills,8.0,"Java, Machine Learning, Computer Vision",Bachelor,Data Science,Western University
+Crystal Clark,4.0,"Reinforcement Learning, Scikit-learn, SQL, Data Analysis",PhD,Machine Learning,Western University
+Rachel Hart,7.0,Deep Learning,Bachelor,Data Science,McMaster University
+Natasha Costa,,"NLP, PyTorch",Bachelor,Data Science,Queen's University
+Jerry Henry,2.0,"Cloud Computing, ML Ops, SQL, Data Analysis, Computer Vision",Associate,Data Science,University of Waterloo
+Shelly Webb,9.0,"Cloud Computing, ML Ops",Master,Computer Science,York University
+Michael Adkins,5.0,"NLP, PyTorch, Cloud Computing, ML Ops",Bachelor,AI,University of British Columbia
+Emily Walker,1.0,"Cloud Computing, ML Ops",Bachelor,Software Engineering,York University
+Brent Rose,,"NLP, PyTorch, Python, TensorFlow, SQL, Data Analysis",Bachelor,Machine Learning,University of Toronto
+Martin Lewis,7.0,"SQL, Data Analysis",Master,Statistics,Western University
+Amanda Barnett,8.0,"SQL, Data Analysis, Scikit-learn",Bachelor,Computer Science,University of British Columbia
+Stacy Kline,0.0,"Deep Learning, R, Statistics, Python, TensorFlow",Master,Computer Science,Queen's University
+Lori Gonzalez,2.0,"Java, Machine Learning, R, Statistics, Scikit-learn",Master,Computer Science,University of Waterloo
+Eddie Dean,5.0,"Computer Vision, Deep Learning",Bachelor,Machine Learning,McMaster University
+Robert Mcfarland,8.0,"Cloud Computing, ML Ops, Deep Learning, Python, TensorFlow",PhD,Machine Learning,McGill University
+Steve Hernandez,3.0,"R, Statistics",Associate,Data Science,York University
+Nathan Simpson,4.0,"SQL, Data Analysis, Scikit-learn, NLP, PyTorch",Associate,Statistics,University of British Columbia
+Sarah Baker,6.0,"Python, TensorFlow, Java, Machine Learning",Bachelor,Software Engineering,University of Toronto
+Jennifer Porter,,"Reinforcement Learning, Java, Machine Learning",Associate,Software Engineering,York University
+Jesus Bradford,7.0,"R, Statistics, Computer Vision, NLP, PyTorch",Master,Machine Learning,University of Ottawa
+Kaitlin Thomas,,"NLP, PyTorch, Cloud Computing, ML Ops",Associate,Computer Science,University of British Columbia
+Kristy Shepherd,2.0,"NLP, PyTorch, R, Statistics",Associate,Computer Science,University of Alberta
+Michelle Bates,,"SQL, Data Analysis, Reinforcement Learning",Master,Statistics,McGill University
+Maria Hill,6.0,"NLP, PyTorch",Associate,Statistics,University of British Columbia
+Amy Beltran,10.0,"Python, TensorFlow, Computer Vision, Cloud Computing, ML Ops",Master,Statistics,McMaster University
+Justin Williams,8.0,"SQL, Data Analysis, Python, TensorFlow",Bachelor,Statistics,Western University
+Patty Tran,5.0,"Deep Learning, Java, Machine Learning, SQL, Data Analysis",Master,Computer Science,Western University
+James Carroll,1.0,"R, Statistics",Associate,Statistics,McMaster University
+Michele Ramirez,6.0,"NLP, PyTorch",PhD,Machine Learning,University of Alberta
+Elizabeth Mclean,8.0,"Python, TensorFlow, R, Statistics, Cloud Computing, ML Ops",PhD,Machine Learning,University of Alberta
+Paul Hayes,7.0,Scikit-learn,Associate,Statistics,Western University
+Eric Stewart,5.0,"Reinforcement Learning, Deep Learning, Computer Vision",Bachelor,Data Science,McMaster University
+Valerie Jackson,8.0,"SQL, Data Analysis, Scikit-learn, Cloud Computing, ML Ops",Associate,AI,University of British Columbia
+Lori Russell,8.0,Scikit-learn,Master,Software Engineering,McMaster University
+Chelsea Weber,9.0,"Computer Vision, Python, TensorFlow",Master,Computer Science,University of Alberta
+Richard Rivera,,"SQL, Data Analysis, R, Statistics, Cloud Computing, ML Ops",Bachelor,Statistics,University of British Columbia
+Jacqueline Miller,3.0,"Computer Vision, Deep Learning",PhD,Machine Learning,Western University
+Amy Bridges,6.0,Computer Vision,PhD,Software Engineering,University of Ottawa
+Valerie Brown,8.0,"R, Statistics",Master,Computer Science,University of Toronto
+Mrs. Robin Scott,0.0,"Cloud Computing, ML Ops, NLP, PyTorch",Master,Computer Science,York University
+William Glenn,6.0,"Python, TensorFlow, Deep Learning, SQL, Data Analysis",PhD,Software Engineering,York University
+Riley Meyer,2.0,"Python, TensorFlow, Scikit-learn",Associate,Statistics,University of Toronto
+Julie Anderson,1.0,"Python, TensorFlow, Computer Vision",Bachelor,Machine Learning,University of Alberta
+Jeremy Silva,,"Java, Machine Learning",Associate,Data Science,University of Waterloo
+Amanda Andrade,0.0,"Cloud Computing, ML Ops, Python, TensorFlow, SQL, Data Analysis",Master,Computer Science,Queen's University
+Andrew Johnson,2.0,"Scikit-learn, SQL, Data Analysis",Bachelor,Data Science,Queen's University
+Lucas Arellano,0.0,"R, Statistics, Java, Machine Learning",Associate,Machine Learning,University of Ottawa
+Christopher White,4.0,"Cloud Computing, ML Ops, R, Statistics, Java, Machine Learning",Associate,Software Engineering,York University
+Joshua Frey,2.0,"Scikit-learn, Deep Learning, Python, TensorFlow",Bachelor,Software Engineering,University of Alberta
+Angela Harris,2.0,"Reinforcement Learning, Computer Vision, Python, TensorFlow",Master,Software Engineering,McGill University
+Michelle Guzman,0.0,"Scikit-learn, R, Statistics",PhD,Statistics,McMaster University
+Lauren Jackson,1.0,"Deep Learning, Reinforcement Learning",Master,Software Engineering,University of Ottawa
+Michael Everett,9.0,"Cloud Computing, ML Ops, NLP, PyTorch, Computer Vision",Master,Statistics,McGill University
+Mrs. Ana Wilkins,6.0,"NLP, PyTorch, Scikit-learn, Reinforcement Learning",Associate,Data Science,University of Alberta
+Kenneth Hampton,4.0,"Cloud Computing, ML Ops",Bachelor,Machine Learning,Western University
+Michael Cruz,,"NLP, PyTorch",Associate,Computer Science,University of Waterloo
+Donald Lewis,10.0,"SQL, Data Analysis, Python, TensorFlow",PhD,Data Science,McGill University
+Kelly Blanchard,6.0,Reinforcement Learning,Associate,Data Science,Queen's University
+Paul Murphy,10.0,"SQL, Data Analysis, Cloud Computing, ML Ops, Python, TensorFlow",Master,Data Science,York University
+Stephanie Johnson,9.0,"Reinforcement Learning, Java, Machine Learning, Scikit-learn",Master,Software Engineering,York University
+Ryan Baker,6.0,"NLP, PyTorch, SQL, Data Analysis",Bachelor,Data Science,University of British Columbia
+Billy Cox,,"R, Statistics, Reinforcement Learning, Java, Machine Learning",Master,Computer Science,Queen's University
+Tanya Silva,5.0,"Java, Machine Learning",Master,Statistics,University of Waterloo
+Mr. Bryan Mueller MD,,"NLP, PyTorch",Bachelor,Statistics,University of Waterloo
+Kathleen Reyes,3.0,"NLP, PyTorch, Deep Learning",Associate,Data Science,Western University
+Lindsey Walker,3.0,Scikit-learn,Bachelor,AI,University of Toronto
+Andrew Weiss,0.0,"Cloud Computing, ML Ops",Associate,AI,University of Toronto
+Tiffany Brown,2.0,"Reinforcement Learning, R, Statistics, Cloud Computing, ML Ops",PhD,Statistics,McGill University
+Teresa Fitzgerald,0.0,"SQL, Data Analysis",PhD,Statistics,McMaster University
+Mike Barr,8.0,"Reinforcement Learning, Cloud Computing, ML Ops",Bachelor,AI,Queen's University
+Donna Barr,3.0,"Deep Learning, Computer Vision, Java, Machine Learning",Bachelor,Machine Learning,McGill University
+Sandra Bryan,0.0,"Deep Learning, NLP, PyTorch",Associate,Machine Learning,University of Waterloo
+Jennifer Smith MD,4.0,"SQL, Data Analysis, Python, TensorFlow, R, Statistics",Master,AI,University of Ottawa
+Anna Newman,1.0,"Scikit-learn, NLP, PyTorch, Reinforcement Learning",PhD,Statistics,University of Waterloo
+Katie Green,8.0,"Computer Vision, Java, Machine Learning, Deep Learning",Associate,Machine Learning,University of Ottawa
+James Mueller,4.0,"Python, TensorFlow, SQL, Data Analysis",Associate,Data Science,University of Ottawa
+Michael Walls,2.0,"R, Statistics, Java, Machine Learning, Reinforcement Learning",Bachelor,Computer Science,University of Waterloo
+Jennifer Diaz,4.0,"R, Statistics, Computer Vision",Bachelor,AI,University of Toronto
+Edward Wheeler,,"Python, TensorFlow, Deep Learning, SQL, Data Analysis",PhD,AI,Queen's University
+Mark Wilson,8.0,"Java, Machine Learning",PhD,Software Engineering,Western University
+Savannah Galvan,4.0,"Python, TensorFlow, NLP, PyTorch, Cloud Computing, ML Ops",Bachelor,Statistics,York University
+Michael Wilson,1.0,"SQL, Data Analysis",Master,Software Engineering,McMaster University
+Douglas Barrett,2.0,"Java, Machine Learning",Associate,AI,McGill University
+Shelly Smith,5.0,"Cloud Computing, ML Ops, Java, Machine Learning",Associate,Data Science,University of Alberta
+Marissa Clark,3.0,Deep Learning,Associate,Computer Science,University of Toronto
+Erica Galloway,,"Python, TensorFlow, Cloud Computing, ML Ops",PhD,Software Engineering,University of Ottawa
+Peter Williams,8.0,Scikit-learn,Associate,Software Engineering,Queen's University
+Leslie York,4.0,"NLP, PyTorch",Master,Data Science,University of British Columbia
+Jennifer Williams,,"Deep Learning, Python, TensorFlow, Scikit-learn",Associate,Machine Learning,McMaster University
+Nancy Wilson MD,2.0,"Java, Machine Learning, NLP, PyTorch, Computer Vision",Bachelor,AI,McGill University
+Steven Archer,6.0,Deep Learning,Associate,Data Science,University of British Columbia
+Shawn Rogers,5.0,Reinforcement Learning,Associate,Computer Science,Western University
+Dana Lowe,2.0,"R, Statistics",Associate,Machine Learning,McGill University
+Michele Smith,8.0,"Python, TensorFlow, Deep Learning, Computer Vision",Associate,Machine Learning,University of Alberta
+Crystal Perez,6.0,"NLP, PyTorch, Scikit-learn",Master,Software Engineering,McMaster University
+Kyle Lang,7.0,Computer Vision,Bachelor,Data Science,McMaster University
+Steven Benton,1.0,"Deep Learning, Java, Machine Learning",Associate,Machine Learning,University of Waterloo
+Tara Flores,3.0,"Python, TensorFlow, R, Statistics",Bachelor,Machine Learning,McMaster University
+Larry Nixon,5.0,"Scikit-learn, NLP, PyTorch, Deep Learning",Associate,AI,University of Alberta
+Briana Hoffman,6.0,"R, Statistics",PhD,AI,University of Waterloo
+Denise Robinson,0.0,Scikit-learn,PhD,Computer Science,University of Ottawa
+Michael Johns,6.0,"Deep Learning, Scikit-learn, R, Statistics",Master,AI,Western University
+Michelle Fisher,0.0,"Reinforcement Learning, Python, TensorFlow",Master,AI,University of Ottawa
+Meredith Burch,7.0,"Cloud Computing, ML Ops, Scikit-learn, SQL, Data Analysis",Master,AI,University of Waterloo
+Cody Thompson,7.0,"R, Statistics, Cloud Computing, ML Ops",Master,Data Science,University of British Columbia
+Craig Taylor,5.0,"Deep Learning, Python, TensorFlow, Scikit-learn",Bachelor,Statistics,McGill University
+Craig Martinez,4.0,"Computer Vision, NLP, PyTorch",PhD,Machine Learning,McMaster University
+Lacey Hopkins,0.0,"Cloud Computing, ML Ops, NLP, PyTorch, Scikit-learn",Bachelor,AI,McGill University
+Curtis Price,0.0,"Python, TensorFlow",PhD,Software Engineering,York University
+Tara Jones,,"Reinforcement Learning, Deep Learning",Associate,Software Engineering,Queen's University
+Katherine Clark,2.0,"Deep Learning, Scikit-learn",Bachelor,Software Engineering,Queen's University
+Aaron Mcfarland,5.0,"SQL, Data Analysis, Computer Vision, Reinforcement Learning",Bachelor,Statistics,University of Alberta
+Lee Douglas,1.0,"Deep Learning, Cloud Computing, ML Ops",Master,Machine Learning,University of Toronto
+Nancy Dalton,5.0,"Deep Learning, SQL, Data Analysis, Java, Machine Learning",PhD,AI,University of Ottawa
+Katherine Franklin,6.0,"Cloud Computing, ML Ops, NLP, PyTorch",Master,Data Science,York University
+Christopher Anderson,7.0,Scikit-learn,Master,AI,Western University
+Jean Payne,6.0,"Reinforcement Learning, Python, TensorFlow, Java, Machine Learning",Bachelor,AI,University of British Columbia
+Debbie Malone,6.0,"R, Statistics, Computer Vision",Associate,Software Engineering,University of Toronto
+Robert Gay,7.0,"Cloud Computing, ML Ops, SQL, Data Analysis, Scikit-learn",PhD,Machine Learning,McMaster University
+Angelica Wood,2.0,"Cloud Computing, ML Ops, Deep Learning, Python, TensorFlow",Bachelor,Statistics,McGill University
+Jesse Flores,4.0,"Java, Machine Learning, NLP, PyTorch",Associate,Statistics,University of Ottawa
+Robert Mckinney,9.0,"Java, Machine Learning, Reinforcement Learning",Associate,AI,Western University
+Denise Holder,4.0,Reinforcement Learning,PhD,AI,University of British Columbia
+Ronald Morrison,5.0,"SQL, Data Analysis",PhD,Software Engineering,University of Ottawa
+Luis Stephenson,10.0,"NLP, PyTorch",Master,Statistics,University of Alberta
+Gary Martin,4.0,"Reinforcement Learning, Cloud Computing, ML Ops, Computer Vision",Bachelor,Data Science,McGill University
+Ian Green,2.0,"Python, TensorFlow, Reinforcement Learning",Associate,Computer Science,Western University
+Douglas Hunt,,"SQL, Data Analysis, Python, TensorFlow",Bachelor,AI,McGill University
+Gregory Green,,"Cloud Computing, ML Ops, Reinforcement Learning",PhD,Computer Science,York University
+Matthew Craig,4.0,"Scikit-learn, Java, Machine Learning",PhD,Machine Learning,McGill University
+Felicia Gill,6.0,"Deep Learning, NLP, PyTorch",PhD,Computer Science,McGill University
+Denise Jackson,8.0,"Computer Vision, R, Statistics, Reinforcement Learning",Master,AI,McGill University
+Nancy Mclaughlin,,"Reinforcement Learning, Cloud Computing, ML Ops",Bachelor,Data Science,University of Ottawa
+Emily Hawkins,4.0,"NLP, PyTorch",Bachelor,AI,University of Ottawa
+Derek Jennings,4.0,"Python, TensorFlow, Scikit-learn, Deep Learning",Bachelor,Statistics,University of Waterloo
+Victor Conley,,"Scikit-learn, Reinforcement Learning",Associate,Software Engineering,McGill University
+Daniel Sanders,2.0,"Java, Machine Learning, NLP, PyTorch",Bachelor,Machine Learning,University of British Columbia
+Monique Garcia,4.0,"SQL, Data Analysis",Bachelor,Software Engineering,University of Alberta
+Cynthia Nguyen,9.0,"Python, TensorFlow, Computer Vision, Scikit-learn",Associate,Data Science,Western University
+Andrew Odom,7.0,"NLP, PyTorch",Master,AI,University of Ottawa
+Morgan Matthews,0.0,"SQL, Data Analysis, Java, Machine Learning",Master,Machine Learning,University of Waterloo
+Jennifer Payne,2.0,"Python, TensorFlow, NLP, PyTorch",PhD,Statistics,University of Alberta
+Colin Hall,8.0,"Java, Machine Learning, Reinforcement Learning",Associate,Software Engineering,McMaster University
+Whitney King DDS,10.0,"Python, TensorFlow",Master,Statistics,University of Alberta
+Victoria Ward,1.0,Deep Learning,Bachelor,Data Science,University of Waterloo
+Breanna Wilcox,7.0,"Cloud Computing, ML Ops, R, Statistics",Master,Data Science,York University
+Destiny Sanders,,"NLP, PyTorch, Python, TensorFlow, R, Statistics",Associate,Machine Learning,York University
+Joseph Tanner,9.0,"Java, Machine Learning, NLP, PyTorch",Bachelor,Computer Science,University of British Columbia
+Beth Baker,6.0,"Java, Machine Learning, Computer Vision, Reinforcement Learning",Associate,Statistics,University of British Columbia
+Eileen Hill,7.0,"SQL, Data Analysis",PhD,Data Science,McMaster University
+Robert Butler,9.0,"Java, Machine Learning, SQL, Data Analysis",Master,AI,University of Ottawa
+Michael Freeman,1.0,"Reinforcement Learning, NLP, PyTorch",PhD,Software Engineering,University of British Columbia
+Rebecca Arroyo,10.0,"R, Statistics, Java, Machine Learning",Bachelor,Computer Science,Queen's University
+Angela Williams,3.0,"Java, Machine Learning",PhD,Computer Science,University of Waterloo
+Logan Moore,3.0,"Python, TensorFlow, Computer Vision",Bachelor,Data Science,Western University
+Molly Nelson,1.0,"Computer Vision, Python, TensorFlow, Deep Learning",PhD,Statistics,University of Ottawa
+Jonathan Howard,8.0,Computer Vision,Associate,AI,Western University
+Michaela Gomez,3.0,Scikit-learn,Associate,Statistics,McGill University
+Amy Smith,0.0,"Python, TensorFlow",Bachelor,Data Science,University of British Columbia
+Gregory Miller,8.0,"NLP, PyTorch, Reinforcement Learning",PhD,Machine Learning,McMaster University
+Dan Wilson,0.0,"Computer Vision, Deep Learning, NLP, PyTorch",Master,Machine Learning,Western University
+Robert Watson DDS,3.0,"Python, TensorFlow, Computer Vision, Java, Machine Learning",PhD,Data Science,University of Toronto
+Seth Haley,9.0,"Computer Vision, Deep Learning",Master,AI,University of Toronto
+Angela Ward,5.0,"Computer Vision, Scikit-learn, Cloud Computing, ML Ops",PhD,AI,York University
+Sean Davidson,2.0,"Java, Machine Learning, SQL, Data Analysis, Computer Vision",Master,Machine Learning,Western University
+Douglas Morrow,,"SQL, Data Analysis, Cloud Computing, ML Ops",Bachelor,AI,University of Toronto
+Wanda Charles,1.0,"Python, TensorFlow, Reinforcement Learning, Java, Machine Learning",Bachelor,AI,York University
+Joseph Brown,,"Reinforcement Learning, SQL, Data Analysis",Bachelor,Software Engineering,Western University
+Michael Johnson,6.0,"R, Statistics, Computer Vision",Master,AI,University of British Columbia
+Steven Pham,5.0,"R, Statistics, Reinforcement Learning",PhD,Statistics,University of Alberta
+William Tapia,8.0,"Cloud Computing, ML Ops",Bachelor,AI,University of British Columbia
+Teresa Davis,4.0,Computer Vision,Associate,AI,University of Alberta
+Shawn Morgan,5.0,"NLP, PyTorch, Computer Vision, R, Statistics",Bachelor,Data Science,McGill University
+Heather Mccann,,"Cloud Computing, ML Ops, Scikit-learn, Reinforcement Learning",Associate,Software Engineering,University of British Columbia
+Danielle Miller,5.0,"Computer Vision, Cloud Computing, ML Ops",Bachelor,Data Science,Western University
+Natalie Kim,1.0,"R, Statistics, Computer Vision, Deep Learning",PhD,Computer Science,McGill University
+Traci Garcia,0.0,Scikit-learn,Bachelor,AI,Western University
+Sarah Johnson,10.0,"Python, TensorFlow, Computer Vision",Master,Statistics,Western University
+James Reynolds,2.0,"Deep Learning, Java, Machine Learning, Reinforcement Learning",Master,Statistics,York University
+Mrs. Kelsey Jennings,,"R, Statistics, Python, TensorFlow, Reinforcement Learning",Master,Software Engineering,Western University
+Zachary Medina,,"Java, Machine Learning, Scikit-learn",Master,Software Engineering,Western University
+Linda Anderson,1.0,"Computer Vision, Deep Learning",Master,AI,University of Ottawa
+Jonathan Gomez,8.0,Reinforcement Learning,Master,Data Science,McMaster University
+Heidi Stevens,3.0,"R, Statistics, Scikit-learn, SQL, Data Analysis",PhD,Machine Learning,Queen's University
+David Clark,0.0,"Java, Machine Learning, Reinforcement Learning",Associate,Data Science,McGill University
+Chase Hayden II,5.0,"Reinforcement Learning, SQL, Data Analysis",Bachelor,Statistics,University of Toronto
+Jeanne Morales,10.0,"Computer Vision, Cloud Computing, ML Ops",Master,Computer Science,McGill University
+Martin Rodriguez,,Computer Vision,Associate,AI,York University
+Tyler Gibson,6.0,"SQL, Data Analysis, Cloud Computing, ML Ops",Master,AI,Queen's University
+Kyle Cox,1.0,"Reinforcement Learning, Scikit-learn, Computer Vision",PhD,Statistics,University of Alberta
+Gabrielle Smith,5.0,"Scikit-learn, Deep Learning, Cloud Computing, ML Ops",Associate,AI,Queen's University
+Carlos Robles,5.0,"Cloud Computing, ML Ops, R, Statistics",PhD,Machine Learning,University of Waterloo
+Joshua Lam,8.0,"SQL, Data Analysis",Associate,Statistics,University of Toronto
+Brittany Brooks,1.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Associate,Data Science,University of Waterloo
+Monica Moore,10.0,"Java, Machine Learning",Bachelor,AI,University of Waterloo
+Shawn Hunt,6.0,"Computer Vision, NLP, PyTorch",Bachelor,AI,University of British Columbia
+Andrew Simmons,1.0,"NLP, PyTorch",Master,Software Engineering,Queen's University
+Sherry Jones,2.0,"Python, TensorFlow, NLP, PyTorch",Associate,Statistics,University of Ottawa
+Deborah Butler,7.0,Deep Learning,Bachelor,Machine Learning,McGill University
+Sarah Vance,0.0,"Scikit-learn, Computer Vision",Master,AI,Western University
+Jessica Hoover,,"Cloud Computing, ML Ops",PhD,AI,McMaster University
+James Travis,,Deep Learning,Associate,Statistics,McGill University
+Scott Anderson,5.0,"Deep Learning, SQL, Data Analysis",Associate,Software Engineering,York University
+Lisa Johnson,0.0,Scikit-learn,Master,Data Science,McMaster University
+Joseph Meyer,,"Deep Learning, Java, Machine Learning, SQL, Data Analysis",Master,Software Engineering,McMaster University
+Christopher Evans,10.0,"Deep Learning, Computer Vision",PhD,Machine Learning,University of British Columbia
+Susan Coleman,1.0,Reinforcement Learning,Associate,Statistics,University of Toronto
+Devin Anderson,4.0,"NLP, PyTorch, Scikit-learn, Java, Machine Learning",PhD,Computer Science,University of Ottawa
+Carlos Sanchez,8.0,Deep Learning,Associate,Software Engineering,University of Waterloo
+Breanna Wallace,5.0,"Java, Machine Learning, Deep Learning",PhD,Software Engineering,University of British Columbia
+Katherine Bush,4.0,"Scikit-learn, NLP, PyTorch",PhD,AI,Queen's University
+Michael Rhodes,5.0,"SQL, Data Analysis, Deep Learning",Bachelor,Software Engineering,University of Waterloo
+Jamie Reese,1.0,"Java, Machine Learning, Deep Learning, Python, TensorFlow",PhD,AI,University of Alberta
+Kyle Diaz,10.0,"Scikit-learn, Reinforcement Learning, Cloud Computing, ML Ops",PhD,Data Science,McGill University
+Jessica Ochoa,6.0,"Python, TensorFlow, Computer Vision, R, Statistics",Master,Data Science,York University
+Ariel Martin,2.0,"Python, TensorFlow, NLP, PyTorch",Bachelor,AI,McMaster University
+Debra White,9.0,"Reinforcement Learning, R, Statistics, SQL, Data Analysis",Master,Machine Learning,McGill University
+Judy Lloyd,10.0,"Reinforcement Learning, Computer Vision, Python, TensorFlow",Master,Computer Science,University of Ottawa
+Melissa Hoover,2.0,"Python, TensorFlow, Cloud Computing, ML Ops, Java, Machine Learning",Associate,Computer Science,Queen's University
+Heather Rodriguez,10.0,"Cloud Computing, ML Ops, Scikit-learn, Deep Learning",Bachelor,Statistics,University of British Columbia
+Chad Mills,4.0,Reinforcement Learning,Master,Computer Science,University of Toronto
+Kathryn Lopez,2.0,Reinforcement Learning,Bachelor,Software Engineering,University of Toronto
+Anna Franklin,8.0,"Cloud Computing, ML Ops, Scikit-learn",Associate,Computer Science,University of British Columbia
+Marc Barton,5.0,"SQL, Data Analysis, Reinforcement Learning, Computer Vision",Associate,Computer Science,University of Waterloo
+Amanda Beasley,2.0,"Java, Machine Learning, NLP, PyTorch",Master,Computer Science,McGill University
+Victoria Knight,,"Python, TensorFlow, R, Statistics, SQL, Data Analysis",PhD,Computer Science,McMaster University
+Noah Rocha,3.0,"Reinforcement Learning, Computer Vision, Deep Learning",Bachelor,Statistics,Western University
+Jason Ruiz,,"Deep Learning, Scikit-learn, Reinforcement Learning",PhD,Statistics,University of Toronto
+David Harvey,3.0,"Cloud Computing, ML Ops, R, Statistics",Bachelor,Computer Science,McMaster University
+Anthony Bell,4.0,Computer Vision,PhD,Statistics,University of Toronto
+Kevin Peck,6.0,"Computer Vision, Reinforcement Learning",PhD,Software Engineering,University of Waterloo
+Evelyn Webb,5.0,Reinforcement Learning,PhD,Machine Learning,University of Waterloo
+Timothy Lane,6.0,"R, Statistics",Bachelor,Machine Learning,University of Toronto
+Robin Stewart,0.0,"Java, Machine Learning, Python, TensorFlow, Computer Vision",Associate,AI,York University
+Rodney Berry,3.0,"Computer Vision, Java, Machine Learning, R, Statistics",PhD,Statistics,University of Toronto
+Alison Page,0.0,"Cloud Computing, ML Ops, Deep Learning, NLP, PyTorch",PhD,AI,University of Toronto
+Danny Miller,6.0,"Python, TensorFlow, NLP, PyTorch",Bachelor,AI,Western University
+Brandi Wilcox,5.0,"R, Statistics",PhD,Data Science,University of Ottawa
+Nicholas Simmons DDS,3.0,"Computer Vision, SQL, Data Analysis, Java, Machine Learning",Bachelor,Data Science,McMaster University
+Philip Swanson,0.0,Scikit-learn,Associate,AI,York University
+Tracy Green,7.0,"Java, Machine Learning, Scikit-learn",Master,Machine Learning,University of Alberta
+Mary Vargas,9.0,"Scikit-learn, R, Statistics",PhD,AI,University of Toronto
+Victoria Clayton,,"NLP, PyTorch, Deep Learning, Scikit-learn",Bachelor,AI,University of Toronto
+Rebecca Turner,2.0,"Computer Vision, NLP, PyTorch",Associate,Software Engineering,University of Alberta
+Andrew Yang DVM,6.0,"NLP, PyTorch, R, Statistics",Bachelor,AI,University of Toronto
+Sabrina Garrison,0.0,"SQL, Data Analysis, Deep Learning, Reinforcement Learning",Associate,Software Engineering,McGill University
+Jenna Oconnell,2.0,Scikit-learn,Associate,Software Engineering,Queen's University
+Katrina Ryan,8.0,"Cloud Computing, ML Ops, Computer Vision, R, Statistics",Associate,Statistics,Western University
+Marvin Baker,8.0,"Cloud Computing, ML Ops, Scikit-learn, NLP, PyTorch",Associate,AI,University of British Columbia
+Barbara Mckenzie,7.0,"Reinforcement Learning, Python, TensorFlow",Master,Statistics,Western University
+Catherine Brown,4.0,Reinforcement Learning,Bachelor,AI,McGill University
+Anthony Rojas,6.0,"Deep Learning, Computer Vision",Associate,Data Science,University of Waterloo
+Timothy Garcia,10.0,"Java, Machine Learning, Deep Learning",Associate,Data Science,Western University
+Rebecca Vang,,"SQL, Data Analysis",Bachelor,Data Science,York University
+Stacey Short,10.0,"Deep Learning, Scikit-learn",Master,Computer Science,University of Ottawa
+Nicholas Higgins,,"NLP, PyTorch, Cloud Computing, ML Ops, Java, Machine Learning",PhD,Software Engineering,Queen's University
+Michael Mejia,,Reinforcement Learning,Associate,Software Engineering,University of Ottawa
+Catherine Garcia,3.0,"Python, TensorFlow, Scikit-learn",Associate,AI,University of Alberta
+Diane Butler,,"Deep Learning, Reinforcement Learning, SQL, Data Analysis",PhD,AI,University of British Columbia
+Brian Mann,5.0,Scikit-learn,Associate,Data Science,Queen's University
+Christine Hopkins,7.0,"NLP, PyTorch, Reinforcement Learning, SQL, Data Analysis",PhD,Data Science,University of British Columbia
+Kevin Davis,5.0,"R, Statistics, NLP, PyTorch",Associate,Software Engineering,McMaster University
+James Smith,4.0,"R, Statistics, Computer Vision",Bachelor,AI,Queen's University
+Isaiah Mcdonald,0.0,"Cloud Computing, ML Ops",Master,Data Science,University of British Columbia
+Emily Roman,5.0,"Computer Vision, Reinforcement Learning",Bachelor,Computer Science,University of Toronto
+Madison Stevens,8.0,"NLP, PyTorch, Scikit-learn",PhD,Computer Science,University of British Columbia
+Stephen Phillips,9.0,"R, Statistics, Reinforcement Learning, Computer Vision",Associate,Computer Science,Queen's University
+David Hernandez,5.0,"NLP, PyTorch, Cloud Computing, ML Ops",PhD,Data Science,York University
+Eric Byrd,0.0,"R, Statistics",Bachelor,Computer Science,Queen's University
+Kathleen Mcgee,2.0,"NLP, PyTorch, Deep Learning, SQL, Data Analysis",Master,AI,York University
+Keith Robertson,1.0,Scikit-learn,PhD,Data Science,University of British Columbia
+Robert Mitchell,5.0,"Computer Vision, Deep Learning",Associate,Machine Learning,University of Ottawa
+Lindsey Arnold,9.0,"SQL, Data Analysis, Scikit-learn",Associate,Machine Learning,University of British Columbia
+Brian Gibson,3.0,Computer Vision,Associate,Statistics,University of Toronto
+Lisa Oliver,5.0,"NLP, PyTorch, Reinforcement Learning",Master,Machine Learning,University of British Columbia
+Alicia Carey,10.0,"SQL, Data Analysis, Java, Machine Learning, Python, TensorFlow",PhD,AI,University of Ottawa
+Michael Keller,9.0,Deep Learning,PhD,Computer Science,Queen's University
+Jeffrey Martin,7.0,"Reinforcement Learning, Deep Learning",Bachelor,Data Science,Queen's University
+Kim Conway,2.0,"Cloud Computing, ML Ops",PhD,Software Engineering,McGill University
+Christopher Morgan,3.0,"Deep Learning, R, Statistics, NLP, PyTorch",Master,Machine Learning,Western University
+Daniel Williams,6.0,"SQL, Data Analysis",PhD,AI,McGill University
+Robin Scott,7.0,"Cloud Computing, ML Ops, Computer Vision",Associate,AI,McGill University
+Cody Guerrero,1.0,"Cloud Computing, ML Ops, Java, Machine Learning, Computer Vision",PhD,Computer Science,University of Alberta
+Sherry Morales,5.0,"Java, Machine Learning",Associate,AI,University of British Columbia
+Mario Walker,0.0,"Deep Learning, Cloud Computing, ML Ops, Scikit-learn",Master,Statistics,University of Alberta
+Nicole Gonzales,,Scikit-learn,PhD,Machine Learning,University of Toronto
+Robert Austin,,"R, Statistics, Deep Learning",Master,Software Engineering,University of Toronto
+Samantha Franklin,10.0,Deep Learning,PhD,Software Engineering,McGill University
+Priscilla Hale,10.0,"Java, Machine Learning",Associate,Statistics,McGill University
+Charles Hobbs,10.0,"R, Statistics, Python, TensorFlow",PhD,Software Engineering,University of British Columbia
+Donald Morales,6.0,"Computer Vision, Deep Learning",Bachelor,Software Engineering,McMaster University
+Michele Hurst,9.0,"Python, TensorFlow, R, Statistics, Cloud Computing, ML Ops",PhD,AI,University of Waterloo
+Sandra Evans,3.0,"Python, TensorFlow, R, Statistics, Java, Machine Learning",Bachelor,Computer Science,Western University
+Paige Elliott,6.0,Deep Learning,Bachelor,Software Engineering,University of Waterloo
+John Garza,1.0,"NLP, PyTorch",Bachelor,Machine Learning,McGill University
+Michael Williams,8.0,"Computer Vision, SQL, Data Analysis, Scikit-learn",Associate,AI,York University
+Miranda Ruiz,7.0,"Java, Machine Learning",Master,Statistics,McMaster University
+David Butler,9.0,"NLP, PyTorch, R, Statistics",Associate,Statistics,University of Ottawa
+Bradley Reed,7.0,"SQL, Data Analysis, Reinforcement Learning, Python, TensorFlow",Associate,AI,Western University
+Dr. Garrett Jackson,10.0,Reinforcement Learning,Bachelor,AI,McMaster University
+Karen Williams,10.0,"R, Statistics, Java, Machine Learning",Associate,Statistics,University of Ottawa
+Jill Glover,9.0,"Computer Vision, Reinforcement Learning, NLP, PyTorch",Associate,Software Engineering,McMaster University
+Theresa Young,8.0,"Python, TensorFlow",Associate,AI,University of Toronto
+Travis Hopkins,7.0,"NLP, PyTorch, Reinforcement Learning",PhD,Statistics,Western University
+Joseph Hammond,5.0,"R, Statistics",PhD,Data Science,Queen's University
+Jorge Jones,10.0,"NLP, PyTorch",Master,Data Science,University of Alberta
+Wendy James,10.0,"SQL, Data Analysis",PhD,Machine Learning,McGill University
+Dennis Chambers,,"Deep Learning, NLP, PyTorch",Bachelor,AI,University of Ottawa
+Laura Reed,3.0,Deep Learning,PhD,Machine Learning,Western University
+Isaiah Campbell,6.0,Computer Vision,PhD,Data Science,Queen's University
+Stephen Gonzalez,9.0,"Computer Vision, Python, TensorFlow",Master,Software Engineering,Western University
+Angela Snyder,8.0,"NLP, PyTorch, Python, TensorFlow, R, Statistics",PhD,Computer Science,University of Toronto
+David Cantrell,,"Java, Machine Learning",Master,AI,Western University
+Vanessa Holden,6.0,Scikit-learn,Bachelor,Statistics,McGill University
+Jessica Ross,10.0,"Scikit-learn, SQL, Data Analysis, Deep Learning",PhD,Machine Learning,University of Ottawa
+Michael Thornton,2.0,"Reinforcement Learning, Deep Learning, Cloud Computing, ML Ops",PhD,AI,University of British Columbia
+Scott Spencer,5.0,"Python, TensorFlow, R, Statistics",Master,Data Science,University of Ottawa
+Taylor Allen,0.0,"Cloud Computing, ML Ops",PhD,Machine Learning,University of Ottawa
+James Rowe,4.0,Scikit-learn,PhD,Data Science,Queen's University
+Sarah Williams,,"Deep Learning, Python, TensorFlow",Associate,Statistics,University of Ottawa
+Andrew Mccullough,0.0,"Deep Learning, R, Statistics, Scikit-learn",PhD,Data Science,University of Ottawa
+Matthew Stark,0.0,"Scikit-learn, Deep Learning, Cloud Computing, ML Ops",PhD,Software Engineering,University of Alberta
+Christopher Wiggins,3.0,"Scikit-learn, R, Statistics",Associate,AI,University of Toronto
+Candice Payne,9.0,"Python, TensorFlow",Associate,Statistics,Queen's University
+David Schmidt,6.0,"Java, Machine Learning",Associate,Data Science,University of Waterloo
+Jennifer Villanueva,3.0,"NLP, PyTorch, Python, TensorFlow",PhD,Computer Science,McMaster University
+Jennifer Campbell,10.0,Computer Vision,PhD,Machine Learning,McGill University
+Michelle Owens,10.0,"Deep Learning, Java, Machine Learning",PhD,Software Engineering,Queen's University
+Jenna Strickland,3.0,"NLP, PyTorch",Bachelor,AI,McMaster University
+Ryan Poole,7.0,"Computer Vision, NLP, PyTorch, Scikit-learn",Bachelor,Computer Science,Queen's University
+Donald Garcia,8.0,"Deep Learning, Java, Machine Learning, Reinforcement Learning",Bachelor,AI,York University
+Terrence Thompson,,"Scikit-learn, Computer Vision",Master,AI,University of Toronto
+Nathan Bailey,5.0,"Scikit-learn, Deep Learning",Master,Statistics,York University
+Alice Sullivan,9.0,"Computer Vision, SQL, Data Analysis",Associate,Computer Science,University of British Columbia
+Michele Smith,7.0,"Cloud Computing, ML Ops, R, Statistics, Java, Machine Learning",Bachelor,Data Science,York University
+Robert Sheppard,4.0,"Java, Machine Learning, Computer Vision",Master,Machine Learning,University of Alberta
+Steven Jones,4.0,"Python, TensorFlow, Cloud Computing, ML Ops, Java, Machine Learning",Master,Data Science,University of Ottawa
+Christopher May,0.0,Reinforcement Learning,Bachelor,Software Engineering,Western University
+Katrina Reynolds,6.0,Deep Learning,Associate,Machine Learning,Queen's University
+Sandy Stafford,8.0,"NLP, PyTorch, Scikit-learn",Associate,Data Science,University of Alberta
+Johnathan Alvarez,,"SQL, Data Analysis",Bachelor,Software Engineering,University of Waterloo
+Angel Michael,2.0,"NLP, PyTorch, Computer Vision, Java, Machine Learning",Bachelor,Data Science,McMaster University
+Raymond Diaz,9.0,"Scikit-learn, Deep Learning, Reinforcement Learning",PhD,Software Engineering,McGill University
+Austin Clayton,6.0,"R, Statistics, SQL, Data Analysis",Master,Software Engineering,University of Waterloo
+Paul Ewing,5.0,Scikit-learn,PhD,Computer Science,University of Ottawa
+Shawn Hanson,2.0,"SQL, Data Analysis",Associate,Statistics,Queen's University
+Damon Martinez,,"Scikit-learn, R, Statistics, Computer Vision",Associate,Statistics,University of Waterloo
+Joshua Neal,7.0,"Computer Vision, Cloud Computing, ML Ops, Scikit-learn",PhD,Software Engineering,York University
+Dr. Michelle Velez,2.0,"Cloud Computing, ML Ops, Scikit-learn",Master,Software Engineering,Queen's University
+Austin Ramirez,5.0,"Deep Learning, Python, TensorFlow, Computer Vision",PhD,AI,University of Toronto
+Amber Castillo,10.0,"Cloud Computing, ML Ops",Bachelor,Data Science,McGill University
+Stephen Nelson MD,1.0,"Deep Learning, Scikit-learn, Cloud Computing, ML Ops",Bachelor,Statistics,York University
+Juan Jackson,9.0,"SQL, Data Analysis, Computer Vision, Cloud Computing, ML Ops",Bachelor,AI,University of British Columbia
+Mrs. Victoria Dunn,,"Python, TensorFlow, Cloud Computing, ML Ops, NLP, PyTorch",Master,Data Science,University of Alberta
+David Mills,5.0,"Cloud Computing, ML Ops, R, Statistics, Python, TensorFlow",Associate,Computer Science,Western University
+Colin Hernandez,0.0,"Python, TensorFlow, Reinforcement Learning",Associate,Computer Science,University of Toronto
+Julie Simmons,6.0,"Cloud Computing, ML Ops, NLP, PyTorch",Bachelor,Computer Science,Queen's University
+Abigail Hampton,0.0,"Scikit-learn, Reinforcement Learning",PhD,Statistics,York University
+Alexis Brooks,7.0,"NLP, PyTorch, R, Statistics, Cloud Computing, ML Ops",Associate,Computer Science,McGill University
+David Hernandez,0.0,"NLP, PyTorch, Reinforcement Learning",Associate,Computer Science,University of Alberta
+Richard Wood,7.0,"Computer Vision, Scikit-learn, Cloud Computing, ML Ops",PhD,AI,University of Alberta
+Toni Brown,2.0,"R, Statistics, Scikit-learn",Associate,Computer Science,University of Alberta
+John Contreras,9.0,"Python, TensorFlow, Scikit-learn, Cloud Computing, ML Ops",Associate,Statistics,Queen's University
+Kim Leon,3.0,"Deep Learning, R, Statistics",Bachelor,Computer Science,McGill University
+Brooke Black,0.0,Deep Learning,Bachelor,Machine Learning,Queen's University
+Teresa Mcconnell,6.0,"Scikit-learn, SQL, Data Analysis",Associate,Software Engineering,York University
+William Anderson,2.0,"Java, Machine Learning, Scikit-learn, Deep Learning",PhD,AI,York University
+David Carrillo,,"Scikit-learn, Reinforcement Learning",Master,AI,University of Alberta
+Natalie Smith,7.0,"Cloud Computing, ML Ops",Bachelor,Computer Science,York University
+Brenda Anderson,7.0,"Reinforcement Learning, Java, Machine Learning",Associate,Software Engineering,York University
+Omar Lutz,9.0,"R, Statistics",PhD,Computer Science,University of Alberta
+Matthew Anderson,8.0,"R, Statistics, Java, Machine Learning, SQL, Data Analysis",Associate,Statistics,University of Toronto
+Amy Kelley,3.0,"R, Statistics, Reinforcement Learning, Deep Learning",Master,Data Science,Western University
+Corey Long,2.0,"Java, Machine Learning, Reinforcement Learning",Bachelor,Data Science,York University
+Christopher Smith,6.0,"NLP, PyTorch, Computer Vision",Master,Statistics,University of Toronto
+Elizabeth Owens,1.0,"Reinforcement Learning, Computer Vision",PhD,Software Engineering,University of Waterloo
+Patrick Austin,5.0,Scikit-learn,Associate,Software Engineering,Western University
+Mackenzie Gordon,7.0,Deep Learning,Associate,Data Science,University of Alberta
+Brianna Peters,2.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,AI,University of Toronto
+Kelly Mcconnell,7.0,"Reinforcement Learning, Computer Vision, SQL, Data Analysis",Associate,AI,York University
+Jeffrey Gregory,8.0,"Python, TensorFlow",PhD,Computer Science,University of Toronto
+Mark Santiago,3.0,"Computer Vision, Python, TensorFlow",Associate,Statistics,York University
+Timothy Smith,9.0,"Python, TensorFlow, Deep Learning, Computer Vision",PhD,AI,University of Toronto
+Chad Bell,2.0,"Deep Learning, Java, Machine Learning",Associate,Computer Science,University of Toronto
+Sonya Brown,0.0,"Computer Vision, SQL, Data Analysis",Bachelor,AI,University of Waterloo
+Craig Dyer,,Reinforcement Learning,Associate,Machine Learning,York University
+Kevin Hampton,2.0,"Python, TensorFlow, Reinforcement Learning, R, Statistics",PhD,Software Engineering,University of Alberta
+Stephen Hodge,,"Java, Machine Learning, SQL, Data Analysis, Python, TensorFlow",PhD,Computer Science,University of British Columbia
+Stephanie White,5.0,"Reinforcement Learning, Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,Computer Science,Queen's University
+Andrea Mcdonald,10.0,"SQL, Data Analysis",Bachelor,Statistics,Western University
+Danielle Webster MD,9.0,"Python, TensorFlow, Deep Learning, Cloud Computing, ML Ops",Bachelor,Data Science,University of Ottawa
+Lauren Riley,,"Computer Vision, Deep Learning, Cloud Computing, ML Ops",Master,Machine Learning,University of British Columbia
+Ryan Hoover,9.0,"Python, TensorFlow, Java, Machine Learning, Cloud Computing, ML Ops",Bachelor,AI,University of Alberta
+Benjamin Lane,2.0,"Cloud Computing, ML Ops, NLP, PyTorch, Scikit-learn",Master,Statistics,University of Alberta
+Yvonne Moore,6.0,"Cloud Computing, ML Ops, Java, Machine Learning, Scikit-learn",Master,Machine Learning,University of Ottawa
+Danielle Ortega,8.0,"NLP, PyTorch",Master,Statistics,University of Toronto
+Anna Cohen,6.0,"Cloud Computing, ML Ops, Java, Machine Learning, Deep Learning",PhD,Computer Science,Western University
+Brenda Obrien,1.0,"Computer Vision, NLP, PyTorch, Scikit-learn",Associate,Software Engineering,Western University
+Samantha Jones,1.0,"Computer Vision, Python, TensorFlow, Reinforcement Learning",Associate,Data Science,University of Ottawa
+James Sanders,,"Reinforcement Learning, Java, Machine Learning",PhD,AI,University of Toronto
+Brianna Smith,6.0,Scikit-learn,Bachelor,Data Science,University of Toronto
+Charles Graves,6.0,"Cloud Computing, ML Ops",Associate,Computer Science,University of Alberta
+Jeffrey Contreras,,"Computer Vision, R, Statistics",Master,Machine Learning,York University
+Stacy Duncan,10.0,"Reinforcement Learning, R, Statistics",PhD,Statistics,University of Toronto
+Henry Mcintyre,1.0,Scikit-learn,Bachelor,AI,York University
+Matthew Evans,8.0,Reinforcement Learning,PhD,Data Science,University of Alberta
+Mary Padilla MD,0.0,"SQL, Data Analysis",Associate,Data Science,University of Waterloo
+Sara Bruce,9.0,"SQL, Data Analysis, Computer Vision",Master,Statistics,University of British Columbia
+Calvin Ray,,"Scikit-learn, Deep Learning",PhD,Software Engineering,McGill University
+Alexandria Dodson,10.0,Scikit-learn,Associate,Software Engineering,University of Toronto
+Miguel Williams,5.0,Computer Vision,Bachelor,Computer Science,University of Alberta
+Abigail Clay,10.0,Scikit-learn,Master,AI,York University
+Michael Ingram,1.0,"NLP, PyTorch, R, Statistics",Master,AI,University of Toronto
+Aaron Williams,6.0,"Scikit-learn, Python, TensorFlow, R, Statistics",Associate,Machine Learning,University of Toronto
+Jennifer Barron,9.0,Deep Learning,Associate,Computer Science,York University
+Dakota Aguilar,3.0,"Python, TensorFlow",Associate,Statistics,University of Alberta
+Tiffany Perry,4.0,"SQL, Data Analysis, NLP, PyTorch",Bachelor,Machine Learning,University of Waterloo
+William Walton,4.0,"Cloud Computing, ML Ops, Scikit-learn, Python, TensorFlow",Bachelor,Computer Science,McMaster University
+Lauren Thompson,9.0,"Scikit-learn, Reinforcement Learning, Cloud Computing, ML Ops",Associate,Statistics,Queen's University
+Sabrina Gross,3.0,"NLP, PyTorch",Master,Data Science,University of British Columbia
+Ashley Holland,10.0,"Reinforcement Learning, R, Statistics, Java, Machine Learning",Master,Computer Science,University of Alberta
+Alexis Gentry,1.0,"Computer Vision, Scikit-learn, NLP, PyTorch",Associate,Data Science,McGill University
+Carrie Powell,0.0,"R, Statistics",Master,Data Science,University of Waterloo
+Jack Carter,5.0,"Cloud Computing, ML Ops",Master,Statistics,Western University
+Cathy Edwards,1.0,"Java, Machine Learning, R, Statistics",Associate,AI,University of Toronto
+Yvonne Benitez,0.0,"Java, Machine Learning, Computer Vision",Associate,Machine Learning,University of Alberta
+Karen Hall,3.0,"Reinforcement Learning, R, Statistics, Cloud Computing, ML Ops",Bachelor,Software Engineering,University of Alberta
+Terry Arnold,6.0,"Computer Vision, Java, Machine Learning",Bachelor,AI,University of Ottawa
+Andrea Fernandez,7.0,Scikit-learn,Master,Statistics,McGill University
+Ariel Bishop,3.0,"Cloud Computing, ML Ops, Python, TensorFlow",Bachelor,Statistics,McGill University
+Maria Cole,10.0,Reinforcement Learning,Master,Software Engineering,University of Toronto
+Sean Clark,6.0,"Java, Machine Learning, SQL, Data Analysis",Bachelor,Statistics,University of Toronto
+Elizabeth Bennett,,"NLP, PyTorch",Bachelor,Computer Science,McGill University
+Susan Martinez,2.0,Scikit-learn,Associate,Computer Science,University of Alberta
+Diana Williams,0.0,"SQL, Data Analysis, Reinforcement Learning",Master,Computer Science,University of British Columbia
+Austin Estrada PhD,1.0,"Java, Machine Learning, Deep Learning, SQL, Data Analysis",Bachelor,Data Science,University of Ottawa
+Amanda Campos,0.0,"Cloud Computing, ML Ops",Bachelor,Software Engineering,University of Alberta
+Michael Berger,9.0,"Java, Machine Learning, Cloud Computing, ML Ops",PhD,Computer Science,University of Alberta
+Tracey Kerr,7.0,"R, Statistics, Reinforcement Learning, Scikit-learn",Master,Statistics,University of Toronto
+Charles Russo,7.0,"Deep Learning, Python, TensorFlow",Associate,Statistics,McMaster University
+Joseph Ramsey,9.0,"Python, TensorFlow, Computer Vision, Java, Machine Learning",Master,Statistics,University of Waterloo
+James Foster,6.0,"NLP, PyTorch, Cloud Computing, ML Ops, Scikit-learn",Associate,AI,University of Alberta
+Richard Quinn,1.0,"Scikit-learn, SQL, Data Analysis, NLP, PyTorch",Associate,Statistics,University of Waterloo
+Christopher Wise,5.0,Deep Learning,Master,Software Engineering,University of Ottawa
+Jonathan Skinner,8.0,"SQL, Data Analysis, NLP, PyTorch, Python, TensorFlow",Associate,Machine Learning,McGill University
+Kelsey Perez,6.0,"Java, Machine Learning, Python, TensorFlow, NLP, PyTorch",Bachelor,Computer Science,York University
+Darlene Lopez,3.0,"Python, TensorFlow, Java, Machine Learning, Computer Vision",Master,AI,Western University
+Steven Williams,7.0,"Deep Learning, Java, Machine Learning",PhD,Data Science,University of Alberta
+Samuel Hines,2.0,"Deep Learning, R, Statistics, Reinforcement Learning",Master,Statistics,McGill University
+Dawn Jimenez,2.0,"Scikit-learn, Computer Vision, Cloud Computing, ML Ops",Master,Software Engineering,University of Waterloo
+Blake Davis,6.0,"Deep Learning, Reinforcement Learning",PhD,Machine Learning,University of Toronto
+Anthony Stewart,2.0,"Python, TensorFlow, Reinforcement Learning, NLP, PyTorch",Associate,AI,Queen's University
+Thomas Boyd,0.0,"Computer Vision, R, Statistics, Python, TensorFlow",Associate,AI,University of British Columbia
+Charles Williams,10.0,"Cloud Computing, ML Ops, Scikit-learn",Bachelor,Statistics,McMaster University
+Ryan Curtis,9.0,"Java, Machine Learning, Reinforcement Learning",Associate,Computer Science,University of Waterloo
+Nancy Williams,2.0,"Python, TensorFlow, Reinforcement Learning",PhD,Data Science,York University
+Jennifer Scott,,"Python, TensorFlow",Master,Software Engineering,University of Alberta
+Rodney Goodwin,6.0,"R, Statistics",Associate,Statistics,University of British Columbia
+Robert Bryant,5.0,Scikit-learn,Associate,Data Science,University of Alberta
+Christopher Scott,5.0,"Scikit-learn, Reinforcement Learning",Associate,Statistics,McMaster University
+Kathleen Sullivan,9.0,"Java, Machine Learning, Computer Vision",Associate,Statistics,McGill University
+Juan Shea,10.0,"Java, Machine Learning",PhD,Machine Learning,Queen's University
+Charles Williams,8.0,"NLP, PyTorch, R, Statistics, Scikit-learn",Associate,AI,University of Ottawa
+Melissa Kaufman,8.0,"Java, Machine Learning, Scikit-learn, Python, TensorFlow",Bachelor,Statistics,University of Waterloo
+Tamara Ibarra,10.0,"Reinforcement Learning, R, Statistics, Computer Vision",Master,Machine Learning,Queen's University
+Rebecca Mckinney,6.0,"Python, TensorFlow, Cloud Computing, ML Ops",Master,Computer Science,McGill University
+Michelle Adams,6.0,Reinforcement Learning,Bachelor,Statistics,University of British Columbia
+Olivia Black,9.0,"Java, Machine Learning, Computer Vision",Associate,AI,McMaster University
+Jacob Washington,,"SQL, Data Analysis",Associate,Machine Learning,McGill University
+Heather Cooper,10.0,"Cloud Computing, ML Ops",Master,Computer Science,Western University
+Tiffany Brown,,"Java, Machine Learning, Computer Vision, SQL, Data Analysis",Master,Data Science,Queen's University
+Anthony Carter,0.0,"SQL, Data Analysis, Computer Vision",PhD,AI,Queen's University
+Kimberly Myers,2.0,Deep Learning,Bachelor,Statistics,Queen's University
+Carlos Williams,0.0,Reinforcement Learning,Associate,Software Engineering,University of Ottawa
+John Russell,0.0,"SQL, Data Analysis",Master,Statistics,York University
+Kyle Murphy,10.0,"Java, Machine Learning, Computer Vision",PhD,Machine Learning,University of Waterloo
+Stanley Glenn,4.0,"R, Statistics, Computer Vision",Associate,Statistics,McGill University
+Mrs. Jennifer Kent,7.0,"Cloud Computing, ML Ops, Scikit-learn, Python, TensorFlow",Associate,Machine Learning,Queen's University
+James Gonzalez,7.0,"Python, TensorFlow",Associate,Statistics,York University
+Janice Ryan,8.0,"Java, Machine Learning, NLP, PyTorch",Associate,Machine Learning,University of Alberta
+Brian White,6.0,"Java, Machine Learning, Computer Vision",Master,Computer Science,University of Alberta
+Hannah Woods,2.0,"Java, Machine Learning",Master,Data Science,York University
+Kathryn Anderson MD,5.0,"Deep Learning, Cloud Computing, ML Ops",Bachelor,Statistics,University of Toronto
+Robert Pena,5.0,"Reinforcement Learning, Cloud Computing, ML Ops, Deep Learning",Master,Data Science,University of Waterloo
+Cynthia Ellis,10.0,"NLP, PyTorch, Reinforcement Learning, Deep Learning",PhD,Computer Science,University of British Columbia
+April Thomas,9.0,"Java, Machine Learning, NLP, PyTorch, R, Statistics",Bachelor,Software Engineering,McMaster University
+Lisa Sanchez,1.0,"Java, Machine Learning",Master,Statistics,University of Waterloo
+Kelsey Johnson,2.0,"Java, Machine Learning, Computer Vision, NLP, PyTorch",Master,Computer Science,University of Toronto
+Daniel Bailey,2.0,Scikit-learn,PhD,Data Science,University of Ottawa
+Brad Cross,0.0,Deep Learning,Bachelor,Machine Learning,Western University
+Jacqueline West,6.0,"Cloud Computing, ML Ops",Associate,Statistics,University of Toronto
+Morgan Carter,8.0,"Reinforcement Learning, R, Statistics, Scikit-learn",Master,Statistics,University of Toronto
+Jasmine Austin,6.0,"Java, Machine Learning, Deep Learning, Cloud Computing, ML Ops",Bachelor,Statistics,Western University
+Roberto Decker,,"Scikit-learn, Cloud Computing, ML Ops, Python, TensorFlow",Associate,Data Science,Queen's University
+Melissa Andersen,8.0,"Scikit-learn, Java, Machine Learning, Deep Learning",PhD,Data Science,University of British Columbia
+Jennifer Schultz,4.0,"Deep Learning, R, Statistics",Bachelor,Software Engineering,McMaster University
+Ryan Martin DDS,0.0,"Java, Machine Learning, Computer Vision, Cloud Computing, ML Ops",Associate,AI,McGill University
+Sarah Garcia,9.0,"Computer Vision, Scikit-learn",Bachelor,Software Engineering,University of Toronto
+Andrew Wong,,"Python, TensorFlow, NLP, PyTorch, R, Statistics",PhD,Data Science,University of British Columbia
+Sherri Flores,1.0,"R, Statistics",Master,Computer Science,Queen's University
+Richard Thomas,,"Reinforcement Learning, NLP, PyTorch",PhD,Computer Science,McGill University
+Amy Kirby,10.0,"SQL, Data Analysis, Cloud Computing, ML Ops",Associate,Data Science,York University
+Caleb Wheeler,9.0,"Deep Learning, NLP, PyTorch",PhD,Data Science,University of Waterloo
+Christine Thompson,,Reinforcement Learning,Master,Data Science,Western University
+Michael Ewing,5.0,"SQL, Data Analysis",Master,AI,Queen's University
+Joshua Sanders,3.0,"SQL, Data Analysis, R, Statistics, Python, TensorFlow",Associate,Software Engineering,University of British Columbia
+Benjamin Todd,,"Python, TensorFlow",Master,Data Science,McMaster University
+Elaine White,4.0,"Scikit-learn, Java, Machine Learning",Bachelor,Data Science,Western University
+Rhonda Mckee,10.0,"Cloud Computing, ML Ops, Java, Machine Learning, Reinforcement Learning",Master,Software Engineering,University of Waterloo
+Steven Mcknight,,Reinforcement Learning,Associate,AI,McGill University
+Tracy Herrera,4.0,"R, Statistics, Computer Vision",Master,Statistics,University of British Columbia
+Stephanie Oconnor,7.0,"Reinforcement Learning, R, Statistics",Bachelor,Computer Science,University of Alberta
+Brandon Guzman,2.0,Scikit-learn,Master,Software Engineering,York University
+Ashley Harvey,7.0,"NLP, PyTorch",Associate,AI,York University
+Cynthia Prince,,"Computer Vision, NLP, PyTorch, Python, TensorFlow",Associate,Software Engineering,University of British Columbia
+Amanda Harris,0.0,"Scikit-learn, Deep Learning, Cloud Computing, ML Ops",Bachelor,Computer Science,University of British Columbia
+Shannon Griffin,7.0,"Java, Machine Learning, R, Statistics, Reinforcement Learning",Associate,Machine Learning,Queen's University
+Kelly Good,2.0,"Python, TensorFlow, Computer Vision",Master,Data Science,York University
+Mark Williams,2.0,"Deep Learning, Scikit-learn, Cloud Computing, ML Ops",PhD,Computer Science,University of British Columbia
+Haley Shelton,,"Reinforcement Learning, Java, Machine Learning, Python, TensorFlow",PhD,Data Science,McMaster University
+Peter Glover,6.0,"Computer Vision, Deep Learning",PhD,Computer Science,University of British Columbia
+Charles Morgan,,"Computer Vision, R, Statistics",Master,Computer Science,University of Toronto
+Andrea Rose,6.0,"NLP, PyTorch, Python, TensorFlow, Cloud Computing, ML Ops",Bachelor,Software Engineering,York University
+Joel Lang,3.0,"Python, TensorFlow",PhD,Software Engineering,University of Toronto
+Aaron Sanders,4.0,"Computer Vision, Python, TensorFlow, SQL, Data Analysis",PhD,Software Engineering,University of Alberta
+Michelle Collins,0.0,"Java, Machine Learning, Scikit-learn, Deep Learning",Bachelor,Statistics,University of Alberta
+Adam Welch,,"NLP, PyTorch, Python, TensorFlow, Computer Vision",Associate,Computer Science,Queen's University
+Alicia Larson,4.0,"NLP, PyTorch",Associate,Machine Learning,University of Toronto
+Elizabeth Rollins,8.0,Scikit-learn,Master,Machine Learning,University of Waterloo
+Holly Johnson,10.0,"SQL, Data Analysis, Scikit-learn",Master,AI,Queen's University
+Kelli Zavala,,"Cloud Computing, ML Ops",PhD,Data Science,University of Alberta
+Mark Hernandez,10.0,"Scikit-learn, NLP, PyTorch",Master,Computer Science,McGill University
+Susan Hansen,8.0,"Scikit-learn, Java, Machine Learning",Associate,AI,York University
+Kristy Beck,,Reinforcement Learning,Associate,Statistics,York University
+Beth Sutton,0.0,"Cloud Computing, ML Ops",Master,Statistics,University of Toronto
+Joel Gregory,7.0,"SQL, Data Analysis, Reinforcement Learning",Master,Data Science,York University
+Phyllis Burnett,,"Python, TensorFlow",Associate,Machine Learning,University of British Columbia
+Janice Fernandez,4.0,"NLP, PyTorch",Master,Machine Learning,Queen's University
+David Wood,,Reinforcement Learning,Bachelor,Software Engineering,University of Toronto
+Jill Flynn,9.0,"NLP, PyTorch, Computer Vision, Deep Learning",Bachelor,Statistics,University of Ottawa
+Laura Aguilar,2.0,"Deep Learning, SQL, Data Analysis",Master,Statistics,York University
+Mr. Justin Perez MD,1.0,"Cloud Computing, ML Ops",Master,AI,University of Alberta
+Damon Russell,0.0,"Cloud Computing, ML Ops",PhD,Software Engineering,Western University
+Elizabeth Davis,5.0,"NLP, PyTorch",PhD,Statistics,Western University
+Matthew Walker,,"Deep Learning, Reinforcement Learning, Cloud Computing, ML Ops",Associate,Machine Learning,McGill University
+Gabriella Garcia,8.0,"R, Statistics",Master,Data Science,University of British Columbia
+Sergio Richard,8.0,"Python, TensorFlow",Bachelor,AI,University of Toronto
+Diane Murphy,10.0,"Java, Machine Learning, Computer Vision",Master,Computer Science,McGill University
+Kathleen Gordon,,Scikit-learn,Master,Computer Science,Western University
+Spencer Ward,1.0,"R, Statistics, Reinforcement Learning",PhD,Statistics,Queen's University
+Tammy Mccann,9.0,"Java, Machine Learning, Computer Vision, Deep Learning",Associate,Machine Learning,McGill University
+Tracy Lopez,3.0,"Reinforcement Learning, Python, TensorFlow",Master,Machine Learning,Western University
+Megan Zimmerman,0.0,"Cloud Computing, ML Ops",Master,Computer Science,York University
+Zachary Tran,10.0,"NLP, PyTorch, Reinforcement Learning, Python, TensorFlow",Bachelor,Statistics,University of British Columbia
+Sara Wilcox,1.0,Scikit-learn,Master,Software Engineering,McGill University
+Melanie Stewart,5.0,"Deep Learning, Cloud Computing, ML Ops, R, Statistics",Master,Machine Learning,University of Waterloo
+Autumn Moreno,,"Java, Machine Learning",Associate,Data Science,University of Toronto
+Keith Ellis,,"Java, Machine Learning, Scikit-learn, Deep Learning",Associate,Software Engineering,McGill University
+Steven Davis,2.0,"Python, TensorFlow, Reinforcement Learning, Computer Vision",Associate,Data Science,University of Alberta
+Leslie Boyer,8.0,"Cloud Computing, ML Ops",Master,Computer Science,Queen's University
+Philip Hansen MD,1.0,"Cloud Computing, ML Ops, Java, Machine Learning",Associate,AI,Queen's University
+Louis Hughes,10.0,"Java, Machine Learning, Reinforcement Learning, Scikit-learn",Master,Data Science,McMaster University
+Jillian Bishop,6.0,Scikit-learn,PhD,Data Science,University of Alberta
+Jay Cole,10.0,"Deep Learning, Python, TensorFlow, Java, Machine Learning",Master,Machine Learning,University of Ottawa
+Steven Peterson,7.0,"Python, TensorFlow, R, Statistics",Associate,Computer Science,University of Toronto
+Christina Frederick,1.0,"Computer Vision, Deep Learning",Bachelor,AI,University of Waterloo
+Carrie Russell,,"Computer Vision, Scikit-learn",Master,Data Science,University of Alberta
+Veronica Taylor,0.0,"Python, TensorFlow, NLP, PyTorch",PhD,Computer Science,Western University
+Teresa Smith,2.0,"Scikit-learn, Cloud Computing, ML Ops",PhD,Data Science,York University
+Bryan Tucker,5.0,"Scikit-learn, Python, TensorFlow",Associate,Statistics,Western University
+Colton Noble,3.0,"Scikit-learn, Python, TensorFlow",Master,Software Engineering,McMaster University
+Raymond Flynn,0.0,"Deep Learning, Java, Machine Learning",PhD,Statistics,University of Ottawa
+Charles Myers,5.0,Scikit-learn,PhD,Data Science,University of Waterloo
+Terry Smith,2.0,"Python, TensorFlow, Scikit-learn, Cloud Computing, ML Ops",Master,Computer Science,Western University
+Andre King,,"Cloud Computing, ML Ops",Master,Data Science,Queen's University
+Ashley Gibson,5.0,"Python, TensorFlow",Bachelor,Statistics,University of British Columbia
+Trevor Vargas,7.0,"SQL, Data Analysis",Associate,Computer Science,University of British Columbia
+Louis Clark,2.0,"Cloud Computing, ML Ops",Bachelor,Data Science,Queen's University
+Austin Carter,5.0,"SQL, Data Analysis, Cloud Computing, ML Ops, Scikit-learn",Master,AI,University of Waterloo
+Bryan Daniels,1.0,"Java, Machine Learning, Cloud Computing, ML Ops",Bachelor,Computer Science,Western University
+Paul Willis,2.0,Deep Learning,Master,AI,York University
+Angelica Davenport PhD,3.0,"Computer Vision, Cloud Computing, ML Ops",Associate,Machine Learning,Western University
+Jessica Vazquez,1.0,"Java, Machine Learning",PhD,Data Science,Queen's University
+Jasmine Kirby,4.0,"Java, Machine Learning, Computer Vision, Deep Learning",Associate,Statistics,York University
+Andrew Fischer,,"NLP, PyTorch",Master,Statistics,McGill University
+Tasha Harvey,9.0,"Java, Machine Learning, Cloud Computing, ML Ops, Reinforcement Learning",Associate,AI,York University
+Mrs. Kimberly Bentley PhD,1.0,"Python, TensorFlow, Scikit-learn, Reinforcement Learning",Bachelor,Software Engineering,York University
+Elizabeth Black,10.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,Computer Science,University of Waterloo
+Terri Diaz,2.0,"Reinforcement Learning, NLP, PyTorch",PhD,Machine Learning,University of Waterloo
+James Vargas,4.0,"R, Statistics, Computer Vision",Bachelor,Machine Learning,University of Ottawa
+Justin Solis,0.0,"Scikit-learn, NLP, PyTorch",PhD,Data Science,York University
+Brittany Farmer,,Reinforcement Learning,Master,AI,University of British Columbia
+Teresa Wallace,3.0,"SQL, Data Analysis",Bachelor,Software Engineering,York University
+Kevin Watson,,"R, Statistics, Scikit-learn, SQL, Data Analysis",Associate,Data Science,University of Ottawa
+Frank Robles,9.0,"Scikit-learn, Python, TensorFlow",Bachelor,Computer Science,University of Waterloo
+Erik Chaney,3.0,"Deep Learning, Reinforcement Learning",Bachelor,Statistics,University of Alberta
+Chase Martin,9.0,"Deep Learning, SQL, Data Analysis",Master,Machine Learning,McMaster University
+Angela Lopez MD,0.0,"Reinforcement Learning, Computer Vision",PhD,Computer Science,University of British Columbia
+Allison Daniel,3.0,"SQL, Data Analysis, Python, TensorFlow, Cloud Computing, ML Ops",Bachelor,Software Engineering,University of Alberta
+Morgan Huang,8.0,Deep Learning,PhD,Software Engineering,University of Toronto
+Jonathan Roach,10.0,"Python, TensorFlow, Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,Software Engineering,University of Waterloo
+Peter Anderson,0.0,Reinforcement Learning,Master,Machine Learning,McGill University
+Christopher Perkins,0.0,"NLP, PyTorch, R, Statistics, Scikit-learn",Bachelor,AI,McGill University
+Lisa Williams,8.0,"Deep Learning, Python, TensorFlow, Scikit-learn",PhD,Data Science,University of Alberta
+Robert Harper,8.0,"Java, Machine Learning",Master,Statistics,University of Toronto
+Kevin Mcintosh,,"Computer Vision, NLP, PyTorch",PhD,Data Science,University of Toronto
+Richard Leblanc,,Deep Learning,Bachelor,Statistics,Western University
+Morgan Porter,,Deep Learning,Bachelor,Computer Science,University of Waterloo
+Morgan Moore,6.0,"Scikit-learn, Python, TensorFlow",Bachelor,Computer Science,University of Toronto
+Tanner Myers,1.0,"Reinforcement Learning, Scikit-learn",Associate,Statistics,York University
+Cynthia Kent,2.0,"Computer Vision, Cloud Computing, ML Ops",Master,Machine Learning,University of Toronto
+Joan Boyer,10.0,"Computer Vision, Python, TensorFlow",Master,Statistics,Queen's University
+Tami Rodriguez,9.0,"R, Statistics, Java, Machine Learning",PhD,Software Engineering,University of Alberta
+Casey Long,0.0,"NLP, PyTorch",Master,Data Science,University of Ottawa
+Carlos Blackwell,9.0,Computer Vision,Master,Machine Learning,University of Alberta
+Dennis Bryant,9.0,"Scikit-learn, Python, TensorFlow, R, Statistics",Bachelor,Computer Science,University of Ottawa
+Allison Byrd,9.0,"Python, TensorFlow, Reinforcement Learning",Master,Machine Learning,McGill University
+Daniel Alexander,9.0,"Java, Machine Learning, Deep Learning",PhD,Computer Science,McGill University
+Brandy Cooper,2.0,"Deep Learning, Cloud Computing, ML Ops, Reinforcement Learning",Associate,Machine Learning,University of Alberta
+David Bean,0.0,Computer Vision,Associate,AI,University of Waterloo
+Ricardo Wilson,6.0,"NLP, PyTorch, Java, Machine Learning",PhD,Statistics,Queen's University
+Natasha Contreras,,"SQL, Data Analysis, Scikit-learn",Bachelor,Machine Learning,Queen's University
+Duane Gibson,2.0,"Java, Machine Learning, Reinforcement Learning, NLP, PyTorch",Bachelor,Statistics,University of British Columbia
+Alejandra Beasley,6.0,"Deep Learning, Scikit-learn",Bachelor,Software Engineering,McMaster University
+Deanna Holt,1.0,"R, Statistics",Bachelor,Statistics,Queen's University
+Stacy Richardson,10.0,"Java, Machine Learning, Python, TensorFlow",Bachelor,Data Science,University of British Columbia
+Jennifer Wilcox,6.0,"SQL, Data Analysis, NLP, PyTorch",PhD,AI,York University
+Anthony Ferrell,1.0,"Computer Vision, Reinforcement Learning, NLP, PyTorch",Associate,AI,University of Ottawa
+Alexis Thompson,10.0,"Python, TensorFlow",Bachelor,Machine Learning,Queen's University
+Caitlin Wilson,2.0,"NLP, PyTorch, Scikit-learn, Java, Machine Learning",PhD,Data Science,University of British Columbia
+Caitlin Whitney,0.0,Scikit-learn,Master,Data Science,University of British Columbia
+Jonathan Compton,10.0,"Cloud Computing, ML Ops, Java, Machine Learning, SQL, Data Analysis",Master,Machine Learning,University of Waterloo
+Alexandra Gordon,3.0,Reinforcement Learning,Master,Computer Science,McGill University
+Brittany Mccarthy,,"SQL, Data Analysis, Computer Vision, Scikit-learn",Associate,Software Engineering,University of British Columbia
+Carrie Barnes,10.0,"Java, Machine Learning, Computer Vision, Reinforcement Learning",Associate,Software Engineering,University of Alberta
+Matthew Singh,7.0,"Computer Vision, Scikit-learn",Associate,AI,University of Ottawa
+Nicole Owen,6.0,"Scikit-learn, NLP, PyTorch, Deep Learning",PhD,Software Engineering,York University
+Paul Sharp,,"Deep Learning, R, Statistics",Master,Statistics,University of Waterloo
+Emily Mckenzie,0.0,"Cloud Computing, ML Ops",Master,Software Engineering,McGill University
+Claudia Jackson,1.0,"NLP, PyTorch, Java, Machine Learning",Bachelor,AI,University of Waterloo
+Travis Scott,,Scikit-learn,PhD,Statistics,York University
+Michael Allen,,"Scikit-learn, Java, Machine Learning",Master,AI,University of Toronto
+Rebecca Tucker,3.0,"Python, TensorFlow, Cloud Computing, ML Ops",Master,Statistics,University of British Columbia
+Sharon Hamilton,2.0,"Scikit-learn, Computer Vision, R, Statistics",Bachelor,Machine Learning,University of British Columbia
+Cheryl Lewis,6.0,Reinforcement Learning,Master,Statistics,University of Ottawa
+Jim Perez,3.0,Reinforcement Learning,PhD,AI,University of Ottawa
+Michele Stevenson,5.0,"NLP, PyTorch",Master,AI,University of British Columbia
+Kyle Woodward,1.0,"Python, TensorFlow, Cloud Computing, ML Ops",Bachelor,AI,University of Alberta
+Carolyn Reilly,2.0,"Deep Learning, Computer Vision, R, Statistics",Master,Software Engineering,York University
+Kathy Martinez,9.0,"Computer Vision, Reinforcement Learning",Bachelor,Computer Science,York University
+Crystal Garcia,0.0,"NLP, PyTorch",PhD,Computer Science,McGill University
+Cathy Parker,4.0,"SQL, Data Analysis, Deep Learning",PhD,Software Engineering,University of Ottawa
+Joanna Contreras,3.0,"SQL, Data Analysis, NLP, PyTorch",Master,Statistics,University of British Columbia
+Glen Jones,,"Reinforcement Learning, Java, Machine Learning, Computer Vision",Associate,Computer Science,University of Toronto
+Johnny Gregory,8.0,Deep Learning,Master,Statistics,University of Alberta
+Ashley Fisher,0.0,"Computer Vision, SQL, Data Analysis, Python, TensorFlow",PhD,AI,University of Ottawa
+Katherine Anderson,3.0,"NLP, PyTorch, Deep Learning",Master,Machine Learning,McGill University
+Joshua Miller,2.0,"Python, TensorFlow, SQL, Data Analysis, Cloud Computing, ML Ops",Associate,Data Science,Queen's University
+Jessica Wade,9.0,"Deep Learning, NLP, PyTorch",Bachelor,AI,University of Ottawa
+James Gregory,2.0,"Cloud Computing, ML Ops",Associate,Machine Learning,McGill University
+David Miller,4.0,"Java, Machine Learning, Python, TensorFlow, NLP, PyTorch",PhD,Statistics,York University
+Jermaine Collins,9.0,"Cloud Computing, ML Ops, NLP, PyTorch, Deep Learning",PhD,Machine Learning,University of Waterloo
+Patrick Wilson,3.0,"Deep Learning, Reinforcement Learning",Associate,Computer Science,Queen's University
+Michael Price,,"Java, Machine Learning",PhD,Computer Science,University of Alberta
+Stephanie Juarez,4.0,"Java, Machine Learning",Master,Machine Learning,York University
+Rhonda Johnston,,"Scikit-learn, SQL, Data Analysis, Reinforcement Learning",Bachelor,Data Science,McGill University
+David Jackson,8.0,"NLP, PyTorch, Cloud Computing, ML Ops",Associate,Software Engineering,York University
+Bonnie Vang,4.0,Reinforcement Learning,Associate,Data Science,McGill University
+Nicholas Lara,4.0,"R, Statistics",Master,AI,York University
+Michael Dunn,6.0,"Reinforcement Learning, Scikit-learn",Associate,AI,University of Toronto
+Denise Banks,2.0,"NLP, PyTorch, Reinforcement Learning, Scikit-learn",Associate,Machine Learning,University of Waterloo
+Jason Chapman,4.0,"R, Statistics, Java, Machine Learning, Deep Learning",PhD,Machine Learning,University of Alberta
+Phillip Rogers,0.0,"Reinforcement Learning, Python, TensorFlow",Master,AI,University of Toronto
+Wendy Williams,10.0,"Java, Machine Learning",Associate,Statistics,McMaster University
+Nicholas Stevens,2.0,"R, Statistics, Computer Vision",Bachelor,Statistics,University of Ottawa
+Daniel Watson,0.0,Deep Learning,Associate,Data Science,McMaster University
+Francisco Wright,,"SQL, Data Analysis",PhD,Data Science,University of British Columbia
+Carrie Brown,7.0,"Deep Learning, R, Statistics, Computer Vision",Master,Statistics,University of Alberta
+Kyle Hoover,3.0,"Java, Machine Learning",Bachelor,Software Engineering,University of Alberta
+Laura Hunt,5.0,Computer Vision,PhD,Software Engineering,McMaster University
+Christina Hoffman,,"Python, TensorFlow, R, Statistics",Associate,Statistics,University of Toronto
+Nicholas Williams,3.0,"Scikit-learn, Java, Machine Learning",Associate,Machine Learning,University of British Columbia
+William Livingston,5.0,"Cloud Computing, ML Ops",Master,AI,University of Ottawa
+Angela Leon,4.0,"R, Statistics, Reinforcement Learning, Computer Vision",Bachelor,Software Engineering,Queen's University
+Michelle Ellis,,"NLP, PyTorch",Bachelor,Software Engineering,McMaster University
+Daniel Higgins,3.0,"Computer Vision, SQL, Data Analysis",Associate,Software Engineering,McMaster University
+Michael Murphy,5.0,"R, Statistics, Scikit-learn",Associate,Data Science,McMaster University
+Lauren Ryan,,"R, Statistics, SQL, Data Analysis, NLP, PyTorch",Bachelor,Computer Science,McMaster University
+Jacob Williams,1.0,"R, Statistics, Scikit-learn",Master,Software Engineering,Queen's University
+Cathy Gonzalez,2.0,"NLP, PyTorch, Reinforcement Learning, Deep Learning",Master,AI,University of Alberta
+Ryan Gutierrez,9.0,Scikit-learn,Bachelor,Statistics,University of Alberta
+Danielle Phillips,,Reinforcement Learning,Associate,Software Engineering,University of Waterloo
+Marissa Grimes,,"Scikit-learn, Python, TensorFlow, Cloud Computing, ML Ops",PhD,Data Science,University of British Columbia
+Jacob Barnett,5.0,"Computer Vision, Python, TensorFlow",Master,Computer Science,York University
+Michele Jones,9.0,"NLP, PyTorch",Associate,Computer Science,Queen's University
+Rhonda Bates,6.0,"Java, Machine Learning",Associate,Data Science,McMaster University
+Stephen Collins,8.0,Deep Learning,PhD,Data Science,Western University
+Dr. Patricia Cunningham,7.0,"Python, TensorFlow",Bachelor,Computer Science,Western University
+Anna Dyer,1.0,"Scikit-learn, Cloud Computing, ML Ops, Deep Learning",PhD,Computer Science,McMaster University
+Morgan Baker,5.0,"Scikit-learn, R, Statistics, Deep Learning",Bachelor,Machine Learning,McGill University
+Corey Mcmahon,3.0,"Reinforcement Learning, Scikit-learn",Associate,Machine Learning,University of Toronto
+Bryan Morgan,1.0,"NLP, PyTorch, Java, Machine Learning",PhD,Data Science,York University
+Kathy Mills,2.0,"Deep Learning, Cloud Computing, ML Ops",Bachelor,AI,Western University
+Laura Thompson,6.0,"Reinforcement Learning, Scikit-learn",Bachelor,AI,York University
+Erika Bowman,8.0,"Java, Machine Learning, Computer Vision, Reinforcement Learning",Bachelor,Data Science,Western University
+Amy Fischer,8.0,"Java, Machine Learning, Reinforcement Learning",Bachelor,Software Engineering,University of Waterloo
+Edward Vaughan,9.0,"NLP, PyTorch",Associate,Computer Science,University of Waterloo
+Andre Kennedy,0.0,Reinforcement Learning,PhD,Computer Science,Queen's University
+Crystal George,5.0,Computer Vision,PhD,Machine Learning,Queen's University
+Gwendolyn Robinson,2.0,"Python, TensorFlow, R, Statistics, Reinforcement Learning",Bachelor,Computer Science,McMaster University
+Emily Hayes,6.0,"Cloud Computing, ML Ops, Python, TensorFlow, Scikit-learn",PhD,Software Engineering,Western University
+Katie Trevino,,"Java, Machine Learning, Deep Learning",Master,Machine Learning,Queen's University
+Kari Washington,2.0,"Cloud Computing, ML Ops, Computer Vision",Associate,Software Engineering,Queen's University
+Jordan Martinez,2.0,"SQL, Data Analysis, Deep Learning",Associate,Data Science,University of Ottawa
+Gloria Garcia,,"Cloud Computing, ML Ops, SQL, Data Analysis, Computer Vision",Master,Software Engineering,McGill University
+Vanessa Anderson,6.0,"R, Statistics",Bachelor,Statistics,McMaster University
+Mr. Andrew Hensley,3.0,"Deep Learning, Computer Vision",PhD,Data Science,McMaster University
+Joshua Gardner,7.0,"Java, Machine Learning",Bachelor,Computer Science,University of British Columbia
+Michael Castillo,3.0,"Computer Vision, Reinforcement Learning",Bachelor,Data Science,York University
+Sherri Bennett,8.0,"Python, TensorFlow",Associate,Data Science,York University
+Alan Vazquez,5.0,"NLP, PyTorch",Bachelor,Computer Science,University of Ottawa
+Elizabeth Hammond,2.0,"Cloud Computing, ML Ops, Java, Machine Learning, NLP, PyTorch",PhD,Computer Science,University of Alberta
+Jeffrey Fernandez,8.0,"Reinforcement Learning, Scikit-learn",PhD,Data Science,University of British Columbia
+Melissa Williams,0.0,"Scikit-learn, Cloud Computing, ML Ops",PhD,Machine Learning,McGill University
+Johnny Edwards,,"Python, TensorFlow",Associate,Statistics,McMaster University
+Jessica Bates,8.0,"NLP, PyTorch",Master,AI,Queen's University
+Christopher Stephens,1.0,"NLP, PyTorch, Scikit-learn",PhD,Statistics,University of Toronto
+Holly Flowers,5.0,"Scikit-learn, Python, TensorFlow, SQL, Data Analysis",Master,Software Engineering,University of Waterloo
+Frank West,0.0,"Computer Vision, Reinforcement Learning, NLP, PyTorch",Master,AI,Queen's University
+Kevin Chung,7.0,"SQL, Data Analysis",Associate,Statistics,University of Ottawa
+Gregory Moss,6.0,"Reinforcement Learning, Cloud Computing, ML Ops, Python, TensorFlow",Associate,Machine Learning,McGill University
+Adam Reeves,6.0,"Java, Machine Learning, Reinforcement Learning",Associate,Computer Science,University of Waterloo
+John Allen,4.0,"Computer Vision, Cloud Computing, ML Ops, Deep Learning",Master,Software Engineering,University of Alberta
+Keith Roberts,4.0,"Computer Vision, SQL, Data Analysis, R, Statistics",Master,Computer Science,Queen's University
+Kim Henderson,10.0,"Python, TensorFlow, Computer Vision",Associate,Data Science,McMaster University
+Joshua Wood,1.0,Reinforcement Learning,PhD,Computer Science,Queen's University
+Alexandra Brown,6.0,"R, Statistics, Reinforcement Learning, SQL, Data Analysis",Associate,Statistics,McGill University
+Jamie Hill,10.0,"R, Statistics, Python, TensorFlow, Reinforcement Learning",Bachelor,Statistics,York University
+Robert Woods,5.0,"Python, TensorFlow, Scikit-learn",Master,Statistics,University of British Columbia
+Cynthia Sutton,5.0,"Reinforcement Learning, Computer Vision, Scikit-learn",Master,Statistics,University of Toronto
+Kevin Wood,8.0,"NLP, PyTorch",PhD,Statistics,University of Ottawa
+Cole Grant,,"SQL, Data Analysis, Java, Machine Learning",Master,Computer Science,Western University
+Timothy Tucker,3.0,"Python, TensorFlow, R, Statistics",Associate,Data Science,University of Waterloo
+Christopher Fitzgerald,,"NLP, PyTorch, Cloud Computing, ML Ops",Master,Software Engineering,Queen's University
+Maria Wilkins,10.0,Scikit-learn,Master,AI,York University
+Thomas Johnson,4.0,"Computer Vision, SQL, Data Analysis, R, Statistics",Bachelor,Software Engineering,University of Alberta
+Tracy Kennedy,10.0,"SQL, Data Analysis, Java, Machine Learning",Associate,Computer Science,Queen's University
+Barbara Chavez,5.0,"NLP, PyTorch, Deep Learning",PhD,Machine Learning,Queen's University
+Chad Valentine,6.0,"Java, Machine Learning",Bachelor,Machine Learning,University of Waterloo
+Kathleen Smith,2.0,"Scikit-learn, Deep Learning",Master,Statistics,University of Alberta
+William Riley,,"Scikit-learn, Python, TensorFlow, Computer Vision",PhD,Computer Science,York University
+Susan Maldonado,0.0,"Scikit-learn, NLP, PyTorch, R, Statistics",Master,Computer Science,University of Toronto
+Valerie Macdonald,,"Java, Machine Learning, Cloud Computing, ML Ops",Bachelor,AI,York University
+Hannah Mills,9.0,"Scikit-learn, Reinforcement Learning, Java, Machine Learning",Associate,Data Science,York University
+Angela Young,1.0,"R, Statistics",Bachelor,Data Science,University of British Columbia
+Kevin Weaver,1.0,Reinforcement Learning,Associate,Machine Learning,University of Waterloo
+Aaron Gibson,,"SQL, Data Analysis",Bachelor,Machine Learning,University of Waterloo
+David Noble,9.0,"Cloud Computing, ML Ops, SQL, Data Analysis, R, Statistics",Associate,Computer Science,McGill University
+Patricia Sanchez,,"NLP, PyTorch, R, Statistics, Reinforcement Learning",Bachelor,Software Engineering,McGill University
+Mary Castaneda,2.0,"Java, Machine Learning",Master,Machine Learning,McMaster University
+Devon Diaz,1.0,"R, Statistics, Java, Machine Learning",Master,Software Engineering,University of British Columbia
+Brittany Frank DVM,8.0,"SQL, Data Analysis",PhD,Machine Learning,Western University
+Paul Pollard,,"Scikit-learn, Python, TensorFlow",Bachelor,AI,University of Toronto
+Matthew Alexander,3.0,"Deep Learning, Scikit-learn, Python, TensorFlow",Associate,Machine Learning,University of Toronto
+Wendy Heath,5.0,Computer Vision,Master,Software Engineering,Western University
+Ethan Edwards,5.0,"Python, TensorFlow, Java, Machine Learning, SQL, Data Analysis",Associate,Computer Science,Western University
+Kevin Mclean,0.0,"Python, TensorFlow",Bachelor,Computer Science,University of Alberta
+Frank Berger,8.0,"Scikit-learn, Deep Learning, Java, Machine Learning",Master,Machine Learning,Western University
+Gina Campbell DDS,10.0,"Python, TensorFlow, Cloud Computing, ML Ops",Master,Machine Learning,University of Waterloo
+Joel Thompson,,"R, Statistics",Bachelor,Statistics,York University
+Danielle Larson,8.0,"Java, Machine Learning, Computer Vision, R, Statistics",Associate,Data Science,University of Toronto
+Brian Cherry,5.0,"SQL, Data Analysis, NLP, PyTorch, Reinforcement Learning",Associate,Computer Science,Western University
+James Norman,6.0,Reinforcement Learning,PhD,Machine Learning,McMaster University
+Ryan Nelson,10.0,"Cloud Computing, ML Ops, Scikit-learn",Bachelor,Computer Science,McMaster University
+Amanda Bell,4.0,Computer Vision,Master,Machine Learning,University of Ottawa
+Kevin Barry,2.0,"Computer Vision, Scikit-learn, Deep Learning",Associate,Machine Learning,McGill University
+Kyle Garcia,3.0,"Deep Learning, Java, Machine Learning",Associate,Software Engineering,Queen's University
+Carol Nichols,7.0,"Java, Machine Learning, Deep Learning, Reinforcement Learning",Bachelor,Machine Learning,University of Toronto
+Kimberly Campbell,7.0,"Python, TensorFlow",PhD,AI,University of Alberta
+Rose Bennett,2.0,"Python, TensorFlow, R, Statistics",Bachelor,AI,Western University
+William Brown,7.0,"Java, Machine Learning, Deep Learning, Cloud Computing, ML Ops",Master,Statistics,University of Alberta
+Caleb Gallagher,0.0,"Python, TensorFlow, Java, Machine Learning, SQL, Data Analysis",PhD,AI,University of Ottawa
+Mrs. Jessica Williams,1.0,"NLP, PyTorch, Scikit-learn, Java, Machine Learning",Master,Computer Science,University of Waterloo
+Ronald Goodman,3.0,"Java, Machine Learning, Cloud Computing, ML Ops",PhD,Software Engineering,University of Toronto
+Tonya Burton,0.0,"NLP, PyTorch, Computer Vision, R, Statistics",Master,Machine Learning,University of Alberta
+Lauren Hopkins,9.0,"Deep Learning, Scikit-learn, Python, TensorFlow",PhD,AI,McMaster University
+Michael James,7.0,"Cloud Computing, ML Ops, NLP, PyTorch, Reinforcement Learning",Associate,Machine Learning,York University
+Daniel Kirk,10.0,"SQL, Data Analysis",PhD,Computer Science,Queen's University
+Donald Hughes,7.0,"Python, TensorFlow, SQL, Data Analysis, Scikit-learn",PhD,Data Science,Western University
+Jennifer Garcia,0.0,"Cloud Computing, ML Ops, Deep Learning",PhD,Software Engineering,York University
+Paula Phillips,9.0,"SQL, Data Analysis",Bachelor,Statistics,McGill University
+Christine Perez,4.0,"Deep Learning, R, Statistics",Master,Machine Learning,University of Ottawa
+Jessica Alexander,9.0,"Python, TensorFlow, SQL, Data Analysis, R, Statistics",Bachelor,AI,University of British Columbia
+David Barajas,5.0,"Computer Vision, SQL, Data Analysis, Python, TensorFlow",Associate,Computer Science,McMaster University
+Philip Hernandez,3.0,"Computer Vision, NLP, PyTorch",PhD,Computer Science,Western University
+Adam Haney,5.0,Deep Learning,Master,Software Engineering,University of Waterloo
+Amanda Rios,2.0,"Computer Vision, NLP, PyTorch",Master,Machine Learning,Queen's University
+Lauren Rogers,2.0,"R, Statistics",Associate,Data Science,University of Waterloo
+Charles Snyder,3.0,"SQL, Data Analysis",Bachelor,Software Engineering,University of Alberta
+Eric Keller,8.0,"SQL, Data Analysis, Computer Vision",Associate,Statistics,Western University
+Sarah Beasley,5.0,"SQL, Data Analysis, Scikit-learn, Computer Vision",Associate,Data Science,McMaster University
+Marie Moyer,0.0,"SQL, Data Analysis",Master,Statistics,University of Waterloo
+Dave Medina,7.0,"R, Statistics",Bachelor,Statistics,University of British Columbia
+Ashley Tucker,2.0,Scikit-learn,Bachelor,AI,McGill University
+Mr. David Collins,8.0,Scikit-learn,PhD,Statistics,University of Alberta
+Nancy Zimmerman,,"Java, Machine Learning, Reinforcement Learning, Deep Learning",PhD,Computer Science,University of Waterloo
+Allen Medina,,"Cloud Computing, ML Ops, Deep Learning",PhD,AI,University of Toronto
+Robert Hicks,,"Java, Machine Learning, Python, TensorFlow, SQL, Data Analysis",Associate,Software Engineering,University of Ottawa
+Erin Garcia,3.0,"Cloud Computing, ML Ops, Deep Learning",Master,Data Science,Queen's University
+Lori Ward,10.0,"Java, Machine Learning",PhD,Data Science,Queen's University
+Angela Bridges,,"Reinforcement Learning, Cloud Computing, ML Ops",PhD,Software Engineering,University of Ottawa
+Dr. William Morris,2.0,"R, Statistics, Cloud Computing, ML Ops",Associate,Software Engineering,University of Waterloo
+Eric Morrison,,"R, Statistics, Computer Vision",Master,Data Science,University of Toronto
+Jeffrey Hayes,10.0,"Python, TensorFlow, Java, Machine Learning, SQL, Data Analysis",Associate,Statistics,University of Ottawa
+Brian Mccann,,"Computer Vision, R, Statistics",PhD,Software Engineering,University of Waterloo
+Malik Grant,1.0,"Deep Learning, Reinforcement Learning",Master,Statistics,University of Waterloo
+Sarah Stuart,9.0,"Scikit-learn, Cloud Computing, ML Ops",PhD,Software Engineering,University of British Columbia
+Yvonne Bennett,6.0,Deep Learning,PhD,AI,Western University
+Amber Webb,0.0,"Deep Learning, Computer Vision",PhD,Software Engineering,McMaster University
+James Cline,6.0,"SQL, Data Analysis, Cloud Computing, ML Ops, Reinforcement Learning",Master,Statistics,Western University
+Kathleen Bailey,5.0,Scikit-learn,Associate,Data Science,University of Waterloo
+Jason Davis,0.0,"Java, Machine Learning",Master,Machine Learning,University of Waterloo
+James Edwards,10.0,"R, Statistics",Associate,Computer Science,Western University
+Joseph Beck,8.0,"Scikit-learn, Java, Machine Learning, SQL, Data Analysis",Bachelor,Computer Science,McGill University
+Maria Owens,3.0,"NLP, PyTorch",PhD,Software Engineering,University of Waterloo
+Jessica Berry,,"Reinforcement Learning, Deep Learning",Associate,Computer Science,McGill University
+Mary Collins,10.0,"R, Statistics, Scikit-learn, SQL, Data Analysis",Associate,Statistics,University of British Columbia
+Destiny Fisher,1.0,"SQL, Data Analysis, NLP, PyTorch",Associate,Machine Learning,University of British Columbia
+Blake Reed,8.0,"Reinforcement Learning, SQL, Data Analysis",PhD,Machine Learning,McGill University
+Kara Zuniga,,"Scikit-learn, Computer Vision",Associate,Machine Learning,University of Ottawa
+Sean Taylor,8.0,"Python, TensorFlow",Bachelor,Computer Science,University of British Columbia
+Charles Harrison,9.0,"Cloud Computing, ML Ops, Reinforcement Learning, Java, Machine Learning",Bachelor,AI,Queen's University
+James Lee,,"Reinforcement Learning, R, Statistics, Scikit-learn",Associate,Statistics,University of British Columbia
+Ryan Norton,8.0,"SQL, Data Analysis",Master,Data Science,McGill University
+Tracy Hayes,8.0,"Computer Vision, Deep Learning",PhD,Machine Learning,McMaster University
+Shawn Weber,0.0,"Java, Machine Learning, Scikit-learn",PhD,Data Science,University of British Columbia
+Kimberly George,8.0,"Deep Learning, Cloud Computing, ML Ops, Scikit-learn",Bachelor,Computer Science,Queen's University
+Carlos Bell,6.0,Deep Learning,Associate,AI,University of British Columbia
+Bradley Martin,9.0,"Scikit-learn, Deep Learning, Java, Machine Learning",Bachelor,AI,University of Toronto
+Anthony Byrd,2.0,"Python, TensorFlow, Reinforcement Learning, Scikit-learn",Bachelor,Machine Learning,University of Ottawa
+Ethan Diaz,7.0,Deep Learning,Bachelor,Software Engineering,University of Alberta
+Karen Hayes,8.0,"Scikit-learn, Java, Machine Learning",Associate,Data Science,University of Waterloo
+Jesse Roberson,10.0,"R, Statistics, Scikit-learn, Computer Vision",PhD,Software Engineering,Western University
+Mrs. Shelley Fleming MD,4.0,"Cloud Computing, ML Ops, Deep Learning",Associate,AI,University of Toronto
+Michael Newman,3.0,"Python, TensorFlow",Bachelor,Data Science,University of British Columbia
+Russell Pennington,3.0,"Cloud Computing, ML Ops, Scikit-learn",Master,AI,McGill University
+Denise Castillo,0.0,Computer Vision,Master,Machine Learning,Western University
+Angela Bowman,1.0,"SQL, Data Analysis, R, Statistics, Deep Learning",Bachelor,Data Science,University of Ottawa
+Michele Hunt,6.0,"NLP, PyTorch, R, Statistics, Scikit-learn",PhD,Software Engineering,Queen's University
+Benjamin Sparks,2.0,"Deep Learning, R, Statistics, Cloud Computing, ML Ops",PhD,Computer Science,McGill University
+Earl Powell,0.0,Reinforcement Learning,Bachelor,Computer Science,York University
+Mrs. Stephanie Jones,6.0,Scikit-learn,Master,Machine Learning,Queen's University
+Robert Estrada,9.0,"Java, Machine Learning, Deep Learning",Associate,Machine Learning,University of Alberta
+Robin Bryan,7.0,"NLP, PyTorch",Master,Machine Learning,Western University
+Alejandro Jackson,10.0,"NLP, PyTorch",Master,Computer Science,University of Waterloo
+Bradley Olson,5.0,"Computer Vision, Python, TensorFlow, SQL, Data Analysis",Associate,Software Engineering,University of Ottawa
+Andre Walker,1.0,"Computer Vision, Python, TensorFlow",Bachelor,AI,University of Toronto
+Jessica Ramos,4.0,"Java, Machine Learning",Associate,Statistics,McGill University
+Charles Kirby,9.0,"Computer Vision, R, Statistics, Deep Learning",Associate,Software Engineering,University of Alberta
+Michelle Martinez,10.0,"Scikit-learn, Python, TensorFlow",PhD,Machine Learning,University of British Columbia
+Amber Hicks,7.0,Reinforcement Learning,Master,Statistics,University of Ottawa
+Andrew Long,4.0,Computer Vision,Bachelor,Data Science,Western University
+Taylor James,8.0,"Reinforcement Learning, Computer Vision, SQL, Data Analysis",Master,Software Engineering,McGill University
+Jennifer Bean,8.0,"SQL, Data Analysis",Master,Software Engineering,University of Ottawa
+Samantha Estrada,1.0,"Reinforcement Learning, NLP, PyTorch",Associate,AI,Queen's University
+Donald Lewis,10.0,"R, Statistics, Cloud Computing, ML Ops, Deep Learning",Master,Computer Science,University of Toronto
+Tiffany Simon,6.0,"NLP, PyTorch",Master,AI,McGill University
+Dr. Willie Mack,7.0,"Deep Learning, Cloud Computing, ML Ops, R, Statistics",PhD,Statistics,Queen's University
+Amanda James,2.0,"Scikit-learn, Python, TensorFlow",PhD,AI,McMaster University
+Wayne Hogan,7.0,"Java, Machine Learning, Deep Learning",Associate,Software Engineering,Queen's University
+Christopher Esparza,1.0,"NLP, PyTorch, Java, Machine Learning",Master,Computer Science,Queen's University
+Isaiah Holmes,8.0,"Python, TensorFlow, Computer Vision",Associate,Computer Science,University of Waterloo
+Terry Cannon,1.0,Deep Learning,Bachelor,Computer Science,University of Waterloo
+Melissa Jones,,"Scikit-learn, NLP, PyTorch, R, Statistics",Associate,Data Science,University of British Columbia
+Gary Osborne,5.0,"Computer Vision, Cloud Computing, ML Ops",Master,Statistics,York University
+Tammy Gonzalez,7.0,"Python, TensorFlow, NLP, PyTorch",PhD,AI,University of Alberta
+Travis Johnson,5.0,"Scikit-learn, NLP, PyTorch",PhD,Data Science,Queen's University
+Kelsey Ortiz,1.0,"NLP, PyTorch",Bachelor,Computer Science,Western University
+Cheryl Black,6.0,"NLP, PyTorch",Bachelor,AI,University of Alberta
+Edward Dixon,4.0,"Scikit-learn, Cloud Computing, ML Ops",PhD,Computer Science,McMaster University
+Mandy Hale,6.0,"NLP, PyTorch, Computer Vision",Master,Machine Learning,McGill University
+Jason Carney,5.0,"SQL, Data Analysis, Deep Learning, Java, Machine Learning",Bachelor,Computer Science,McMaster University
+John Johnson,0.0,Scikit-learn,Bachelor,Data Science,University of Waterloo
+John Gomez,9.0,"R, Statistics, Scikit-learn",Associate,Data Science,University of Ottawa
+John Montgomery,5.0,"Scikit-learn, Computer Vision, Deep Learning",Associate,Machine Learning,McGill University
+Ashley Perry,8.0,"Cloud Computing, ML Ops, Reinforcement Learning",PhD,AI,University of British Columbia
+Paula Fuentes,0.0,"NLP, PyTorch, Cloud Computing, ML Ops, Java, Machine Learning",Master,Statistics,University of Toronto
+Felicia Alexander,3.0,"Python, TensorFlow, Scikit-learn",Associate,Data Science,McMaster University
+Nicholas Walker,8.0,"Scikit-learn, Computer Vision, Reinforcement Learning",Bachelor,Software Engineering,McGill University
+Kristine Burnett,9.0,"Cloud Computing, ML Ops, Reinforcement Learning",PhD,AI,University of British Columbia
+Olivia Moreno,3.0,"NLP, PyTorch",Associate,AI,University of Waterloo
+Savannah Rosales,3.0,"SQL, Data Analysis",Bachelor,Software Engineering,University of British Columbia
+Tanya Williams,3.0,"Java, Machine Learning, Python, TensorFlow",PhD,Data Science,University of Waterloo
+Matthew Thompson,6.0,"Computer Vision, Reinforcement Learning, SQL, Data Analysis",Master,Software Engineering,University of Toronto
+Roger Washington,,"Scikit-learn, SQL, Data Analysis",Associate,Statistics,University of Waterloo
+Tyler Howard,,"SQL, Data Analysis, Python, TensorFlow, Cloud Computing, ML Ops",Associate,Statistics,Queen's University
+Michael Garcia,,"Scikit-learn, Cloud Computing, ML Ops",Master,Software Engineering,University of Ottawa
+Rachael Collins,2.0,"Cloud Computing, ML Ops, NLP, PyTorch",Associate,Statistics,University of British Columbia
+Peter Rocha,9.0,"Java, Machine Learning, NLP, PyTorch",PhD,AI,Queen's University
+Danielle Hogan,9.0,"SQL, Data Analysis, R, Statistics",Associate,Machine Learning,York University
+Leonard Frazier,8.0,"Java, Machine Learning, Reinforcement Learning",Master,Software Engineering,McGill University
+Ashley Wright,10.0,"Cloud Computing, ML Ops, Reinforcement Learning, Deep Learning",Bachelor,Computer Science,University of Toronto
+Mr. Miguel Herrera,9.0,Computer Vision,Associate,Software Engineering,Western University
+Jack Hutchinson,5.0,"Cloud Computing, ML Ops, Deep Learning",Bachelor,Machine Learning,University of Toronto
+Kimberly James,,"NLP, PyTorch",Bachelor,Data Science,York University
+Allison Liu,8.0,"Reinforcement Learning, Scikit-learn, Computer Vision",Bachelor,Computer Science,Western University
+Barry Pace,10.0,"Python, TensorFlow, Reinforcement Learning",Associate,Data Science,York University
+William Thomas,7.0,Deep Learning,Associate,Software Engineering,University of Waterloo
+Yvette Cruz,1.0,"NLP, PyTorch, Scikit-learn, Computer Vision",Master,Statistics,University of Toronto
+Melissa Jones DDS,10.0,"Cloud Computing, ML Ops",Master,Software Engineering,University of Toronto
+Adrienne Gonzalez,3.0,"Cloud Computing, ML Ops, Deep Learning",Master,AI,McMaster University
+John Hughes,0.0,Reinforcement Learning,PhD,Machine Learning,York University
+David Harrington,9.0,"R, Statistics, Computer Vision, Python, TensorFlow",Master,Software Engineering,University of Waterloo
+Laura Owens,8.0,"NLP, PyTorch, SQL, Data Analysis, Reinforcement Learning",Associate,Software Engineering,University of Ottawa
+Michelle Olson,5.0,"Reinforcement Learning, Scikit-learn, Deep Learning",Bachelor,Software Engineering,University of Toronto
+Matthew Alexander,3.0,"SQL, Data Analysis",Bachelor,Machine Learning,York University
+Eric Whitehead,7.0,"R, Statistics, Reinforcement Learning, Python, TensorFlow",PhD,Computer Science,University of Toronto
+Jennifer Wood,6.0,"NLP, PyTorch, Cloud Computing, ML Ops, R, Statistics",Master,AI,University of Waterloo
+Lee Douglas,10.0,Scikit-learn,Bachelor,Statistics,York University
+Alexander Armstrong,8.0,"NLP, PyTorch, Python, TensorFlow, Deep Learning",Master,Data Science,Western University
+Sarah Bell,10.0,"Deep Learning, SQL, Data Analysis, Computer Vision",PhD,Computer Science,Queen's University
+Patricia Leblanc,2.0,"Computer Vision, NLP, PyTorch, Scikit-learn",Associate,Statistics,Western University
+Taylor Duran,6.0,"Cloud Computing, ML Ops, Reinforcement Learning",Associate,Machine Learning,University of Waterloo
+Wesley Blankenship,0.0,"Cloud Computing, ML Ops, Java, Machine Learning, Python, TensorFlow",Associate,Computer Science,University of Alberta
+Kathleen Knight,3.0,"NLP, PyTorch, Cloud Computing, ML Ops",Associate,Data Science,McGill University
+Kevin Anderson,4.0,"Scikit-learn, Reinforcement Learning, Deep Learning",PhD,Statistics,Queen's University
+Zachary Kramer,3.0,"SQL, Data Analysis, R, Statistics, NLP, PyTorch",Master,Data Science,University of Waterloo
+Kristy Foster,5.0,"Java, Machine Learning",PhD,Machine Learning,University of Alberta
+Gary Smith,6.0,"R, Statistics, Reinforcement Learning, Computer Vision",Master,Software Engineering,University of Ottawa
+Jennifer Navarro,4.0,"Cloud Computing, ML Ops, Scikit-learn, R, Statistics",Associate,Statistics,University of Waterloo
+Brittany Castillo,10.0,"NLP, PyTorch, Computer Vision, Python, TensorFlow",Bachelor,AI,McMaster University
+Cynthia Hopkins,0.0,Computer Vision,PhD,AI,McGill University
+Kyle Farmer,,"SQL, Data Analysis, NLP, PyTorch",Master,Data Science,University of Toronto
+Melanie Carson,7.0,"R, Statistics, SQL, Data Analysis, Deep Learning",PhD,Data Science,University of Toronto
+Kelly Abbott,0.0,"Deep Learning, Python, TensorFlow, Cloud Computing, ML Ops",Master,Machine Learning,University of Ottawa
+Shelby Wong,2.0,"Python, TensorFlow",Associate,AI,York University
+Elizabeth Everett,7.0,"R, Statistics, Scikit-learn",PhD,Machine Learning,University of Ottawa
+Lori Diaz,6.0,"NLP, PyTorch, Scikit-learn",PhD,Computer Science,Western University
+Phillip Holloway,,"Deep Learning, R, Statistics",PhD,Machine Learning,University of Toronto
+Jeff Miller,3.0,"Cloud Computing, ML Ops, Java, Machine Learning",Associate,Data Science,University of Ottawa
+Carrie Knight,,"Scikit-learn, Cloud Computing, ML Ops",Bachelor,Data Science,University of Alberta
+Brian Perry,0.0,"Cloud Computing, ML Ops, Scikit-learn, Deep Learning",Master,Machine Learning,University of Ottawa
+Erin Dixon,6.0,"SQL, Data Analysis, Python, TensorFlow, Java, Machine Learning",PhD,Computer Science,University of Alberta
+Marvin Harmon,7.0,"R, Statistics, Python, TensorFlow, Cloud Computing, ML Ops",Bachelor,Machine Learning,McMaster University
+Erica Nguyen,9.0,"Python, TensorFlow, R, Statistics, Scikit-learn",Associate,Data Science,McGill University
+Kevin Chaney,4.0,"SQL, Data Analysis, R, Statistics, Scikit-learn",Bachelor,Data Science,York University
+Gilbert Moses,10.0,"Cloud Computing, ML Ops, Computer Vision",Associate,Machine Learning,University of Toronto
+Lisa Williams,4.0,"Reinforcement Learning, Python, TensorFlow",PhD,Statistics,Queen's University
+Heather Kelly,,Reinforcement Learning,Master,Data Science,Queen's University
+Jacqueline Williams,6.0,"NLP, PyTorch, Reinforcement Learning, R, Statistics",Master,Software Engineering,Queen's University
+Cheryl Campos,7.0,"SQL, Data Analysis, Deep Learning",Bachelor,Data Science,University of British Columbia
+Amy Williams,7.0,"Python, TensorFlow, SQL, Data Analysis, Reinforcement Learning",Associate,AI,York University
+Brandon Jones,,"R, Statistics, Scikit-learn, Computer Vision",Master,Machine Learning,York University
+Dennis Contreras,2.0,"Python, TensorFlow, NLP, PyTorch, Reinforcement Learning",Master,Data Science,McMaster University
+Thomas Martin,,Computer Vision,Master,Data Science,University of Toronto
+Christopher Robles,0.0,"R, Statistics",Bachelor,Machine Learning,University of Toronto
+Troy Mcdowell,2.0,"Python, TensorFlow, Reinforcement Learning, Java, Machine Learning",Associate,Software Engineering,University of British Columbia
+Megan Cervantes,8.0,"Python, TensorFlow, Scikit-learn",Master,Machine Learning,University of Alberta
+Dennis Banks,4.0,"Python, TensorFlow, Java, Machine Learning, Cloud Computing, ML Ops",Bachelor,Data Science,Queen's University
+Donna George,,"Deep Learning, Scikit-learn, SQL, Data Analysis",PhD,AI,University of Waterloo
+Brian Simpson,6.0,"SQL, Data Analysis, Reinforcement Learning, Cloud Computing, ML Ops",Master,Data Science,McMaster University
+Kimberly Robinson,9.0,"Deep Learning, Python, TensorFlow",Bachelor,Data Science,McMaster University
+Tammie Johnston,6.0,"NLP, PyTorch, Scikit-learn",Master,Statistics,Queen's University
+Douglas Murray,,"SQL, Data Analysis, Computer Vision",Associate,Statistics,University of Waterloo
+Jonathan Mercado,1.0,"R, Statistics",PhD,Machine Learning,University of Waterloo
+Matthew Wilson,10.0,"Python, TensorFlow, Computer Vision, R, Statistics",Master,Machine Learning,University of British Columbia
+Nicholas Wood,6.0,"Computer Vision, Scikit-learn, Java, Machine Learning",PhD,Data Science,Western University
+Dakota Turner Jr.,0.0,"SQL, Data Analysis, Python, TensorFlow, NLP, PyTorch",Bachelor,Machine Learning,University of Ottawa
+Jennifer Jones,5.0,"SQL, Data Analysis, Deep Learning",PhD,Data Science,McGill University
+Ryan Schroeder,4.0,"Deep Learning, Cloud Computing, ML Ops, Scikit-learn",Associate,AI,University of Waterloo
+Tanya Nichols,5.0,"Java, Machine Learning",Associate,Software Engineering,McMaster University
+John Pratt,7.0,"Cloud Computing, ML Ops",Bachelor,Machine Learning,University of Ottawa
+Dakota Reed,2.0,Deep Learning,Master,Data Science,University of Toronto
+Hannah Watts,7.0,"Scikit-learn, Java, Machine Learning",PhD,Statistics,University of Toronto
+Tyler Jones,7.0,"Deep Learning, Reinforcement Learning",Associate,Computer Science,McGill University
+Thomas Stokes,7.0,"Cloud Computing, ML Ops",Master,AI,York University
+Stanley Watson,3.0,"Python, TensorFlow",Associate,AI,McGill University
+Mario Stanley,0.0,"Reinforcement Learning, Cloud Computing, ML Ops, Java, Machine Learning",Bachelor,Software Engineering,York University
+Michael Black,1.0,"Reinforcement Learning, SQL, Data Analysis, R, Statistics",Associate,Software Engineering,McMaster University
+Tony Perkins,2.0,Computer Vision,PhD,Computer Science,University of Waterloo
+Brian Russell,9.0,Reinforcement Learning,Associate,AI,University of Toronto
+Michael Gilmore,4.0,"Cloud Computing, ML Ops",Associate,Data Science,Western University
+Christian Abbott,9.0,"Java, Machine Learning, Scikit-learn",Bachelor,Statistics,University of Ottawa
+Timothy White,0.0,"SQL, Data Analysis",Master,Data Science,York University
+Melissa Zimmerman MD,8.0,"SQL, Data Analysis, Cloud Computing, ML Ops, Deep Learning",PhD,Statistics,McMaster University
+Mackenzie Wolfe,8.0,Deep Learning,Associate,Data Science,Western University
+Rebecca Cook,3.0,Computer Vision,Associate,Computer Science,York University
+Jonathan Martin,10.0,Computer Vision,Associate,Statistics,University of Waterloo
+Ashley Garcia,3.0,"Java, Machine Learning",Associate,Software Engineering,Western University
+Rachel Livingston,0.0,"Cloud Computing, ML Ops, NLP, PyTorch, Reinforcement Learning",Bachelor,Data Science,University of British Columbia
+Natalie Lambert,10.0,"Scikit-learn, Java, Machine Learning",Associate,Software Engineering,Queen's University
+Ashley Singleton,4.0,"Cloud Computing, ML Ops",Bachelor,Software Engineering,McGill University
+Joshua Strickland,5.0,Reinforcement Learning,PhD,Data Science,University of Ottawa
+Elizabeth Hampton,2.0,"Java, Machine Learning",Associate,AI,McGill University
+Susan Jones,,"Java, Machine Learning, SQL, Data Analysis, Reinforcement Learning",Bachelor,Statistics,University of Waterloo
+Timothy Simmons,2.0,"NLP, PyTorch, R, Statistics",Associate,Software Engineering,York University
+Scott Johnson,8.0,"R, Statistics, Cloud Computing, ML Ops, Computer Vision",Bachelor,Statistics,York University
+Teresa Olson,6.0,"Computer Vision, Deep Learning",Bachelor,AI,McMaster University
+Matthew Conrad,7.0,"SQL, Data Analysis, Computer Vision",Bachelor,Computer Science,University of British Columbia
+Courtney Weber,9.0,"Scikit-learn, NLP, PyTorch, R, Statistics",Master,Machine Learning,Western University
+Lisa Horton,5.0,"Java, Machine Learning, Scikit-learn",Master,AI,University of British Columbia
+Jordan Brown,0.0,"Computer Vision, Scikit-learn",Associate,Machine Learning,Western University
+James Hale,5.0,"Computer Vision, NLP, PyTorch, Deep Learning",PhD,Machine Learning,University of Ottawa
+Sandra Fox,,"R, Statistics, Scikit-learn, Computer Vision",Associate,Data Science,Queen's University
+Robert Wilson,,"NLP, PyTorch",Associate,Software Engineering,University of Waterloo
+Veronica Mann,3.0,"SQL, Data Analysis, Reinforcement Learning, NLP, PyTorch",Bachelor,AI,McGill University
+Joshua Lawson,8.0,Deep Learning,PhD,Data Science,University of Ottawa
+Anthony Cooke,5.0,Reinforcement Learning,Associate,Data Science,McGill University
+Ian Bishop,6.0,"Cloud Computing, ML Ops, Deep Learning",Bachelor,Statistics,McMaster University
+Gwendolyn Edwards,6.0,"Reinforcement Learning, Computer Vision",Associate,Statistics,McGill University
+Paige Lynch,4.0,"NLP, PyTorch",Associate,Statistics,York University
+Julian Shepherd,6.0,"Cloud Computing, ML Ops, R, Statistics",Bachelor,Computer Science,Western University
+Patricia Marsh,1.0,"Cloud Computing, ML Ops, Deep Learning",Master,Data Science,Western University
+John Obrien,2.0,"Java, Machine Learning",PhD,Machine Learning,University of Ottawa
+Amber Casey,9.0,"Computer Vision, Scikit-learn",Associate,Data Science,University of Toronto
+Erica Lopez,4.0,"Python, TensorFlow, Scikit-learn, Computer Vision",PhD,AI,University of Alberta
+Jasmine Ford,9.0,"Computer Vision, Reinforcement Learning",Bachelor,Statistics,McMaster University
+Jill Raymond,,"NLP, PyTorch, Deep Learning, Scikit-learn",Master,Software Engineering,University of Toronto
+Alexandra Cook,9.0,"Java, Machine Learning, NLP, PyTorch, SQL, Data Analysis",Master,Computer Science,University of Toronto
+Kimberly Randolph,10.0,"Cloud Computing, ML Ops, Python, TensorFlow, Deep Learning",Associate,Data Science,Western University
+Emma Smith,7.0,"Scikit-learn, NLP, PyTorch",Bachelor,Computer Science,McMaster University
+Sarah Sharp,0.0,"NLP, PyTorch",PhD,Statistics,McGill University
+Amy Gray,3.0,"R, Statistics, SQL, Data Analysis",Bachelor,Statistics,McMaster University
+Paul Cruz,10.0,"Deep Learning, Java, Machine Learning",PhD,Statistics,York University
+Richard Santiago,0.0,"R, Statistics",Associate,Machine Learning,University of British Columbia
+Maria Beard,0.0,"Reinforcement Learning, Scikit-learn",Master,AI,Western University
+Jacqueline Hart,4.0,"Reinforcement Learning, Cloud Computing, ML Ops",Bachelor,Computer Science,University of Ottawa
+Mark Brown,,"Deep Learning, Python, TensorFlow, Scikit-learn",PhD,Statistics,University of British Columbia
+Stephanie Hansen,1.0,Deep Learning,Associate,AI,University of Alberta
+Joshua Wood,0.0,"Deep Learning, Scikit-learn, R, Statistics",Associate,Statistics,McMaster University
+Jason Wallace,,"Python, TensorFlow, Reinforcement Learning, NLP, PyTorch",Associate,Software Engineering,McMaster University
+Roy Boyer,2.0,"NLP, PyTorch, Cloud Computing, ML Ops",Master,AI,University of Alberta
+Brittany Irwin,5.0,Deep Learning,PhD,Machine Learning,York University
+Pedro Brooks,1.0,"Python, TensorFlow",Associate,Statistics,University of Toronto
+Stephen Quinn,8.0,"R, Statistics",Master,Data Science,University of British Columbia
+Mr. Johnny Welch,8.0,"Computer Vision, R, Statistics",Associate,Machine Learning,York University
+Gary James,7.0,"NLP, PyTorch, Cloud Computing, ML Ops, SQL, Data Analysis",Associate,Data Science,York University
+Jamie Bishop MD,,"Deep Learning, SQL, Data Analysis",Master,Statistics,York University
+Valerie Brown,5.0,"NLP, PyTorch, Computer Vision",Bachelor,Data Science,McMaster University
+Savannah Tran,7.0,"Scikit-learn, NLP, PyTorch",Associate,Software Engineering,University of British Columbia
+Jeremy Olson,,"Deep Learning, Python, TensorFlow",Master,Software Engineering,University of Ottawa
+Meghan Hinton,,"R, Statistics, Computer Vision",Associate,Software Engineering,University of Ottawa
+Victoria Rodriguez,,"R, Statistics, Deep Learning, Scikit-learn",Associate,AI,McGill University
+Daniel Romero,9.0,"Cloud Computing, ML Ops, Java, Machine Learning",Bachelor,Computer Science,University of Alberta
+Dan Kirby,0.0,"SQL, Data Analysis, Computer Vision",PhD,Statistics,University of British Columbia
+Melissa Fisher,0.0,Scikit-learn,PhD,Statistics,McGill University
+Aaron Sanchez,2.0,Reinforcement Learning,Bachelor,Data Science,McMaster University
+John Henry,8.0,"Deep Learning, Cloud Computing, ML Ops",PhD,Software Engineering,University of British Columbia
+Paul Thompson,8.0,"Reinforcement Learning, Deep Learning",PhD,Statistics,Queen's University
+Melanie Jordan,5.0,"Python, TensorFlow, NLP, PyTorch",Bachelor,Computer Science,McGill University
+Dustin Dominguez,3.0,"Java, Machine Learning, NLP, PyTorch, SQL, Data Analysis",Bachelor,Computer Science,McGill University
+Janet Turner,1.0,"SQL, Data Analysis",Associate,AI,McMaster University
+Vanessa Singh,7.0,"Deep Learning, R, Statistics, Python, TensorFlow",Master,AI,University of British Columbia
+Joseph Taylor,,"NLP, PyTorch, R, Statistics",Bachelor,AI,University of Waterloo
+Dr. Edward Leblanc,8.0,"Scikit-learn, Deep Learning, Computer Vision",Associate,AI,University of Waterloo
+Cindy Rivers,3.0,"NLP, PyTorch, Cloud Computing, ML Ops",Associate,Statistics,McGill University
+Vanessa Santana,2.0,"Cloud Computing, ML Ops, Computer Vision, Python, TensorFlow",Associate,Machine Learning,University of Ottawa
+Lorraine Johnson,,"Cloud Computing, ML Ops, Scikit-learn",Bachelor,Computer Science,McGill University
+Debbie Harris,4.0,"Computer Vision, Java, Machine Learning, Deep Learning",Master,Computer Science,University of Ottawa
+Elizabeth Maddox,3.0,Deep Learning,Associate,Data Science,McMaster University
+Kyle Lopez,1.0,"R, Statistics, Java, Machine Learning",Master,Computer Science,University of Toronto
+Mark Snyder,9.0,"Computer Vision, R, Statistics, Deep Learning",Master,Software Engineering,Queen's University
+Joel Fox,4.0,"Deep Learning, Python, TensorFlow, Java, Machine Learning",Master,Software Engineering,McGill University
+Joan Lucas,7.0,"Java, Machine Learning, Computer Vision",Bachelor,Computer Science,University of Waterloo
+Sarah Ortiz,3.0,"Java, Machine Learning",PhD,AI,University of Waterloo
+Benjamin Bates,1.0,"SQL, Data Analysis, Java, Machine Learning",Master,Computer Science,University of Toronto
+Amy Cline,6.0,"Computer Vision, Cloud Computing, ML Ops, Scikit-learn",PhD,Computer Science,University of Toronto
+Valerie Hughes,3.0,"Cloud Computing, ML Ops, Scikit-learn, Computer Vision",Bachelor,Software Engineering,University of Ottawa
+Samantha Ford,,Reinforcement Learning,Associate,Data Science,University of Waterloo
+Taylor Crawford,10.0,"R, Statistics",Bachelor,AI,McGill University
+Maurice Oneill,0.0,"Computer Vision, NLP, PyTorch",PhD,Statistics,Western University
+Sarah Horn,9.0,"NLP, PyTorch, Deep Learning",Master,Software Engineering,Western University
+Dawn Powell,9.0,"Cloud Computing, ML Ops, NLP, PyTorch, Scikit-learn",Associate,Statistics,McGill University
+Catherine Lynch,7.0,"Python, TensorFlow, SQL, Data Analysis, Java, Machine Learning",Master,Machine Learning,Western University
+David Anderson,6.0,Deep Learning,PhD,Statistics,University of British Columbia
+Todd Frye,5.0,"R, Statistics",Associate,Software Engineering,Queen's University
+Joseph Walton,4.0,"SQL, Data Analysis, Scikit-learn, Python, TensorFlow",Associate,Computer Science,University of Toronto
+Krista Soto,6.0,"Scikit-learn, Computer Vision, Deep Learning",PhD,Statistics,University of Waterloo
+Jesse Wise,10.0,"SQL, Data Analysis",PhD,Data Science,McMaster University
+Rebecca Boyd,,"Python, TensorFlow",Master,Software Engineering,University of Toronto
+Christopher Sanchez,2.0,"Python, TensorFlow, Cloud Computing, ML Ops",Master,AI,University of Alberta
+Shirley Johnston,3.0,"Cloud Computing, ML Ops, R, Statistics",PhD,Statistics,University of Alberta
+Nicole Clark,1.0,"Python, TensorFlow, Scikit-learn, NLP, PyTorch",PhD,Statistics,University of Toronto
+Jackie Clarke,9.0,Scikit-learn,Bachelor,Computer Science,York University
+Tanner Freeman,7.0,"Python, TensorFlow, Scikit-learn",Master,Computer Science,McMaster University
+Jeffrey Kennedy,6.0,"Python, TensorFlow, Cloud Computing, ML Ops, Java, Machine Learning",Master,Machine Learning,University of Ottawa
+Justin Richard,5.0,"Deep Learning, Reinforcement Learning, Cloud Computing, ML Ops",Master,Statistics,Queen's University
+Daniel Rice,,"Python, TensorFlow, Scikit-learn, R, Statistics",PhD,Machine Learning,University of Waterloo
+Joel David,6.0,"Scikit-learn, R, Statistics, Python, TensorFlow",PhD,Machine Learning,McMaster University
+George Kim,10.0,"SQL, Data Analysis",Master,Data Science,University of Toronto
+Alexandra Ross,,"NLP, PyTorch",PhD,Statistics,McMaster University
+Joseph Guerrero,8.0,"NLP, PyTorch, Java, Machine Learning, Deep Learning",Associate,Data Science,University of Alberta
+James Stokes,0.0,"Deep Learning, Computer Vision",Associate,Statistics,University of British Columbia
+Jacob Weeks,0.0,"Reinforcement Learning, Scikit-learn, Java, Machine Learning",Associate,Machine Learning,Queen's University
+Austin Wood,5.0,"Python, TensorFlow",PhD,Software Engineering,University of Ottawa
+Madison Anderson,5.0,"Python, TensorFlow, Computer Vision, NLP, PyTorch",PhD,Software Engineering,McGill University
+Ryan Reid,3.0,"Scikit-learn, Deep Learning, SQL, Data Analysis",PhD,Data Science,Western University
+Robert Klein,10.0,"Python, TensorFlow, Cloud Computing, ML Ops, Deep Learning",Master,Machine Learning,University of Waterloo
+Mrs. Sherri Simpson,10.0,Computer Vision,Bachelor,Statistics,University of Toronto
+Michael Hill,,"Python, TensorFlow",Bachelor,Data Science,McGill University
+Sarah Brooks,2.0,"NLP, PyTorch",Master,AI,Western University
+Monica Leblanc,1.0,"SQL, Data Analysis, NLP, PyTorch, R, Statistics",PhD,AI,University of Toronto
+Douglas Callahan,0.0,Scikit-learn,Master,Computer Science,York University
+Christopher Clark,7.0,Computer Vision,Master,Software Engineering,University of Waterloo
+James Harris,1.0,"Reinforcement Learning, SQL, Data Analysis",Associate,Statistics,Queen's University
+Susan Leblanc,6.0,"Cloud Computing, ML Ops",Associate,Data Science,McGill University
+Sierra Peters,10.0,"NLP, PyTorch, Cloud Computing, ML Ops, R, Statistics",Bachelor,Statistics,University of Toronto
+Sophia Lara,,"Reinforcement Learning, Deep Learning",Master,Software Engineering,McGill University
+Kenneth Bolton,3.0,"Java, Machine Learning",PhD,Computer Science,University of Toronto
+Deborah Collins,9.0,Computer Vision,Bachelor,Machine Learning,Queen's University
+Tracy Sanders,7.0,"R, Statistics, Reinforcement Learning, Java, Machine Learning",Bachelor,Computer Science,McMaster University
+Gregory Knox,9.0,Reinforcement Learning,PhD,Data Science,University of Alberta
+Ricky Kidd,9.0,"SQL, Data Analysis",Bachelor,Machine Learning,Western University
+Elaine George,2.0,"Python, TensorFlow, Cloud Computing, ML Ops, R, Statistics",Bachelor,Statistics,Western University
+Ethan Wilson,1.0,Deep Learning,Master,Computer Science,University of Waterloo
+Brad Taylor MD,1.0,"Python, TensorFlow, NLP, PyTorch",Bachelor,AI,University of Ottawa
+Wendy Wood,8.0,Scikit-learn,Associate,Statistics,Queen's University
+Bobby Williams,7.0,"Deep Learning, Scikit-learn",PhD,Statistics,University of Toronto
+John Lowe,3.0,"R, Statistics",Associate,Software Engineering,University of British Columbia
+Brianna Vasquez,6.0,"NLP, PyTorch, Cloud Computing, ML Ops, Python, TensorFlow",Associate,Statistics,University of Alberta
+Sharon Shaw,9.0,Scikit-learn,PhD,Computer Science,Queen's University
+Katie Houston,0.0,"Cloud Computing, ML Ops, Scikit-learn",Associate,AI,Queen's University
+Amy Romero,9.0,"Python, TensorFlow, Scikit-learn",PhD,Computer Science,Western University
+Russell Garcia,9.0,"Java, Machine Learning",Master,Data Science,University of British Columbia
+Nicole Diaz,3.0,"NLP, PyTorch",Associate,Computer Science,University of Ottawa
+Eric Waters,7.0,"Cloud Computing, ML Ops",Associate,Statistics,McGill University
+Stephanie Porter,9.0,"SQL, Data Analysis, Deep Learning",Associate,Software Engineering,Queen's University
+Kelly Parker,0.0,Deep Learning,Associate,Machine Learning,York University
+Jorge Sanders,9.0,"R, Statistics",Associate,Data Science,McGill University
+Mackenzie Carpenter,3.0,"Scikit-learn, Reinforcement Learning",Bachelor,Computer Science,Western University
+Brian Kim,9.0,"SQL, Data Analysis, Java, Machine Learning",Master,Statistics,University of Toronto
+Alison Rivera,,"SQL, Data Analysis",PhD,Software Engineering,York University
+Christopher White,5.0,"Cloud Computing, ML Ops, NLP, PyTorch",Master,AI,York University
+Austin Rice,,"Deep Learning, Java, Machine Learning, R, Statistics",Associate,Statistics,University of Waterloo
+Chad Nichols,,"Cloud Computing, ML Ops",Associate,Computer Science,University of Ottawa
+Melissa Gallagher,1.0,"NLP, PyTorch, Reinforcement Learning, Python, TensorFlow",Bachelor,Software Engineering,York University
+Nicole Sanders,3.0,"Cloud Computing, ML Ops, Python, TensorFlow, SQL, Data Analysis",Bachelor,Computer Science,University of Ottawa
+Jamie Williams,3.0,"NLP, PyTorch",Master,Machine Learning,University of Toronto
+Tyrone Lowery,10.0,"Computer Vision, R, Statistics, Deep Learning",Master,Data Science,University of Waterloo
+Natalie Lewis,2.0,Reinforcement Learning,PhD,Computer Science,University of Toronto
+Kevin Johnson,7.0,"NLP, PyTorch, R, Statistics, Scikit-learn",Associate,AI,York University
+Sarah Banks,3.0,"Java, Machine Learning, Deep Learning",Associate,Machine Learning,Queen's University
+Michael Wilcox,0.0,"Java, Machine Learning",Associate,Machine Learning,University of Ottawa
+Roger Little,5.0,"Cloud Computing, ML Ops, Computer Vision, NLP, PyTorch",PhD,Data Science,University of Alberta
+Kelly Hill,1.0,"Reinforcement Learning, Computer Vision, Python, TensorFlow",Associate,Computer Science,McGill University
+Sarah Fisher,,"NLP, PyTorch, SQL, Data Analysis, Java, Machine Learning",PhD,Machine Learning,York University
+Laura Carr,2.0,"NLP, PyTorch",PhD,AI,York University
+Caroline Carlson,2.0,"Reinforcement Learning, NLP, PyTorch",Master,Software Engineering,University of Waterloo
+Nancy Smith,1.0,"NLP, PyTorch, Scikit-learn, Deep Learning",Master,Software Engineering,University of Alberta
+Tabitha Johnson,3.0,"Computer Vision, Python, TensorFlow, Scikit-learn",Master,Data Science,Western University
+Anna Vasquez,,"Java, Machine Learning, Cloud Computing, ML Ops",Associate,Software Engineering,University of British Columbia
+Olivia Adams,10.0,"Cloud Computing, ML Ops",PhD,Machine Learning,McMaster University
+Ricky Mathis,2.0,"Python, TensorFlow",PhD,Data Science,University of Toronto
+Kelly Rogers DVM,6.0,"Scikit-learn, Cloud Computing, ML Ops, Deep Learning",PhD,Software Engineering,McMaster University
+Christopher Olson,,"NLP, PyTorch, Python, TensorFlow, Java, Machine Learning",Master,Software Engineering,University of Ottawa
+Billy Stephenson Jr.,7.0,"SQL, Data Analysis, Computer Vision, R, Statistics",Bachelor,Statistics,Queen's University
+Gloria Brooks,5.0,"Deep Learning, NLP, PyTorch, Scikit-learn",Associate,Data Science,Western University
+Vanessa Hopkins,7.0,"Computer Vision, NLP, PyTorch",Associate,Machine Learning,University of Toronto
+Abigail White,5.0,Reinforcement Learning,Associate,AI,University of Alberta
+Stephen Powell,3.0,"NLP, PyTorch, R, Statistics, Deep Learning",PhD,Machine Learning,York University
+Ryan Santiago,7.0,"Deep Learning, R, Statistics, Scikit-learn",PhD,AI,University of Toronto
+Ryan Edwards,10.0,"Scikit-learn, NLP, PyTorch",Master,Data Science,University of Toronto
+Terri Williams,3.0,"Reinforcement Learning, Computer Vision, Cloud Computing, ML Ops",Bachelor,Statistics,McGill University
+Eric Bates,6.0,Scikit-learn,Bachelor,Computer Science,York University
+Tracy Mcdonald,0.0,"Reinforcement Learning, SQL, Data Analysis, Computer Vision",Bachelor,AI,York University
+Frederick Martinez,9.0,Deep Learning,Bachelor,Computer Science,University of Ottawa
+Connie Gonzalez,,Scikit-learn,Bachelor,Statistics,McGill University
+Phillip Bell,,"Python, TensorFlow, Computer Vision, NLP, PyTorch",Associate,Software Engineering,McMaster University
+Jared Norton,1.0,"R, Statistics, Deep Learning",Bachelor,Software Engineering,University of Waterloo
+Joseph Leonard,9.0,Scikit-learn,Master,Statistics,Western University
+Jordan Arnold,7.0,"Deep Learning, Python, TensorFlow, R, Statistics",PhD,AI,University of Alberta
+Joshua Monroe,2.0,"Cloud Computing, ML Ops, Deep Learning, Scikit-learn",Master,Data Science,McMaster University
+Misty Hunt,10.0,"Reinforcement Learning, SQL, Data Analysis",Bachelor,Machine Learning,McGill University
+Gary Haynes,,"Python, TensorFlow",Associate,Data Science,McGill University
+Michele Marsh,8.0,"SQL, Data Analysis",Master,Machine Learning,University of British Columbia
+Lynn Savage,3.0,"Cloud Computing, ML Ops, Computer Vision, Deep Learning",Bachelor,Data Science,University of Waterloo
+Victoria Matthews MD,2.0,"Java, Machine Learning, R, Statistics",PhD,Data Science,University of British Columbia
+Bryan Calhoun,,"Java, Machine Learning, Computer Vision",PhD,Computer Science,York University
+Nicholas Rhodes,3.0,Reinforcement Learning,PhD,Data Science,University of Alberta
+Christopher Hubbard,4.0,"R, Statistics, Java, Machine Learning, Deep Learning",Bachelor,Software Engineering,University of British Columbia
+John Manning,,"R, Statistics, Reinforcement Learning",Master,Statistics,University of Waterloo
+Glenn Nunez,10.0,"Scikit-learn, NLP, PyTorch",Associate,AI,University of Ottawa
+Richard Hendricks,9.0,"Java, Machine Learning, Computer Vision, SQL, Data Analysis",Master,Data Science,Western University
+Charles Price,1.0,"Scikit-learn, Computer Vision, SQL, Data Analysis",PhD,AI,Queen's University
+Mario Hicks,5.0,"SQL, Data Analysis",Master,Data Science,University of Ottawa
+Michael Blair,10.0,Deep Learning,Bachelor,Machine Learning,University of Alberta
+Christopher Maldonado,,"Python, TensorFlow",Bachelor,Data Science,University of Toronto
+Jenna Rodriguez,,"Python, TensorFlow, Java, Machine Learning, SQL, Data Analysis",PhD,Computer Science,McMaster University
+Andrea Lynch,7.0,"Java, Machine Learning, Scikit-learn",Master,AI,University of Ottawa
+Mrs. Michelle Kent DDS,,"SQL, Data Analysis, Deep Learning, R, Statistics",Associate,Machine Learning,Western University
+William Jones,0.0,"NLP, PyTorch",Master,Machine Learning,University of Ottawa
+Courtney Guzman,5.0,"Scikit-learn, Computer Vision",Master,Machine Learning,McGill University
+Kyle Salinas,,"Cloud Computing, ML Ops, NLP, PyTorch, Computer Vision",Master,AI,McMaster University
+Anna Anderson,5.0,"R, Statistics",PhD,Data Science,University of Ottawa
+Jeffrey Love,1.0,Deep Learning,Master,Computer Science,University of Waterloo
+Mrs. Jasmine Davis,7.0,"Java, Machine Learning, R, Statistics, Computer Vision",Master,Software Engineering,University of British Columbia
+Kelly Landry,,"Scikit-learn, Cloud Computing, ML Ops",Associate,Machine Learning,University of Ottawa
+Mr. Bryan Mendoza DVM,2.0,Reinforcement Learning,Bachelor,AI,Queen's University
+Mr. Sean Escobar,6.0,"Cloud Computing, ML Ops",Master,Data Science,York University
+Tiffany Roach,6.0,"Reinforcement Learning, NLP, PyTorch, Python, TensorFlow",PhD,AI,University of Waterloo
+Joseph Sexton,6.0,"NLP, PyTorch, Reinforcement Learning, Computer Vision",Bachelor,AI,Queen's University
+Jesse Francis,2.0,"NLP, PyTorch",PhD,Data Science,University of Toronto
+Ryan Henson,7.0,"Java, Machine Learning, Python, TensorFlow",Bachelor,Software Engineering,Western University
+Mary Hughes,7.0,"Deep Learning, Cloud Computing, ML Ops",Associate,Machine Learning,University of Toronto
+Michael Gonzales,9.0,"NLP, PyTorch, SQL, Data Analysis",PhD,Computer Science,University of Waterloo
+Diana Jimenez,4.0,"NLP, PyTorch, Python, TensorFlow, Scikit-learn",Master,AI,University of Waterloo
+Steven Gonzalez,3.0,"Computer Vision, Python, TensorFlow, NLP, PyTorch",Bachelor,AI,McGill University
+Tamara Trevino,10.0,"Scikit-learn, Cloud Computing, ML Ops, Deep Learning",Associate,Machine Learning,University of Alberta
+Noah Wiley,7.0,"Cloud Computing, ML Ops",Associate,Computer Science,University of British Columbia
+Becky Fuller,10.0,"Python, TensorFlow, Java, Machine Learning",Master,Software Engineering,University of British Columbia
+Aaron Howell,3.0,"Computer Vision, Reinforcement Learning",PhD,AI,McGill University
+Michael Logan,5.0,"Scikit-learn, Python, TensorFlow, Reinforcement Learning",Bachelor,Computer Science,University of British Columbia
+Joshua King,1.0,"Cloud Computing, ML Ops, Python, TensorFlow, Deep Learning",Bachelor,Software Engineering,Western University
+Dennis Beck,,"Reinforcement Learning, Scikit-learn",Associate,AI,University of Toronto
+Michael Juarez,7.0,"Computer Vision, Deep Learning, Cloud Computing, ML Ops",PhD,Statistics,University of British Columbia
+Jesse Hoffman,,"Python, TensorFlow",Associate,AI,Queen's University
+Stacey Wood,7.0,"SQL, Data Analysis, Deep Learning, Scikit-learn",PhD,Software Engineering,McGill University
+Howard Padilla,3.0,Deep Learning,Associate,Data Science,University of British Columbia
+Robert Rivera,0.0,"SQL, Data Analysis, Deep Learning, Python, TensorFlow",Master,Software Engineering,University of Waterloo
+Andrew Lopez,,"R, Statistics",PhD,Machine Learning,York University
+Maureen Lane,4.0,"SQL, Data Analysis",PhD,Data Science,University of Waterloo
+Emily Hicks,8.0,"Cloud Computing, ML Ops",Associate,Software Engineering,Western University
+Ryan Foster,6.0,"Cloud Computing, ML Ops",PhD,Data Science,Western University
+Bryan Hobbs,9.0,"Computer Vision, SQL, Data Analysis, Deep Learning",PhD,Statistics,Western University
+Vanessa Woods,10.0,"Computer Vision, Cloud Computing, ML Ops, Scikit-learn",Bachelor,Machine Learning,University of Alberta
+Nina Butler,5.0,"NLP, PyTorch",Bachelor,Software Engineering,Queen's University
+Kenneth Beck,3.0,"Scikit-learn, SQL, Data Analysis, Deep Learning",Associate,Machine Learning,York University
+Kellie Hall,8.0,"Deep Learning, R, Statistics",Master,Data Science,University of Ottawa
+Becky Bryant,3.0,Reinforcement Learning,Associate,Computer Science,McMaster University
+Lisa Arnold,,"NLP, PyTorch",Master,AI,Queen's University
+Andrew Paul,10.0,"Scikit-learn, Cloud Computing, ML Ops, NLP, PyTorch",Master,Machine Learning,University of Alberta
+Ashley Todd,,"R, Statistics, Computer Vision",Master,AI,Western University
+Christopher Scott,,"Reinforcement Learning, Python, TensorFlow",Master,Machine Learning,McMaster University
+Jose Coffey,5.0,"NLP, PyTorch, R, Statistics, Java, Machine Learning",Associate,AI,University of Ottawa
+Michael Robertson,10.0,"SQL, Data Analysis, Python, TensorFlow",Associate,Machine Learning,University of British Columbia
+Frederick Johnson,1.0,"Reinforcement Learning, Computer Vision",PhD,Statistics,University of Waterloo
+Claire Woods,0.0,"Java, Machine Learning",Bachelor,Computer Science,University of Toronto
+Diane Cardenas,0.0,"Deep Learning, Java, Machine Learning",PhD,Software Engineering,University of Waterloo
+Thomas Thomas,7.0,"NLP, PyTorch",Associate,Data Science,University of Alberta
+Michael Gonzalez,6.0,"Java, Machine Learning, R, Statistics, Computer Vision",PhD,Statistics,McMaster University
+Jeffrey Garcia,0.0,"Deep Learning, Cloud Computing, ML Ops, Python, TensorFlow",PhD,AI,University of Waterloo
+Joshua Roman,10.0,"SQL, Data Analysis, Scikit-learn, Reinforcement Learning",Associate,Software Engineering,University of Ottawa
+Kathleen Marquez,6.0,"R, Statistics, Computer Vision",Master,Software Engineering,University of British Columbia
+Jocelyn Dixon,6.0,"SQL, Data Analysis",PhD,Statistics,University of British Columbia
+Tiffany Williams,5.0,"R, Statistics",Master,Statistics,University of Alberta
+Roberta Rush,7.0,Scikit-learn,Associate,Software Engineering,Queen's University
+Devin Whitaker,7.0,"Deep Learning, Computer Vision, SQL, Data Analysis",Master,Software Engineering,Western University
+Vincent Walsh,,"NLP, PyTorch, Scikit-learn",Bachelor,Computer Science,Queen's University
+Benjamin Hancock,1.0,"Reinforcement Learning, Deep Learning",Bachelor,Software Engineering,University of Ottawa
+Joseph Parks Jr.,9.0,"SQL, Data Analysis, Deep Learning",PhD,Data Science,York University
+Earl Jimenez,,"Cloud Computing, ML Ops",Bachelor,Software Engineering,McGill University
+David Anderson,6.0,Reinforcement Learning,PhD,Software Engineering,York University
+Amanda Morgan,0.0,"Reinforcement Learning, R, Statistics, Python, TensorFlow",Bachelor,Machine Learning,University of British Columbia
+Rebekah Powell,4.0,Computer Vision,PhD,Data Science,McGill University
+Bailey Walton,0.0,"Java, Machine Learning",Associate,AI,McMaster University
+Todd Moore,8.0,"R, Statistics",Master,AI,McGill University
+Sandra Delgado,5.0,"SQL, Data Analysis, Java, Machine Learning",Associate,Statistics,McMaster University
+Thomas Ramirez,7.0,"Computer Vision, Reinforcement Learning",Master,Software Engineering,McGill University
+Nancy Mitchell,5.0,Scikit-learn,Associate,Statistics,York University
+Kayla Harrison,3.0,"R, Statistics",Bachelor,Statistics,York University
+Anthony Miller,5.0,"Scikit-learn, SQL, Data Analysis",Bachelor,AI,University of Ottawa
+Maria Thomas,6.0,"NLP, PyTorch, Computer Vision",PhD,Computer Science,University of Ottawa
+Nicholas Sanders,5.0,"Python, TensorFlow",Master,Data Science,University of British Columbia
+Jeffery Valencia,10.0,"SQL, Data Analysis, Deep Learning, Computer Vision",Master,Data Science,McGill University
+Samantha Hall,4.0,"Scikit-learn, SQL, Data Analysis",Associate,Machine Learning,York University
+Alexis Harris,7.0,"R, Statistics",Master,Data Science,University of Toronto
+Brianna Snyder,7.0,"SQL, Data Analysis, Deep Learning",Associate,Computer Science,McMaster University
+Stephen Howell,7.0,"Python, TensorFlow, Scikit-learn, NLP, PyTorch",Associate,Machine Learning,University of Alberta
+Eric Smith,7.0,"Python, TensorFlow",Associate,Statistics,Western University
+Vanessa Berger,5.0,"R, Statistics, Deep Learning",PhD,AI,McMaster University
+Rick Li,5.0,"Python, TensorFlow",Associate,Computer Science,Queen's University
+David Jones,,"Python, TensorFlow, Reinforcement Learning",Bachelor,Software Engineering,University of Ottawa
+Nathan Valencia,3.0,"NLP, PyTorch, Cloud Computing, ML Ops",PhD,Software Engineering,University of Waterloo
+John Brown,3.0,"Cloud Computing, ML Ops",PhD,AI,McMaster University
+Laura Williams,4.0,"Deep Learning, Python, TensorFlow",Associate,Data Science,University of Ottawa
+Richard Harmon,5.0,Scikit-learn,PhD,Statistics,McMaster University
+Tammy Thomas,4.0,"Scikit-learn, Java, Machine Learning",Master,Data Science,Queen's University
+Jessica Rubio,4.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,Statistics,University of Waterloo
+Peter Franklin,,"R, Statistics, SQL, Data Analysis, Computer Vision",PhD,Computer Science,University of Waterloo
+Justin Smith,3.0,"NLP, PyTorch",Bachelor,Software Engineering,McGill University
+Daniel Vance,2.0,"Python, TensorFlow",Bachelor,Computer Science,York University
+Ronald Holder,,"R, Statistics, Python, TensorFlow",Bachelor,Software Engineering,University of Waterloo
+Michael Ryan,2.0,"Reinforcement Learning, Computer Vision",Master,Statistics,University of Ottawa
+Stacey Washington,5.0,"Reinforcement Learning, Deep Learning, Computer Vision",Associate,Software Engineering,University of Waterloo
+Sarah Moore,1.0,"Java, Machine Learning, Computer Vision",PhD,Computer Science,University of Ottawa
+Tamara Gilbert,2.0,"Scikit-learn, Deep Learning",Associate,Statistics,Queen's University
+Jennifer Wong,3.0,"Deep Learning, Java, Machine Learning",Master,AI,University of Alberta
+Rachael Morris,,"Scikit-learn, Python, TensorFlow, Computer Vision",Bachelor,Machine Learning,University of Toronto
+Jessica Cook,7.0,Scikit-learn,Bachelor,Data Science,Western University
+Michael Walters,0.0,"Java, Machine Learning",Bachelor,AI,University of Toronto
+James Oneal,7.0,"Cloud Computing, ML Ops",Master,Data Science,Queen's University
+Ronald Padilla,8.0,"Scikit-learn, Computer Vision",Associate,Machine Learning,University of Toronto
+Brandi Yoder,3.0,Reinforcement Learning,Bachelor,Computer Science,Western University
+Susan Thomas,5.0,"Python, TensorFlow, Computer Vision, Deep Learning",Associate,Computer Science,University of Alberta
+Bradley Riley,5.0,"Reinforcement Learning, NLP, PyTorch",Bachelor,Statistics,University of British Columbia
+Tina Haynes,,"Deep Learning, Reinforcement Learning",PhD,Computer Science,Queen's University
+Craig Harris,,"Java, Machine Learning, Reinforcement Learning",Bachelor,Computer Science,University of Alberta
+Frank Middleton,0.0,"Java, Machine Learning",Associate,AI,University of Waterloo
+Juan Gomez,1.0,"SQL, Data Analysis",PhD,AI,York University
+Jeffrey Rogers,9.0,"SQL, Data Analysis, R, Statistics, Reinforcement Learning",Bachelor,Statistics,York University
+Anthony Ortiz,3.0,"Computer Vision, NLP, PyTorch",Bachelor,Software Engineering,Queen's University
+Manuel Johnson,4.0,"R, Statistics, NLP, PyTorch",PhD,Software Engineering,McMaster University
+James Bridges,3.0,"Cloud Computing, ML Ops",Master,Machine Learning,York University
+Brittany Miller,5.0,"NLP, PyTorch, Scikit-learn",Bachelor,Software Engineering,Queen's University
+Stephanie Hall,,"Reinforcement Learning, Deep Learning, Computer Vision",Bachelor,Computer Science,University of Toronto
+Patricia Whitaker,3.0,"Python, TensorFlow",Master,Computer Science,Queen's University
+Clifford Cohen,7.0,"SQL, Data Analysis",Associate,Machine Learning,University of Ottawa
+Carl Rowe,1.0,"Java, Machine Learning, Python, TensorFlow",Associate,Machine Learning,University of Toronto
+Melanie Beck,4.0,Computer Vision,Master,AI,McGill University
+Alexis Crosby,5.0,"R, Statistics, SQL, Data Analysis",Master,Data Science,McGill University
+Sandra Smith,0.0,"Reinforcement Learning, Cloud Computing, ML Ops, NLP, PyTorch",Bachelor,Machine Learning,Queen's University
+Margaret Rodriguez,9.0,"NLP, PyTorch, SQL, Data Analysis, Computer Vision",Associate,Machine Learning,Queen's University
+Jacob Gonzalez,6.0,"Java, Machine Learning",Bachelor,Statistics,University of Toronto
+Tyler Hill,7.0,"Java, Machine Learning, Cloud Computing, ML Ops, NLP, PyTorch",PhD,Data Science,University of British Columbia
+Ashley Rios,6.0,"SQL, Data Analysis, Java, Machine Learning, R, Statistics",Associate,Machine Learning,University of Ottawa
+Roy Thomas,8.0,"Cloud Computing, ML Ops",Bachelor,AI,University of Waterloo
+Peter Davis,8.0,"SQL, Data Analysis, R, Statistics, Python, TensorFlow",Master,Computer Science,University of British Columbia
+Stephanie Torres,7.0,"Cloud Computing, ML Ops, R, Statistics, NLP, PyTorch",Bachelor,AI,University of Alberta
+Kristin Myers,7.0,"R, Statistics, NLP, PyTorch",Bachelor,Data Science,Western University
+Kim Hunter,10.0,"Reinforcement Learning, Scikit-learn, Java, Machine Learning",Bachelor,Statistics,University of Ottawa
+Cody Ramos,9.0,"R, Statistics",Associate,Data Science,University of British Columbia
+Tiffany Jackson,6.0,Deep Learning,Bachelor,Machine Learning,McMaster University
+Wendy Carter,4.0,"Computer Vision, Cloud Computing, ML Ops, SQL, Data Analysis",PhD,Computer Science,University of Toronto
+Sandra Irwin,6.0,"R, Statistics, Deep Learning",PhD,Statistics,Western University
+Timothy Lee,7.0,"Cloud Computing, ML Ops",Bachelor,AI,University of Ottawa
+Stacey Wilson,9.0,Reinforcement Learning,PhD,Machine Learning,University of Waterloo
+Carlos Hernandez,8.0,"Python, TensorFlow, Scikit-learn",Master,Computer Science,University of British Columbia
+Jacob Gallagher,9.0,"Cloud Computing, ML Ops",Associate,Computer Science,McGill University
+Kevin Thomas,5.0,"Java, Machine Learning, Reinforcement Learning, Deep Learning",Master,Software Engineering,McMaster University
+Kyle Anderson,0.0,"NLP, PyTorch, SQL, Data Analysis",PhD,Machine Learning,Queen's University
+Thomas Barron,,"SQL, Data Analysis, Computer Vision, Cloud Computing, ML Ops",Associate,Statistics,University of Waterloo
+William Dorsey,10.0,"Computer Vision, Deep Learning, Java, Machine Learning",Associate,AI,McGill University
+William Pearson,2.0,Computer Vision,Bachelor,Computer Science,University of Toronto
+Evan Bruce,9.0,"Cloud Computing, ML Ops, SQL, Data Analysis, Java, Machine Learning",Bachelor,AI,Queen's University
+Joseph Jensen,2.0,"Java, Machine Learning",Associate,AI,University of British Columbia
+Joel Simpson,5.0,"Scikit-learn, Deep Learning",Master,Data Science,Queen's University
+Daniel Wright,10.0,"Reinforcement Learning, Scikit-learn",Bachelor,Computer Science,McGill University
+Edward Beltran,7.0,Scikit-learn,Master,Computer Science,University of British Columbia
+Alexandra Jones,,"NLP, PyTorch, Deep Learning",Bachelor,Data Science,University of Toronto
+Sydney Boone,,"Deep Learning, SQL, Data Analysis, Scikit-learn",Master,Machine Learning,University of British Columbia
+Ryan Hart,,"Scikit-learn, Deep Learning, Reinforcement Learning",Master,Computer Science,University of Alberta
+James Johnson,4.0,"NLP, PyTorch, Java, Machine Learning",Bachelor,AI,Western University
+Brandon Webster,1.0,"Deep Learning, Cloud Computing, ML Ops, Computer Vision",Associate,Machine Learning,McMaster University
+Tanner Gibson,7.0,Computer Vision,Master,Data Science,University of Ottawa
+Michelle Houston,1.0,"Scikit-learn, Cloud Computing, ML Ops",Master,Data Science,Western University
+David Sanchez,0.0,"SQL, Data Analysis",Associate,Software Engineering,University of Toronto
+Diana Herrera,,"Deep Learning, SQL, Data Analysis, Computer Vision",Associate,Statistics,McGill University
+Terry Lopez,10.0,"NLP, PyTorch, Java, Machine Learning",PhD,Software Engineering,Queen's University
+Richard Soto,1.0,"Java, Machine Learning",Master,Computer Science,University of Toronto
+Mr. Patrick Johnson,2.0,Computer Vision,PhD,AI,McMaster University
+Carmen Flowers,,"Python, TensorFlow, NLP, PyTorch, Computer Vision",PhD,Statistics,University of British Columbia
+Mary Hickman,6.0,"Scikit-learn, Python, TensorFlow",Associate,Software Engineering,University of Alberta
+Dawn Becker,2.0,"Scikit-learn, Deep Learning, Reinforcement Learning",Associate,Software Engineering,University of Waterloo
+Kirsten Johnson,8.0,"Java, Machine Learning, Reinforcement Learning, Deep Learning",Bachelor,Data Science,University of British Columbia
+Erica Branch MD,,"NLP, PyTorch, R, Statistics, SQL, Data Analysis",Associate,Software Engineering,University of Toronto
+Brad Hayes,,"Cloud Computing, ML Ops, Computer Vision",Bachelor,Software Engineering,McGill University
+Anthony Turner,6.0,"SQL, Data Analysis, NLP, PyTorch",Bachelor,AI,University of British Columbia
+Erik Cowan,3.0,"Java, Machine Learning",PhD,Software Engineering,McMaster University
+Ashley Harris,9.0,"Python, TensorFlow, SQL, Data Analysis",PhD,AI,University of British Columbia
+Stephanie Miller,3.0,"Cloud Computing, ML Ops, SQL, Data Analysis, Scikit-learn",Associate,Data Science,University of Alberta
+Christopher Greene,1.0,"Scikit-learn, SQL, Data Analysis, Computer Vision",Associate,Statistics,University of Toronto
+Sandra Hernandez,8.0,"Python, TensorFlow",Master,Software Engineering,University of Ottawa
+Christina Cox,4.0,"Python, TensorFlow",Master,Software Engineering,McGill University
+Paul Gross,8.0,"Scikit-learn, Computer Vision",PhD,Statistics,Western University
+Charles Martinez,9.0,"Reinforcement Learning, NLP, PyTorch",Master,AI,University of Toronto
+Eric Best,1.0,"Java, Machine Learning, Deep Learning, Computer Vision",PhD,AI,University of Alberta
+Christina Jones,5.0,"Cloud Computing, ML Ops, Java, Machine Learning",Bachelor,Software Engineering,University of British Columbia
+Robin Miller,5.0,"Cloud Computing, ML Ops, Reinforcement Learning, Scikit-learn",Associate,Machine Learning,Queen's University
+Ralph Osborne,2.0,"SQL, Data Analysis, Java, Machine Learning",Associate,Software Engineering,McGill University
+Kayla Fields,6.0,"Cloud Computing, ML Ops, Reinforcement Learning",Master,Data Science,Western University
+James Hill,0.0,"Deep Learning, Scikit-learn, Java, Machine Learning",Bachelor,Computer Science,Western University
+David Garcia,7.0,"Java, Machine Learning",Associate,Computer Science,Queen's University
+Christina Gallagher,3.0,"Java, Machine Learning",Master,AI,University of Toronto
+Jamie Fitzpatrick,0.0,"R, Statistics, Cloud Computing, ML Ops",Master,AI,McGill University
+Jo Serrano,4.0,"Java, Machine Learning",PhD,Data Science,University of Toronto
+Maurice Ward,10.0,"NLP, PyTorch, SQL, Data Analysis",Associate,Machine Learning,University of Ottawa
+James Hill,8.0,"Computer Vision, NLP, PyTorch, Scikit-learn",Bachelor,Machine Learning,McMaster University
+Deborah Chavez,5.0,"Java, Machine Learning, NLP, PyTorch",PhD,Computer Science,McGill University
+Pamela Thornton,2.0,Computer Vision,PhD,Data Science,Queen's University
+Anthony Sanchez,7.0,"R, Statistics, Computer Vision, Cloud Computing, ML Ops",Master,Statistics,University of Toronto
+Anne Brown,4.0,"Scikit-learn, SQL, Data Analysis, Python, TensorFlow",Bachelor,Data Science,University of Ottawa
+Natalie Whitaker,10.0,"R, Statistics",Master,Data Science,University of Waterloo
+Jennifer Harrell,2.0,"Python, TensorFlow",Associate,Statistics,Western University
+Kerry Davis,,"SQL, Data Analysis, Scikit-learn, Python, TensorFlow",Master,Software Engineering,McGill University
+Dr. Dan Martin,2.0,"Reinforcement Learning, Java, Machine Learning, Computer Vision",PhD,Machine Learning,University of Ottawa
+Sarah Page,10.0,"Python, TensorFlow",Bachelor,Statistics,McGill University
+Dr. James Becker,3.0,"Cloud Computing, ML Ops",PhD,Statistics,Queen's University
+Thomas Nguyen,,"Python, TensorFlow, NLP, PyTorch, Cloud Computing, ML Ops",Associate,Computer Science,University of British Columbia
+John Fletcher,,"Scikit-learn, Deep Learning, SQL, Data Analysis",PhD,Computer Science,University of Waterloo
+Andrea Gardner,0.0,Deep Learning,Master,Data Science,McMaster University
+Andrew Payne,0.0,Computer Vision,Bachelor,Statistics,University of British Columbia
+Peter Ho,9.0,"Deep Learning, R, Statistics, Reinforcement Learning",Master,Data Science,McGill University
+Melissa Curtis,5.0,"NLP, PyTorch",PhD,Statistics,Western University
+Ann Jones,4.0,"NLP, PyTorch, Python, TensorFlow, Cloud Computing, ML Ops",PhD,Data Science,University of Toronto
+Philip Cohen,,"Python, TensorFlow",Bachelor,Software Engineering,University of Toronto
+Ashley Gonzalez,3.0,"SQL, Data Analysis",Master,Data Science,York University
+Nathaniel Fisher,9.0,"Deep Learning, Scikit-learn, Cloud Computing, ML Ops",Bachelor,Computer Science,University of Waterloo
+Jeffrey Brown,3.0,"Deep Learning, Python, TensorFlow, R, Statistics",Associate,Statistics,University of Alberta
+Diana Ortega,2.0,"Deep Learning, Reinforcement Learning",PhD,Statistics,University of Alberta
+Robert Fisher,4.0,Deep Learning,Bachelor,Software Engineering,University of British Columbia
+Annette Hurley,0.0,"SQL, Data Analysis",Bachelor,Data Science,University of Ottawa
+Emily Ramos,8.0,"Cloud Computing, ML Ops, R, Statistics",PhD,Software Engineering,University of Alberta
+Dennis Salinas,0.0,"NLP, PyTorch",Bachelor,Data Science,University of Waterloo
+Pamela Henry,7.0,"Python, TensorFlow, Java, Machine Learning, Computer Vision",Associate,Statistics,University of Ottawa
+Leslie Skinner,0.0,"Python, TensorFlow, R, Statistics, NLP, PyTorch",PhD,Computer Science,University of Ottawa
+Kristin Anderson,10.0,"NLP, PyTorch, Computer Vision",PhD,AI,University of Toronto
+Thomas Smith,4.0,"Reinforcement Learning, NLP, PyTorch, Cloud Computing, ML Ops",Master,AI,McMaster University
+Laura Martin,6.0,"SQL, Data Analysis, Cloud Computing, ML Ops",PhD,AI,University of Waterloo
+Anne Pearson,2.0,"Java, Machine Learning, R, Statistics",Bachelor,Data Science,McGill University
+Madison Curtis,3.0,"Java, Machine Learning, SQL, Data Analysis, Scikit-learn",Master,Machine Learning,University of Alberta
+Dale Davis,9.0,"Reinforcement Learning, Cloud Computing, ML Ops, Scikit-learn",Associate,Software Engineering,University of British Columbia
+Frank Garner,5.0,"Computer Vision, Python, TensorFlow, Cloud Computing, ML Ops",Associate,Software Engineering,University of Waterloo
+Angela Smith,3.0,"Deep Learning, Scikit-learn",Bachelor,Statistics,University of Waterloo
+Christopher Johnson,3.0,"Cloud Computing, ML Ops, Deep Learning",PhD,Data Science,McGill University
+William Stone,,"Cloud Computing, ML Ops",Associate,Computer Science,University of Alberta
+Miss Ashley Moss DDS,6.0,"Java, Machine Learning",Bachelor,Computer Science,Queen's University
+Charles Lam,5.0,"R, Statistics, NLP, PyTorch, Cloud Computing, ML Ops",Bachelor,AI,Queen's University
+Kevin Thompson,9.0,"SQL, Data Analysis",Bachelor,Software Engineering,University of Alberta
+Leroy Ortiz,,"R, Statistics",Master,Statistics,McGill University
+Caitlin Spears,,"Java, Machine Learning",PhD,Statistics,McGill University
+Angela Peterson,1.0,"NLP, PyTorch, Java, Machine Learning, Cloud Computing, ML Ops",Master,Statistics,University of Toronto
+Dr. Melissa Greene,10.0,"Reinforcement Learning, Cloud Computing, ML Ops, Deep Learning",Master,Machine Learning,York University
+Joshua Riley,3.0,"Java, Machine Learning, Reinforcement Learning, Scikit-learn",PhD,Computer Science,University of Toronto
+Ashley Jenkins,4.0,"R, Statistics, Computer Vision, SQL, Data Analysis",PhD,Machine Learning,University of British Columbia
+Carmen Miller,3.0,Scikit-learn,Bachelor,Data Science,University of Ottawa
+Joshua Duncan,5.0,"Reinforcement Learning, Cloud Computing, ML Ops",Associate,Statistics,McMaster University
+Steven Pierce,6.0,"R, Statistics",Associate,AI,McGill University
+Susan Cardenas,3.0,"Reinforcement Learning, Scikit-learn, NLP, PyTorch",PhD,Software Engineering,Queen's University
+Justin Adams,4.0,"NLP, PyTorch, Scikit-learn, Reinforcement Learning",PhD,Machine Learning,University of Toronto
+Sandra Vargas,3.0,"Cloud Computing, ML Ops, R, Statistics, NLP, PyTorch",Bachelor,AI,University of Waterloo
+Jamie Potts,6.0,"Cloud Computing, ML Ops, R, Statistics, Java, Machine Learning",PhD,Computer Science,University of Waterloo
+Jessica Carpenter,8.0,"Deep Learning, R, Statistics, Cloud Computing, ML Ops",Bachelor,Computer Science,University of Toronto
+Chad King,5.0,"Scikit-learn, Deep Learning, Cloud Computing, ML Ops",Master,Computer Science,Western University
+Melissa Sanders,2.0,"Java, Machine Learning",Master,AI,Queen's University
+Michelle Perez,8.0,"Java, Machine Learning",Bachelor,AI,University of British Columbia
+Valerie Lambert MD,1.0,"R, Statistics, NLP, PyTorch, Cloud Computing, ML Ops",Master,AI,McMaster University
+Vanessa Sandoval,,Reinforcement Learning,Master,Data Science,McGill University
+Taylor Jackson,3.0,"NLP, PyTorch, Cloud Computing, ML Ops",PhD,Machine Learning,University of Toronto
+Andrew Rodriguez,,"Computer Vision, Scikit-learn, Python, TensorFlow",PhD,Software Engineering,University of British Columbia
+Tyler Fernandez,5.0,"Computer Vision, NLP, PyTorch",Associate,AI,Queen's University
+Valerie Johnson,4.0,Computer Vision,Associate,Computer Science,Queen's University
+Robert Moon,2.0,"R, Statistics, Scikit-learn",Bachelor,Machine Learning,Western University
+Jordan Johnson,0.0,"Scikit-learn, SQL, Data Analysis, R, Statistics",Bachelor,Computer Science,University of Ottawa
+David Cooper,7.0,"Computer Vision, Scikit-learn",Bachelor,Statistics,McMaster University
+Thomas Wheeler,6.0,"Deep Learning, Computer Vision, SQL, Data Analysis",Master,Data Science,Queen's University
+Justin Howard,9.0,"NLP, PyTorch",Bachelor,AI,University of Toronto
+Elizabeth Compton,,"NLP, PyTorch, Cloud Computing, ML Ops, Scikit-learn",Associate,Software Engineering,University of Toronto
+Aaron Barker,,Deep Learning,PhD,Software Engineering,University of British Columbia
+Amy Evans DVM,8.0,"Java, Machine Learning, Cloud Computing, ML Ops, Reinforcement Learning",Master,Statistics,University of Alberta
+Jeffrey Jordan,,"SQL, Data Analysis, Reinforcement Learning, Deep Learning",Master,Computer Science,York University
+Nathan Stewart,8.0,"Reinforcement Learning, Python, TensorFlow",PhD,Machine Learning,University of Waterloo
+Chelsea Davis,4.0,"Computer Vision, Deep Learning",Associate,Machine Learning,McMaster University
+Jessica Hill,1.0,"Python, TensorFlow, NLP, PyTorch, R, Statistics",Master,Data Science,Queen's University
+Kirk Zhang,3.0,"SQL, Data Analysis, Scikit-learn, Python, TensorFlow",Bachelor,Statistics,University of Ottawa
+Malik Moore,8.0,"Computer Vision, NLP, PyTorch, Python, TensorFlow",Master,Machine Learning,University of British Columbia
+Jesus Brewer,8.0,"Reinforcement Learning, Java, Machine Learning, Cloud Computing, ML Ops",Associate,Statistics,McGill University
+Susan Kelley,1.0,"Deep Learning, Computer Vision",Master,AI,McGill University
+Amanda Strickland,0.0,"Java, Machine Learning, Deep Learning, Computer Vision",Master,Computer Science,York University
+Michael Hess,,"NLP, PyTorch",PhD,Machine Learning,Queen's University
+Carl Snyder,0.0,"Reinforcement Learning, Scikit-learn",PhD,Machine Learning,University of British Columbia
+Brian Howard DDS,1.0,"SQL, Data Analysis",Associate,Software Engineering,University of Alberta
+Alexandra Lopez,5.0,"NLP, PyTorch",PhD,AI,University of Toronto
+Sherry Patterson,1.0,"R, Statistics",Master,Statistics,Queen's University
+Spencer Anderson,,"Scikit-learn, NLP, PyTorch",Master,AI,University of British Columbia
+Joseph Walker,,"Reinforcement Learning, Deep Learning, NLP, PyTorch",Associate,Software Engineering,Western University
+Matthew Andrews,1.0,"Java, Machine Learning",Bachelor,AI,University of Toronto
+Samantha Reid,6.0,"Scikit-learn, Java, Machine Learning",Bachelor,Computer Science,University of Toronto
+Tonya Williams,2.0,"Java, Machine Learning, Deep Learning",Associate,Software Engineering,York University
+Angela Jones,8.0,"SQL, Data Analysis, Deep Learning",PhD,Software Engineering,Queen's University
+Christopher Mitchell,,"Cloud Computing, ML Ops, Scikit-learn, Computer Vision",Master,Software Engineering,University of Ottawa
+Julian Stevens,,"Deep Learning, Python, TensorFlow, Reinforcement Learning",PhD,AI,University of Ottawa
+Patricia Fisher,9.0,"Cloud Computing, ML Ops, Python, TensorFlow, Deep Learning",Bachelor,Computer Science,University of Alberta
+Kristie Mcdaniel,8.0,Computer Vision,Master,Statistics,McGill University
+Morgan Moore,7.0,"Scikit-learn, SQL, Data Analysis, NLP, PyTorch",Associate,Software Engineering,McMaster University
+Malik Ward,2.0,Computer Vision,Bachelor,Data Science,University of British Columbia
+Amy Sanchez,2.0,"NLP, PyTorch",Bachelor,Software Engineering,University of Toronto
+Joyce Barrett,9.0,"R, Statistics, Python, TensorFlow",Associate,Machine Learning,Western University
+Karla Wilson,,"R, Statistics, Reinforcement Learning",Associate,Software Engineering,York University
+Ashley Walker,1.0,"Scikit-learn, Computer Vision",Associate,Software Engineering,York University
+Donald Smith,,"Python, TensorFlow, Computer Vision",PhD,Software Engineering,University of British Columbia
+Adam Mills,3.0,"Reinforcement Learning, Java, Machine Learning, R, Statistics",Bachelor,Software Engineering,York University
+Jose Johnson,10.0,"Scikit-learn, Java, Machine Learning",Associate,AI,University of Alberta
+Randall Black Jr.,2.0,"NLP, PyTorch, Reinforcement Learning",Bachelor,Statistics,Queen's University
+Tracy Torres,3.0,"Python, TensorFlow",Master,AI,University of Ottawa
+Charles Kane,,"Scikit-learn, Python, TensorFlow, R, Statistics",Master,Computer Science,McGill University
+Renee Ibarra,10.0,"Python, TensorFlow, Cloud Computing, ML Ops, R, Statistics",Associate,Data Science,York University
+Kyle Evans,2.0,Reinforcement Learning,Bachelor,Statistics,McMaster University
+Olivia Beasley,7.0,"Cloud Computing, ML Ops, Scikit-learn",PhD,Software Engineering,Queen's University
+Carol Gonzalez,0.0,"NLP, PyTorch, SQL, Data Analysis, Scikit-learn",Associate,Software Engineering,University of Toronto
+Matthew Flynn,10.0,"Cloud Computing, ML Ops, NLP, PyTorch",Master,Software Engineering,Queen's University
+Anthony Ramos,2.0,"Reinforcement Learning, Scikit-learn",Associate,Computer Science,University of Ottawa
+Sheri Cruz,9.0,"NLP, PyTorch, Reinforcement Learning, Java, Machine Learning",Master,Data Science,University of British Columbia
+Dawn Porter,0.0,"Python, TensorFlow, SQL, Data Analysis",PhD,Machine Learning,York University
+Jerry Kemp,7.0,"Deep Learning, R, Statistics",Master,AI,McMaster University
+Rebecca Marshall,1.0,"Python, TensorFlow",Bachelor,Software Engineering,University of Alberta
+Paul Hunt,10.0,"Python, TensorFlow, NLP, PyTorch",Associate,Data Science,University of British Columbia
+Alexander Gray,4.0,"Cloud Computing, ML Ops",Associate,Machine Learning,University of Toronto
+George Anderson,10.0,"Java, Machine Learning",PhD,Machine Learning,Western University
+Kristen Phillips,5.0,"Cloud Computing, ML Ops, Deep Learning",Bachelor,Data Science,University of Ottawa
+Rebecca Perez,3.0,"R, Statistics, Cloud Computing, ML Ops",PhD,Data Science,University of Ottawa
+Melissa Chang,9.0,"R, Statistics",Associate,Software Engineering,University of Waterloo
+Richard Kelley,5.0,"Computer Vision, Scikit-learn, R, Statistics",PhD,Statistics,Western University
+Julie Green,10.0,Deep Learning,Associate,Statistics,University of Waterloo
+Julia Livingston,5.0,"Java, Machine Learning, Scikit-learn",Master,AI,University of Ottawa
+Steve Mendoza,3.0,"Java, Machine Learning",Associate,AI,University of Waterloo
+Christina Benson,9.0,"Deep Learning, NLP, PyTorch",Bachelor,Machine Learning,University of Ottawa
+Taylor Morales,7.0,"Scikit-learn, R, Statistics",Bachelor,Software Engineering,Queen's University
+Michael Butler PhD,,"Java, Machine Learning, Reinforcement Learning, Cloud Computing, ML Ops",Bachelor,Machine Learning,Queen's University
+Cynthia Boyer,,"Python, TensorFlow, Scikit-learn",Master,Machine Learning,University of British Columbia
+Angela Watkins,3.0,"Scikit-learn, SQL, Data Analysis, Reinforcement Learning",Master,Data Science,University of Waterloo
+Tracy Rhodes,3.0,"Python, TensorFlow, Java, Machine Learning",Master,Software Engineering,University of Toronto
+Paula Lee,3.0,"Python, TensorFlow",PhD,Statistics,University of Waterloo
+Shelia Lewis,1.0,"NLP, PyTorch",Bachelor,Computer Science,University of Ottawa
+Tracy Martin DDS,1.0,Computer Vision,Master,Software Engineering,Western University
+Christina Peck,8.0,"SQL, Data Analysis",Bachelor,Data Science,University of Waterloo
+Elizabeth Thomas,,"R, Statistics",PhD,Machine Learning,McGill University
+Benjamin Hansen,6.0,"Deep Learning, Scikit-learn, R, Statistics",PhD,AI,McGill University
+Dorothy Smith,,"Cloud Computing, ML Ops, R, Statistics, Reinforcement Learning",Associate,Computer Science,University of Toronto
+Christopher Huynh,2.0,"Reinforcement Learning, Deep Learning",PhD,Machine Learning,University of Waterloo
+Patrick Baker,7.0,"R, Statistics, SQL, Data Analysis, Python, TensorFlow",Bachelor,Machine Learning,Queen's University
+Andrew Barrera,0.0,"SQL, Data Analysis, R, Statistics",Associate,Data Science,York University
+Kenneth Eaton,7.0,"NLP, PyTorch, Reinforcement Learning, Scikit-learn",Master,Computer Science,University of Alberta
+Chloe Armstrong,0.0,Computer Vision,PhD,Software Engineering,University of British Columbia
+Timothy Gill,9.0,"Python, TensorFlow",Master,Statistics,York University
+Joseph Hill,1.0,"Cloud Computing, ML Ops",Bachelor,AI,Queen's University
+Angela Jones,6.0,"Cloud Computing, ML Ops, Scikit-learn, Reinforcement Learning",PhD,Machine Learning,McGill University
+Jennifer Fox,9.0,"SQL, Data Analysis",PhD,Machine Learning,University of British Columbia
+Russell Jones,6.0,"Python, TensorFlow, Cloud Computing, ML Ops, Reinforcement Learning",Associate,Machine Learning,University of Alberta
+Oscar Saunders,1.0,"Deep Learning, NLP, PyTorch",Associate,AI,University of Ottawa
+Ian Lawrence,8.0,"SQL, Data Analysis",PhD,Machine Learning,York University
+Nicholas Bowman,9.0,Computer Vision,Master,Software Engineering,University of Alberta
+Kristen Lewis,4.0,"R, Statistics, Python, TensorFlow, NLP, PyTorch",Associate,AI,McGill University
+Thomas Rodriguez,,Reinforcement Learning,Associate,Machine Learning,York University
+Joel Callahan,8.0,"Python, TensorFlow, Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,Machine Learning,University of Alberta
+Nicole Wright,6.0,"Computer Vision, R, Statistics",Associate,Software Engineering,University of Alberta
+Steven Willis,1.0,Deep Learning,Master,Data Science,McGill University
+April Davis,,"Deep Learning, Computer Vision",Master,Computer Science,University of Waterloo
+Tyler Kelley,7.0,"Cloud Computing, ML Ops",Master,Machine Learning,Queen's University
+Nancy Phillips,3.0,Deep Learning,Associate,Data Science,Western University
+Michael Stephens,4.0,"Reinforcement Learning, Computer Vision, Java, Machine Learning",Bachelor,AI,University of Waterloo
+Joseph Hill,5.0,"NLP, PyTorch, Java, Machine Learning, R, Statistics",Associate,Machine Learning,Western University
+Tracy Key,,Computer Vision,Bachelor,AI,University of Toronto
+Joshua Hunt,5.0,"NLP, PyTorch",PhD,Computer Science,University of Ottawa
+Elizabeth Mason,2.0,"R, Statistics, Java, Machine Learning",PhD,Data Science,Queen's University
+Michael Francis,1.0,"Scikit-learn, Cloud Computing, ML Ops, NLP, PyTorch",Bachelor,AI,University of Alberta
+Charlotte Garner,4.0,"Scikit-learn, Cloud Computing, ML Ops, NLP, PyTorch",PhD,Machine Learning,University of Toronto
+Kevin Jones,2.0,"SQL, Data Analysis, Deep Learning",PhD,Machine Learning,Queen's University
+Brian Parks,5.0,"NLP, PyTorch, Reinforcement Learning, SQL, Data Analysis",Associate,Data Science,University of British Columbia
+Michael Hancock,4.0,"Scikit-learn, Reinforcement Learning",Associate,Computer Science,Queen's University
+Travis Parker,8.0,"Python, TensorFlow",Master,AI,University of British Columbia
+Alicia Rice,,"Computer Vision, Reinforcement Learning, Java, Machine Learning",Bachelor,Computer Science,York University
+Alison Brown,7.0,"Python, TensorFlow",Associate,Data Science,Western University
+Sandra Morgan,3.0,"Reinforcement Learning, Cloud Computing, ML Ops",Associate,Computer Science,University of British Columbia
+Christopher Gates,10.0,"Deep Learning, NLP, PyTorch, Computer Vision",Master,AI,McMaster University
+Cameron Dunlap,,"Reinforcement Learning, Computer Vision, NLP, PyTorch",Associate,Statistics,University of Toronto
+Susan Cook,7.0,"R, Statistics, NLP, PyTorch",Associate,Software Engineering,University of British Columbia
+Melissa Pierce,,Scikit-learn,PhD,AI,University of British Columbia
+Jason Gates,9.0,Scikit-learn,Bachelor,Statistics,York University
+Katherine Anderson,1.0,"R, Statistics",Bachelor,Machine Learning,Queen's University
+William Reed,,"Java, Machine Learning, SQL, Data Analysis, Computer Vision",Bachelor,Machine Learning,University of Ottawa
+Laurie Mcintyre,0.0,"Computer Vision, SQL, Data Analysis, Scikit-learn",PhD,Computer Science,Queen's University
+Brenda Gutierrez,8.0,"SQL, Data Analysis, Java, Machine Learning",Bachelor,Computer Science,University of Alberta
+Christine Woodard,2.0,"Reinforcement Learning, Computer Vision",Associate,Software Engineering,Western University
+Robert Rice,,"Deep Learning, R, Statistics, Scikit-learn",Master,Software Engineering,University of Ottawa
+Brian Ramirez,7.0,"Python, TensorFlow, Computer Vision, Scikit-learn",PhD,Computer Science,Western University
+Chelsey Brown,3.0,"SQL, Data Analysis",Associate,Machine Learning,University of Waterloo
+Natalie Burgess,9.0,"Cloud Computing, ML Ops, Computer Vision",PhD,Data Science,York University
+Henry Olsen,3.0,"Cloud Computing, ML Ops, Python, TensorFlow",PhD,Machine Learning,McGill University
+Audrey Lee,6.0,"Reinforcement Learning, Java, Machine Learning",PhD,Statistics,Queen's University
+Patricia Delacruz,4.0,"Deep Learning, Reinforcement Learning, Scikit-learn",Bachelor,Machine Learning,York University
+Brittany Fuller,4.0,"Python, TensorFlow",Bachelor,Computer Science,McMaster University
+Anne Dunn,7.0,"R, Statistics, Cloud Computing, ML Ops, Computer Vision",Master,Computer Science,Queen's University
+Vicki Pruitt,10.0,"R, Statistics",Master,Software Engineering,Queen's University
+Jennifer Sandoval,10.0,"Java, Machine Learning, Python, TensorFlow",Bachelor,Statistics,University of Waterloo
+Christina Park,8.0,"Python, TensorFlow, Scikit-learn",Master,Software Engineering,University of Waterloo
+Joseph Holder,,"Cloud Computing, ML Ops, Computer Vision",Master,Statistics,Queen's University
+Daniel King,8.0,"Cloud Computing, ML Ops, Reinforcement Learning, Java, Machine Learning",Bachelor,AI,Queen's University
+Robert Berry,1.0,"Reinforcement Learning, SQL, Data Analysis, Cloud Computing, ML Ops",Master,Data Science,University of Ottawa
+Michelle Gallagher,,"Python, TensorFlow",Bachelor,Computer Science,Queen's University
+Angela Everett,7.0,"R, Statistics",Master,Statistics,Queen's University
+Scott Flores,5.0,Deep Learning,PhD,Machine Learning,University of Waterloo
+Cassandra Willis,3.0,"R, Statistics, Scikit-learn",PhD,Machine Learning,York University
+Nicholas Wise,4.0,"Scikit-learn, R, Statistics, Cloud Computing, ML Ops",Associate,Machine Learning,York University
+Donna Johnson,0.0,"R, Statistics, NLP, PyTorch, Reinforcement Learning",Associate,Computer Science,University of Waterloo
+Alec Gonzalez,7.0,"Java, Machine Learning, Computer Vision, Scikit-learn",Master,Statistics,University of Alberta
+Deborah Pena,2.0,"NLP, PyTorch",PhD,Software Engineering,York University
+Matthew Garcia,5.0,"Reinforcement Learning, Python, TensorFlow, Scikit-learn",Bachelor,Data Science,University of Alberta
+Candice Austin,6.0,Reinforcement Learning,Associate,Software Engineering,University of Ottawa
+Oscar Johnston,8.0,"Java, Machine Learning, SQL, Data Analysis",PhD,Machine Learning,University of Ottawa
+Jessica Hart,3.0,"Deep Learning, Python, TensorFlow",Bachelor,AI,McMaster University
+Andrew Hunt,9.0,"NLP, PyTorch",Master,Data Science,McGill University
+Maria Jones,2.0,"Python, TensorFlow, Reinforcement Learning, Computer Vision",Bachelor,Data Science,University of Toronto
+Angela Rodriguez,5.0,"R, Statistics, NLP, PyTorch, Cloud Computing, ML Ops",Master,Computer Science,University of Ottawa
+Jennifer Cabrera,5.0,Reinforcement Learning,PhD,AI,University of Toronto
+Kevin Henry,9.0,"NLP, PyTorch, Computer Vision",Master,Computer Science,McMaster University
+Amanda Hawkins,6.0,Reinforcement Learning,PhD,Software Engineering,University of Waterloo
+Alec Rodriguez,,"Scikit-learn, R, Statistics, Cloud Computing, ML Ops",PhD,AI,Western University
+Peter Richardson,0.0,Computer Vision,Master,Software Engineering,University of Toronto
+Morgan Roberts,8.0,Deep Learning,Master,AI,University of Alberta
+Heather Thomas,8.0,"NLP, PyTorch",Associate,Computer Science,York University
+Alexandra Jordan,,"Python, TensorFlow",Bachelor,AI,University of British Columbia
+Douglas Lin,1.0,"NLP, PyTorch, Cloud Computing, ML Ops, Computer Vision",Master,Computer Science,McGill University
+Brian Young,9.0,"NLP, PyTorch, Java, Machine Learning, Reinforcement Learning",Associate,Machine Learning,University of Waterloo
+Courtney Moreno MD,7.0,"NLP, PyTorch",Associate,Computer Science,Queen's University
+Christopher Melton,8.0,"Scikit-learn, SQL, Data Analysis",Master,Machine Learning,McMaster University
+Mary Lam,0.0,Scikit-learn,Master,Computer Science,University of Alberta
+Amanda Marsh,1.0,"Reinforcement Learning, Deep Learning",Bachelor,Software Engineering,Western University
+Briana Reeves,8.0,"Cloud Computing, ML Ops, Reinforcement Learning, R, Statistics",Master,Software Engineering,University of Ottawa
+Cynthia Fox,,Deep Learning,Master,Computer Science,Queen's University
+Christopher Wade,10.0,Reinforcement Learning,Bachelor,Software Engineering,University of British Columbia
+Savannah Martinez,8.0,"Python, TensorFlow",Bachelor,AI,McMaster University
+Sean Hampton,8.0,"SQL, Data Analysis",Associate,Statistics,Western University
+Susan Perez,5.0,"SQL, Data Analysis, Reinforcement Learning, Java, Machine Learning",PhD,Statistics,University of Toronto
+Michelle Miller,,Computer Vision,Bachelor,Data Science,York University
+Mr. Richard Robertson,0.0,"NLP, PyTorch",Bachelor,AI,Western University
+Dr. Anna Berry,8.0,"Computer Vision, R, Statistics, Deep Learning",Associate,Machine Learning,University of Toronto
+Kimberly Pineda,,Scikit-learn,Master,Data Science,University of Waterloo
+Lauren Zamora,9.0,"SQL, Data Analysis, Reinforcement Learning, Python, TensorFlow",Associate,Machine Learning,Queen's University
+Alicia Henderson,4.0,"Python, TensorFlow, Computer Vision",Master,Computer Science,McMaster University
+Mrs. Crystal Wilcox,,"Scikit-learn, Reinforcement Learning",Bachelor,AI,York University
+Julie Lowe,1.0,Computer Vision,Master,Machine Learning,University of Ottawa
+Kristy Marshall,10.0,"NLP, PyTorch, Python, TensorFlow",Bachelor,Software Engineering,McGill University
+Katherine Gordon,0.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Associate,Data Science,University of Waterloo
+Kathy Forbes,2.0,"SQL, Data Analysis, R, Statistics, Computer Vision",Bachelor,Machine Learning,University of British Columbia
+Joseph Luna,10.0,"R, Statistics, SQL, Data Analysis, Computer Vision",Master,Data Science,Western University
+Deanna Reed,10.0,"R, Statistics, Java, Machine Learning, Scikit-learn",PhD,AI,McMaster University
+William Kelley,10.0,"R, Statistics",Bachelor,Statistics,University of Toronto
+Jason Elliott,8.0,"Python, TensorFlow, R, Statistics, Java, Machine Learning",Bachelor,AI,University of Ottawa
+Lisa Brown,1.0,"Computer Vision, Java, Machine Learning, SQL, Data Analysis",Bachelor,AI,University of Ottawa
+Laura Briggs,7.0,"R, Statistics, Deep Learning, Computer Vision",PhD,Computer Science,University of Toronto
+Emily Jones,10.0,"Computer Vision, Deep Learning, Reinforcement Learning",Master,Data Science,McGill University
+Curtis Kim,3.0,"Deep Learning, NLP, PyTorch, Python, TensorFlow",Bachelor,Statistics,Western University
+Christina Gregory,1.0,"Reinforcement Learning, Python, TensorFlow, SQL, Data Analysis",PhD,Data Science,Queen's University
+Michael Richardson,1.0,"R, Statistics, NLP, PyTorch",Master,Computer Science,University of Ottawa
+Stephanie Lee,1.0,"R, Statistics, Cloud Computing, ML Ops",Bachelor,Data Science,McMaster University
+Jason Erickson,2.0,"Python, TensorFlow",Bachelor,Statistics,University of Toronto
+Cody Patton,10.0,"Scikit-learn, Reinforcement Learning, Cloud Computing, ML Ops",PhD,Data Science,Queen's University
+John Clay,1.0,"Java, Machine Learning",Master,AI,University of British Columbia
+Terry Austin,6.0,"NLP, PyTorch, R, Statistics",Bachelor,Software Engineering,University of Ottawa
+Melissa Hoffman,4.0,"R, Statistics, Deep Learning, Java, Machine Learning",Associate,Machine Learning,Western University
+Robert Wagner,3.0,"Cloud Computing, ML Ops, R, Statistics, Java, Machine Learning",Master,Statistics,Western University
+Elizabeth Jensen,0.0,"Java, Machine Learning, Deep Learning, R, Statistics",Associate,Software Engineering,McMaster University
+Timothy Bruce,9.0,"Reinforcement Learning, NLP, PyTorch, Python, TensorFlow",Associate,AI,University of British Columbia
+Isaac Williamson,8.0,"Reinforcement Learning, Scikit-learn, NLP, PyTorch",Associate,AI,University of British Columbia
+Jennifer Adams,1.0,"SQL, Data Analysis, Computer Vision, Scikit-learn",Master,AI,Queen's University
+Cory Horne,0.0,"Deep Learning, Java, Machine Learning",Master,AI,University of Ottawa
+Juan Castaneda,7.0,"NLP, PyTorch, Reinforcement Learning, Scikit-learn",Master,Machine Learning,University of Ottawa
+Natasha Howard,3.0,"R, Statistics, NLP, PyTorch",Bachelor,Statistics,Queen's University
+Christopher George,0.0,"Python, TensorFlow, Deep Learning",PhD,Statistics,McGill University
+Abigail Harrington,,"Cloud Computing, ML Ops, NLP, PyTorch, Python, TensorFlow",Associate,Computer Science,University of Waterloo
+Sarah Hughes,9.0,"Deep Learning, Computer Vision",Master,Software Engineering,University of British Columbia
+Virginia Bell,,"NLP, PyTorch, Computer Vision, R, Statistics",PhD,Software Engineering,McMaster University
+Sean Cook,0.0,"Computer Vision, Scikit-learn",Bachelor,Data Science,University of British Columbia
+Lori Hernandez,3.0,"Java, Machine Learning, Scikit-learn, Reinforcement Learning",PhD,Computer Science,University of British Columbia
+Mark Keller,6.0,"Cloud Computing, ML Ops, Deep Learning",Master,Machine Learning,McMaster University
+Elizabeth Costa,7.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,AI,University of Ottawa
+Scott Ingram,0.0,"Cloud Computing, ML Ops",Bachelor,Software Engineering,University of British Columbia
+William Howell,7.0,"R, Statistics",Bachelor,Machine Learning,University of Waterloo
+David Thomas,2.0,"Scikit-learn, Computer Vision, Reinforcement Learning",Master,Computer Science,University of Ottawa
+Misty Tran,7.0,Reinforcement Learning,PhD,Statistics,Western University
+Michael Hammond,0.0,"SQL, Data Analysis",Bachelor,AI,University of Toronto
+Andrew Rodriguez,2.0,"R, Statistics, Python, TensorFlow, Scikit-learn",PhD,Data Science,Queen's University
+Ryan Craig,0.0,"Reinforcement Learning, Cloud Computing, ML Ops, Computer Vision",PhD,Machine Learning,McMaster University
+Elizabeth Gonzales,8.0,Deep Learning,Master,Machine Learning,University of British Columbia
+Heather Johnson,7.0,"R, Statistics, NLP, PyTorch, Deep Learning",Associate,Statistics,McMaster University
+Eric Lamb,2.0,"Cloud Computing, ML Ops, Computer Vision, Python, TensorFlow",Master,Data Science,University of Toronto
+Donna Hawkins,2.0,Reinforcement Learning,Bachelor,Data Science,University of Alberta
+Paige Adams,10.0,"Computer Vision, Reinforcement Learning, Java, Machine Learning",Associate,Computer Science,McMaster University
+Brittany Lee,3.0,"Java, Machine Learning",Associate,Machine Learning,McMaster University
+Joseph Smith,8.0,"Scikit-learn, Computer Vision, Java, Machine Learning",Master,Machine Learning,University of Waterloo
+Brandon James,10.0,"R, Statistics",Master,Software Engineering,University of Toronto
+Hannah Mays,9.0,"Deep Learning, Reinforcement Learning",Master,Data Science,University of Ottawa
+Aaron Mason,0.0,Computer Vision,Associate,Statistics,University of Ottawa
+Heather Stein,6.0,"Python, TensorFlow, Cloud Computing, ML Ops",Associate,Computer Science,University of Alberta
+Robert Russo,9.0,"NLP, PyTorch",Bachelor,Software Engineering,University of Waterloo
+Angela Harrington,0.0,"Python, TensorFlow",Master,Data Science,University of Toronto
+Lori Figueroa,2.0,"Cloud Computing, ML Ops, SQL, Data Analysis, Python, TensorFlow",Bachelor,AI,Western University
+Douglas Morris,5.0,"Computer Vision, Cloud Computing, ML Ops",PhD,Machine Learning,McMaster University
+Andre Smith,8.0,"Scikit-learn, SQL, Data Analysis",Associate,Software Engineering,York University
+Tiffany Russell,7.0,"Java, Machine Learning",Master,AI,McGill University
+Alexandria Allen,9.0,Reinforcement Learning,Bachelor,Data Science,University of Alberta
+Robert Ibarra,2.0,"Scikit-learn, Java, Machine Learning",Bachelor,Statistics,York University
+Judy Hensley,5.0,"R, Statistics, Deep Learning",Associate,Data Science,Queen's University
+John Mckenzie,5.0,"Python, TensorFlow, NLP, PyTorch",Master,Statistics,University of British Columbia
+Christian Hernandez,2.0,"Java, Machine Learning, Computer Vision",Master,Data Science,University of British Columbia
+Julie Brooks,5.0,"NLP, PyTorch",PhD,Data Science,Queen's University
+Kelly Tate,7.0,"NLP, PyTorch, Python, TensorFlow",PhD,Software Engineering,University of Toronto
+Dana Yoder,6.0,"Computer Vision, Scikit-learn",Master,Data Science,University of British Columbia
+Trevor Brown,7.0,"Scikit-learn, Deep Learning",Bachelor,Data Science,McMaster University
+Ruth Garza,9.0,"Cloud Computing, ML Ops, NLP, PyTorch, Deep Learning",Bachelor,Computer Science,University of Alberta
+Tiffany Preston,1.0,"NLP, PyTorch",PhD,Computer Science,Queen's University
+Michael Smith,4.0,"SQL, Data Analysis, Reinforcement Learning",Master,Data Science,University of Toronto
+Rose Nguyen,8.0,"SQL, Data Analysis, Python, TensorFlow",PhD,Data Science,York University
+Patricia Barrett,3.0,"R, Statistics, Java, Machine Learning",Master,Statistics,University of Ottawa
+Melanie Webb,6.0,"Cloud Computing, ML Ops, Computer Vision",Bachelor,AI,University of Waterloo
+Miranda Allen,9.0,"Cloud Computing, ML Ops",PhD,Computer Science,University of Toronto
+Thomas Porter,9.0,"Scikit-learn, Reinforcement Learning",PhD,Machine Learning,Queen's University
+Samantha Aguilar,2.0,"R, Statistics, Python, TensorFlow, Cloud Computing, ML Ops",PhD,AI,University of Ottawa
+Michael Gilbert,8.0,Scikit-learn,Bachelor,Computer Science,York University
+Shawn Lucas,9.0,"Java, Machine Learning",Bachelor,Software Engineering,Western University
+Lisa Reynolds,4.0,"SQL, Data Analysis",Associate,Software Engineering,York University
+Jeff Patterson,5.0,"Deep Learning, Cloud Computing, ML Ops",PhD,Machine Learning,York University
+Isabella Myers,6.0,"Reinforcement Learning, NLP, PyTorch, Computer Vision",Associate,Statistics,Queen's University
+Stephanie Garcia,7.0,"Python, TensorFlow, Cloud Computing, ML Ops, R, Statistics",Master,Computer Science,University of British Columbia
+Krista Adams,10.0,Computer Vision,Bachelor,AI,University of British Columbia
+Elizabeth Wells,2.0,"Python, TensorFlow, Scikit-learn, NLP, PyTorch",Master,Computer Science,York University
+Tyler Porter,1.0,"Java, Machine Learning, Reinforcement Learning, Cloud Computing, ML Ops",Bachelor,Computer Science,University of Alberta
+Tina Anderson,7.0,Deep Learning,PhD,Computer Science,University of Ottawa
+Tracy Ramirez,3.0,"Python, TensorFlow, SQL, Data Analysis, Java, Machine Learning",Associate,Computer Science,University of Toronto
+Erin Gilbert,3.0,"Python, TensorFlow, Deep Learning, Cloud Computing, ML Ops",Associate,Computer Science,Queen's University
+Walter Miller,2.0,"Deep Learning, NLP, PyTorch, Computer Vision",PhD,Computer Science,University of Ottawa
+Joshua Gonzalez,7.0,"Deep Learning, Computer Vision",Bachelor,AI,York University
+Erica Nunez,8.0,"Scikit-learn, R, Statistics",Master,Computer Science,University of Toronto
+Janet Carpenter,9.0,"Reinforcement Learning, SQL, Data Analysis, R, Statistics",PhD,Computer Science,University of Waterloo
+Benjamin Acosta,0.0,"Python, TensorFlow, Cloud Computing, ML Ops, Scikit-learn",Associate,Software Engineering,Western University
+Craig Carr,10.0,Deep Learning,Master,Computer Science,University of Toronto
+Aaron Parks,2.0,"R, Statistics, SQL, Data Analysis",PhD,Software Engineering,University of British Columbia
+Jennifer Gutierrez,8.0,"Computer Vision, Deep Learning",Master,AI,University of Ottawa
+Renee Mccarthy,3.0,"Java, Machine Learning, Cloud Computing, ML Ops, Python, TensorFlow",PhD,Software Engineering,University of Alberta
+Jerry Davis,3.0,"R, Statistics",Associate,Statistics,McMaster University
+Jasmine Perez,9.0,"Java, Machine Learning, Scikit-learn, NLP, PyTorch",Associate,Machine Learning,University of British Columbia
+Mr. Blake Williams,,"Computer Vision, SQL, Data Analysis",Bachelor,AI,University of Alberta
+Jason Bennett,4.0,"R, Statistics",PhD,AI,University of Ottawa
+Sandra Daniels,8.0,"Python, TensorFlow",Master,Computer Science,University of Toronto
+Thomas Butler,8.0,"Reinforcement Learning, Python, TensorFlow",Bachelor,Data Science,University of Toronto
+Brandon Rice,,"Scikit-learn, Python, TensorFlow, Cloud Computing, ML Ops",Master,Statistics,University of Alberta
+Gregory Brady,8.0,"Computer Vision, Cloud Computing, ML Ops",Bachelor,Machine Learning,University of Ottawa
+Angela Mosley,10.0,"Deep Learning, Cloud Computing, ML Ops, NLP, PyTorch",Bachelor,Software Engineering,University of Ottawa
+Wayne Moore,9.0,"Cloud Computing, ML Ops, Python, TensorFlow",Bachelor,Data Science,McGill University
+Michelle Smith,10.0,Computer Vision,PhD,Computer Science,Western University
+Tiffany Brandt,3.0,"NLP, PyTorch",Bachelor,Machine Learning,University of Toronto
+Kevin Bailey,8.0,"Deep Learning, SQL, Data Analysis",PhD,Data Science,McGill University
+David Ramirez,7.0,Computer Vision,Associate,Data Science,Western University
+Stacy Castaneda,10.0,Deep Learning,Master,Machine Learning,Queen's University
+Cheryl Bennett,7.0,"R, Statistics",PhD,Statistics,University of Toronto
+Jennifer Shah,8.0,"Reinforcement Learning, Deep Learning, SQL, Data Analysis",Master,AI,York University
+Cristina Long,8.0,"SQL, Data Analysis, Cloud Computing, ML Ops",Associate,Statistics,McGill University
+Kenneth Johnson,,"Python, TensorFlow, NLP, PyTorch",Associate,Computer Science,University of Toronto
+Laura Vasquez,,Deep Learning,Associate,AI,Western University
+Anthony Scott,2.0,"Cloud Computing, ML Ops, NLP, PyTorch, Scikit-learn",Associate,AI,York University
+Gary Vargas,6.0,"Scikit-learn, NLP, PyTorch",Bachelor,Data Science,Queen's University
+Rachel Beck,2.0,"NLP, PyTorch, Cloud Computing, ML Ops",Bachelor,Statistics,University of Waterloo
+Bethany Boone,7.0,"Computer Vision, SQL, Data Analysis, Reinforcement Learning",PhD,AI,University of Waterloo
+Kellie Scott,,"Python, TensorFlow, Java, Machine Learning",Master,Machine Learning,University of Alberta
+Michael Watkins,,Scikit-learn,Bachelor,AI,University of Toronto
+Jennifer Proctor,5.0,"R, Statistics, Reinforcement Learning",PhD,Statistics,University of British Columbia
+Taylor Lutz,6.0,"Cloud Computing, ML Ops, SQL, Data Analysis",Bachelor,Machine Learning,Queen's University
+Tiffany Garrett,,Scikit-learn,PhD,AI,University of Ottawa
+Matthew Johnson,6.0,"R, Statistics, Computer Vision",Associate,Data Science,York University
+Samantha Garrison,10.0,"Java, Machine Learning",Associate,Data Science,University of Toronto
+Adrian Boyd,,"Deep Learning, Computer Vision, Python, TensorFlow",Bachelor,Machine Learning,York University
+Mitchell Henry,1.0,"Python, TensorFlow, Scikit-learn, NLP, PyTorch",Associate,Data Science,McMaster University
+Mark Smith,,"NLP, PyTorch, Deep Learning",Bachelor,AI,University of British Columbia
+Joseph Ramirez,7.0,"NLP, PyTorch, SQL, Data Analysis",PhD,Data Science,University of British Columbia
+Lisa Villegas,8.0,"SQL, Data Analysis, NLP, PyTorch, Computer Vision",Bachelor,Computer Science,Western University
+James Mann,8.0,"Java, Machine Learning, SQL, Data Analysis, Python, TensorFlow",Associate,Data Science,Queen's University
+Peter Riley,2.0,"Scikit-learn, Reinforcement Learning, R, Statistics",Master,Machine Learning,Queen's University
+Mr. James Taylor II,10.0,Scikit-learn,Associate,Data Science,York University
+Nicole Shannon,2.0,"R, Statistics, Reinforcement Learning, Cloud Computing, ML Ops",PhD,Data Science,McMaster University
+Pamela Walls,4.0,"Scikit-learn, Java, Machine Learning",Associate,AI,University of Toronto
+Jason Marsh,3.0,"Deep Learning, Reinforcement Learning",Associate,Data Science,Western University
+Jennifer Vazquez,6.0,"Reinforcement Learning, Cloud Computing, ML Ops, NLP, PyTorch",Bachelor,Computer Science,Queen's University
+Amanda Nunez,4.0,"Deep Learning, Scikit-learn",Associate,Statistics,Western University
+Taylor Harrison,8.0,Deep Learning,Master,Statistics,University of British Columbia
+James Ross,0.0,"Computer Vision, Java, Machine Learning",PhD,Machine Learning,University of Toronto
+Jennifer Moreno,4.0,Reinforcement Learning,Master,Machine Learning,Western University
+Timothy Hebert,,"Computer Vision, R, Statistics",Associate,Statistics,University of Toronto
+Kelsey Taylor,8.0,"Python, TensorFlow",Bachelor,Data Science,McMaster University
+Kevin Kennedy,2.0,"SQL, Data Analysis",Bachelor,Statistics,University of British Columbia
+Kevin Irwin,8.0,"NLP, PyTorch, Cloud Computing, ML Ops",Bachelor,Software Engineering,Western University
+Tony Erickson,,"Python, TensorFlow, R, Statistics",Associate,Software Engineering,York University
+Cole Cook,4.0,"Python, TensorFlow, Computer Vision",Bachelor,Statistics,University of Ottawa
+Morgan Thompson,0.0,"Deep Learning, Cloud Computing, ML Ops",Master,Statistics,Queen's University
+Logan Mcmillan,8.0,"NLP, PyTorch, Python, TensorFlow, Reinforcement Learning",Bachelor,Data Science,Queen's University
+Eileen Harrington,10.0,"Cloud Computing, ML Ops, Java, Machine Learning, Computer Vision",PhD,Computer Science,McGill University
+Daniel West,3.0,"Cloud Computing, ML Ops",Associate,Software Engineering,McGill University
+Diane Williams,1.0,"Reinforcement Learning, Java, Machine Learning",PhD,AI,University of British Columbia
+Christopher Cook,0.0,"Cloud Computing, ML Ops, NLP, PyTorch",Associate,Machine Learning,University of Toronto
+Sandra Bennett,,"Python, TensorFlow, Java, Machine Learning, SQL, Data Analysis",Master,Software Engineering,University of Ottawa
+Leah Sparks,,"NLP, PyTorch, SQL, Data Analysis",Associate,Computer Science,Queen's University
+Tara Jarvis,3.0,"Computer Vision, Cloud Computing, ML Ops, Reinforcement Learning",Bachelor,Data Science,Western University
+Richard Silva,4.0,"Python, TensorFlow, Reinforcement Learning, Deep Learning",Master,Data Science,University of British Columbia
+Elizabeth Green,0.0,"Java, Machine Learning, Python, TensorFlow",Associate,Statistics,Queen's University
+John James,8.0,"Python, TensorFlow, SQL, Data Analysis, Cloud Computing, ML Ops",PhD,Computer Science,University of Alberta
+Ashley Carson,3.0,Scikit-learn,Bachelor,Software Engineering,University of Alberta
+Abigail Hoffman MD,10.0,"R, Statistics, Cloud Computing, ML Ops",Associate,Computer Science,University of Waterloo
+Bradley Smith,7.0,"NLP, PyTorch, R, Statistics",Bachelor,Computer Science,McMaster University
+Jason Harris,,"Deep Learning, NLP, PyTorch, Computer Vision",PhD,Statistics,University of Waterloo
+Lori Kim,0.0,"Computer Vision, Reinforcement Learning, R, Statistics",Associate,Software Engineering,York University
+Sharon Townsend,1.0,"NLP, PyTorch, SQL, Data Analysis, Cloud Computing, ML Ops",PhD,AI,Western University
+Jamie May,5.0,"Python, TensorFlow, Cloud Computing, ML Ops",PhD,Data Science,York University
+Cynthia Schneider,9.0,"Java, Machine Learning, SQL, Data Analysis",PhD,Statistics,McGill University
+Ashley Jones,0.0,"R, Statistics, Reinforcement Learning",Master,Machine Learning,York University
+Hannah Sandoval,3.0,"Python, TensorFlow, R, Statistics, Deep Learning",Master,Computer Science,McMaster University
+John Harper,,"SQL, Data Analysis, Scikit-learn, Cloud Computing, ML Ops",Bachelor,Machine Learning,Queen's University
+Kyle Patrick,7.0,Scikit-learn,PhD,Data Science,University of British Columbia
+Michael Price,5.0,"Deep Learning, Cloud Computing, ML Ops, Python, TensorFlow",PhD,Data Science,Queen's University
+Stephanie Bruce,0.0,"NLP, PyTorch, Java, Machine Learning, Computer Vision",Bachelor,Software Engineering,University of Alberta
+Brittany Peters MD,,"SQL, Data Analysis, R, Statistics",Bachelor,Statistics,York University
+Heather Moran,2.0,"Computer Vision, NLP, PyTorch",Associate,Statistics,Western University
+Elizabeth Nichols,9.0,"Reinforcement Learning, Scikit-learn, NLP, PyTorch",Master,Data Science,York University
+James Powers,,"Deep Learning, Scikit-learn, SQL, Data Analysis",Bachelor,Machine Learning,University of Alberta
+Sandra Gonzalez,10.0,"R, Statistics",Master,Data Science,McGill University
+Thomas Reynolds,1.0,"Deep Learning, NLP, PyTorch, SQL, Data Analysis",Associate,Computer Science,University of Alberta
+Joanna Kennedy,0.0,Reinforcement Learning,Bachelor,Machine Learning,McMaster University
+Megan Little,7.0,"Cloud Computing, ML Ops, Scikit-learn",PhD,Data Science,Queen's University
+Lauren Cervantes,2.0,"Reinforcement Learning, Cloud Computing, ML Ops, Java, Machine Learning",Bachelor,Statistics,University of Waterloo
+Gary Hardy,4.0,Deep Learning,Master,Computer Science,University of Alberta
+Angela Pineda,6.0,"Java, Machine Learning, SQL, Data Analysis, NLP, PyTorch",Bachelor,Statistics,Queen's University
+Mary Lucas,,"Deep Learning, Cloud Computing, ML Ops",Associate,Data Science,Western University
+Andrew May,6.0,"NLP, PyTorch, Deep Learning",Associate,AI,Western University
+Anne Young,,"Scikit-learn, SQL, Data Analysis, Reinforcement Learning",PhD,Software Engineering,University of Ottawa
+Kelly Berry,,Deep Learning,PhD,Software Engineering,University of Waterloo
+Jeremy Smith,7.0,"NLP, PyTorch, Reinforcement Learning",Master,Software Engineering,University of Alberta
+Justin Clayton,10.0,"Deep Learning, Python, TensorFlow, SQL, Data Analysis",Master,AI,University of Toronto
+Richard Rodriguez,9.0,"NLP, PyTorch, Cloud Computing, ML Ops",Master,Software Engineering,Queen's University
+Richard Orr,4.0,"Python, TensorFlow, Cloud Computing, ML Ops",PhD,Machine Learning,University of Toronto
+Christine Rivas,0.0,"NLP, PyTorch",Master,Computer Science,University of Waterloo
+Kathleen Owens,3.0,"Computer Vision, Java, Machine Learning, Cloud Computing, ML Ops",Bachelor,Computer Science,University of Ottawa
+Zachary Compton,3.0,"SQL, Data Analysis, R, Statistics, NLP, PyTorch",Associate,Statistics,University of Alberta
+John Cook,4.0,"NLP, PyTorch, Computer Vision, Deep Learning",Bachelor,Computer Science,McMaster University
+Erin Wilson,9.0,"Cloud Computing, ML Ops, Scikit-learn",Master,Machine Learning,McGill University
+Brittney Bruce,,"Computer Vision, R, Statistics",Master,Software Engineering,University of Waterloo
+Kimberly Williams,,Computer Vision,PhD,Computer Science,University of British Columbia
+Jeffrey Mckee,0.0,"Scikit-learn, NLP, PyTorch, R, Statistics",Bachelor,Machine Learning,York University
+Jennifer Thomas,0.0,"NLP, PyTorch, Reinforcement Learning, Python, TensorFlow",Bachelor,Software Engineering,McMaster University
+Lisa Rodriguez,3.0,"Deep Learning, Cloud Computing, ML Ops",Associate,Machine Learning,University of Toronto
+Brianna Smith,2.0,"Computer Vision, Java, Machine Learning, NLP, PyTorch",Bachelor,Statistics,Western University
+Seth Petty,10.0,"Deep Learning, Reinforcement Learning",Bachelor,Machine Learning,York University
+Kathryn Vega,3.0,"R, Statistics",PhD,Machine Learning,University of Toronto
+Priscilla Byrd,10.0,"NLP, PyTorch",Bachelor,Statistics,Queen's University
+Crystal Best,6.0,"Java, Machine Learning, Cloud Computing, ML Ops, Python, TensorFlow",Master,Data Science,University of Alberta
+Jerry Carpenter,6.0,"NLP, PyTorch, Java, Machine Learning",Bachelor,Data Science,University of Ottawa
+Jenny Griffin,6.0,"Java, Machine Learning",PhD,Machine Learning,McMaster University
+Emily White,,"NLP, PyTorch",Bachelor,Computer Science,McMaster University
+Willie Holt,8.0,"Deep Learning, SQL, Data Analysis",PhD,Software Engineering,Western University
+Jason Price,7.0,"Cloud Computing, ML Ops, Python, TensorFlow, Java, Machine Learning",Bachelor,Software Engineering,Queen's University
+Kathleen Blevins,5.0,"Python, TensorFlow",Master,AI,University of British Columbia
+Rachel Garner,,"Deep Learning, Java, Machine Learning",Associate,AI,McMaster University
+Desiree Bowen,3.0,"Cloud Computing, ML Ops",Bachelor,Statistics,McMaster University
+Jennifer Vega,10.0,"Scikit-learn, Computer Vision, SQL, Data Analysis",Bachelor,Machine Learning,McMaster University
+Amy Gonzalez,6.0,"Deep Learning, Java, Machine Learning, Reinforcement Learning",Master,AI,University of British Columbia
+Deborah Johnson,1.0,"Java, Machine Learning",Bachelor,Data Science,McGill University
+Sean Bush,1.0,"Python, TensorFlow, Deep Learning",Associate,Machine Learning,McGill University
+Jason Madden,10.0,"SQL, Data Analysis, Scikit-learn, R, Statistics",Bachelor,Data Science,Western University
+Mrs. Brenda White,9.0,"NLP, PyTorch",Master,Computer Science,University of Alberta
+Richard Burgess,5.0,"Reinforcement Learning, Python, TensorFlow, Cloud Computing, ML Ops",Bachelor,Data Science,Queen's University
+Timothy Cherry,9.0,"NLP, PyTorch, SQL, Data Analysis, Python, TensorFlow",PhD,Machine Learning,University of Toronto
+Jacqueline Farrell,,"Cloud Computing, ML Ops",Master,Software Engineering,McMaster University
+Paul Hawkins,3.0,"Scikit-learn, Cloud Computing, ML Ops",PhD,Computer Science,McMaster University
+Katherine Hall,0.0,"R, Statistics, Scikit-learn",Associate,AI,McMaster University
+Kimberly Horn,8.0,"Deep Learning, Scikit-learn",PhD,Statistics,Western University
+Katie Miller,8.0,"Reinforcement Learning, Deep Learning, Python, TensorFlow",Associate,AI,University of British Columbia
+John Collier,0.0,"R, Statistics, Deep Learning",Bachelor,Statistics,York University
+Patty Cohen,6.0,"Reinforcement Learning, Computer Vision, Java, Machine Learning",PhD,Data Science,University of British Columbia
+Gabriel Castaneda,3.0,Reinforcement Learning,PhD,AI,University of British Columbia
+Holly Guzman,9.0,Scikit-learn,Master,AI,Western University
